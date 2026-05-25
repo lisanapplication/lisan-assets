@@ -123,7 +123,7 @@
     "b1Cumle": {"en": "These days, more patients are accepting alternative treatments alongside conventional ones.", "tr": "Bugünlerde daha fazla hasta, geleneksel tedavilerin yanında alternatif tedavileri kabul ediyor."},
     "b2Cumle": {"en": "Nowadays, societies are accepting more diverse definitions of family.", "tr": "Günümüzde toplumlar aileye dair daha çeşitli tanımları kabul ediyor."},
     "c1Cumle": {"en": "These days, scientists are accepting new models to explain dark matter.", "tr": "Bugünlerde bilim insanları karanlık maddeyi açıklamak için yeni modelleri kabul ediyor."},
-    "c2Cumle": {"en": "The board will unconditionally accept the strategic proposals formulated by the software architecture team.", "tr": "Yönetim kurulu, yazılım mimarisi ekibi tarafından formüle edilen stratejik teklifleri kayıtsız şartsız kabul edecek."}
+    "c2Cumle": {"en": "The board will unconditionally accept the strategic proposals formulated by the software architecture team.", "tr": "Yönetim kurulu, yazılım mimarisi ekibi tarafından formüle edilen strategic teklifleri kayıtsız şartsız kabul edecek."}
   },
   {
     "id": "yds_verb_7",
@@ -151,7 +151,7 @@
     "tip": "KELIME",
     "hedefDil": "Accompany",
     "anaDil": "Eşlik Etmek",
-    "okunusFenetik": "e-kam-pe-ni",
+    "okunusFonetik": "e-kam-pe-ni",
     "cagrisimAnahtari": "Ek Kampanya",
     "sozlukAnlami": "Accompany: to go with someone or to be provided or exist at the same time as something. (Biriyle gitmek veya bir şeyle aynı anda mevcut olmak, eşlik etmek.)",
     "hafizaHikayesi": "Yeni çıkan akıllı televizyonun yanında ek kampanya broşürleri de kutunun içine girip ona yolculukta eşlik etmek üzere hazırlandı.",
@@ -370,7 +370,7 @@
     "basicCumle": {"en": "He had to admit his error.", "tr": "Hatasını kabul etmek zorunda kaldı."},
     "intermediateCumle": {"en": "More people admit the link between diet and mental health.", "tr": "Günümüzde daha fazla insan beslenme ile ruh sağlığı arasındaki bağlantıyı kabul ediyor."},
     "expertCumle": {"en": "So far, some researchers have admitted gaps in their previous methodologies.", "tr": "Şimdiye kadar bazı araştırmacılar önceki yöntemlerindeki eksiklikleri kabul ediyor."},
-    "a1`Cumle": {"en": "I admit that I was wrong.", "tr": "Hatalı olduğumu kabul ediyorum."},
+    "a1Cumle": {"en": "I admit that I was wrong.", "tr": "Hatalı olduğumu kabul ediyorum."},
     "a2Cumle": {"en": "He had to admit his error.", "tr": "Hatasını kabul etmek zorunda kaldı."},
     "b1Cumle": {"en": "More people admit the link between diet and mental health.", "tr": "Günümüzde daha fazla insan, beslenme ile ruh sağlığı arasındaki bağlantıyı kabul ediyor."},
     "b2Cumle": {"en": "Recently, leaders have admitted past policies failed to protect the environment.", "tr": "Son zamanlarda liderler, geçmiş politikaların çevreyi korumada başarısız olduğunu kabul ediyor."},
@@ -522,6 +522,6 @@
     "b1Cumle": {"en": "Ever since the rise of digital technology, telemedicine has allowed patients to consult doctors without leaving home.", "tr": "Dijital teknolojinin yükselişinden beri, uzaktan sağlık hizmetleri hastaların evden çıkmadan doktorlara danışmasına olanak tanıdı."},
     "b2Cumle": {"en": "For hundreds of years, work policies have evolved, and, today flexible work policies allow employees to maintain better work-life balance.", "tr": "Yüzlerce yıldır çalışma politikaları gelişiyor ve bugünlerde esnek çalışma politikaları, çalışanların daha iyi bir iş-yaşam dengesi sürdürmesine izin veriyor."},
     "c1Cumle": {"en": "So far, technological advances have allowed scientists to observe cells in real time.", "tr": "Şimdiye kadar teknolojik gelişmeler bilim insanlarının hücreleri gerçek zamanlı gözlemlemesine olanak tanıdı."},
-    "c2Cumle": {"en": "The transition to a highly modular UI lifecycle will allow developers to deploy localized themes seamlessly.", "tr": "Yüksek düzeyde modüler bir kullanıcı arayüzü yaşam döngüsüne geçiş, geliştiricilerin yerelleştirilmiş temaları sorunsuz bir şekilde dağıtmasına olanak tanıyacaktır."}
+    "c2Cumle": {"en": "The transition to a highly modular UI lifecycle will allow developers to deploy localized themes seamlessly.", "tr": "Yönergelere tam uyum sağlayan bu esnek kullanıcı arayüzü geçişi, geliştiricilerin yerelleştirilmiş temaları sorunsuz bir şekilde dağıtmasına olanak tanıyacaktır."}
   }
 ]
