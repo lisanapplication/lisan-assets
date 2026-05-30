@@ -1,1252 +1,1727 @@
 [
   {
-    "id": "w_admit",
-    "tip": "KELIME",
-    "hedefDil": "Admit",
-    "anaDil": "Kabul Etmek, İtiraf Etmek",
-    "okunusFonetik": "ed-mit",
-    "cagrisimAnahtari": "Edip ve MİT (Milli İstihbarat Teşkilatı)",
-    "sozlukAnlami": "Admit: to agree that something is true, especially unwillingly; or to confess. (Bir şeyin doğru olduğunu, özellikle de isteksizce kabul etmek veya itiraf etmek.)",
-    "hafizaHikayesi": "MİT ajanı olan Edip, arkadaşlarının ısrarıyla ajan olduğunu itiraf etti ve onlar da bu durumu şaşkınlıkla kabul ettiler.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/1Admit.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_admit",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Admit ",
+      "phonetic_tr": "ed-mit ",
+      "pos": "KELIME ",
+      "dict_info": "Admit: to agree that something is true, especially unwillingly; or to confess. (Bir şeyin doğru olduğunu, özellikle de isteksizce kabul etmek veya itiraf etmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "confess",
-        "accept",
-        "concede"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/1Admit.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Kabul Etmek, İtiraf Etmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Edip ve MİT (Milli İstihbarat Teşkilatı) ",
+        "story": "MİT ajanı olan Edip, arkadaşlarının ısrarıyla ajan olduğunu itiraf etti ve onlar da bu durumu şaşkınlıkla kabul ettiler. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "You must admit your mistake. ",
+          "tr": "Hatanı kabul etmelisin. "
+        },
+        {
+          "level": "A2",
+          "en": "He admitted that he took the money. ",
+          "tr": "Parayı aldığını itiraf etti. "
+        },
+        {
+          "level": "B1",
+          "en": "Lately, more patients have admitted that stress affects their physical well-being. ",
+          "tr": "Son zamanlarda daha fazla hasta, stresin fiziksel sağlıklarını etkilediğini itiraf ediyor. "
+        },
+        {
+          "level": "B2",
+          "en": "Sociologists admit that social media impacts personal identity. ",
+          "tr": "Sosyologlar günümüzde sosyal medyanın kişisel kimliğini etkilediğini kabul ediyor. "
+        },
+        {
+          "level": "C1",
+          "en": "Scientists have admitted over time that early hypotheses about climate were inaccurate. ",
+          "tr": "Bilim insanları zamanla, iklimle ilgili erken varsayımların doğru olmadığını kabul ettiler. "
+        },
+        {
+          "level": "C2",
+          "en": "Although they admit the risks, they refuse to cancel the space mission. ",
+          "tr": "Riskleri kabul etmelerine rağmen uzay görevini iptal etmeyi reddediyorlar. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "You must admit your mistake.",
-        "tr": "Hatanı kabul etmelisin."
-      },
-      "a2Cumle": {
-        "en": "He admitted that he took the money.",
-        "tr": "Parayı aldığını itiraf etti."
-      },
-      "b1Cumle": {
-        "en": "Lately, more patients have admitted that stress affects their physical well-being.",
-        "tr": "Son zamanlarda daha fazla hasta, stresin fiziksel sağlıklarını etkilediğini itiraf ediyor."
-      },
-      "b2Cumle": {
-        "en": "Sociologists admit that social media impacts personal identity.",
-        "tr": "Sosyologlar günümüzde sosyal medyanın kişisel kimliğini etkilediğini kabul ediyor."
-      },
-      "c1Cumle": {
-        "en": "Scientists have admitted over time that early hypotheses about climate were inaccurate.",
-        "tr": "Bilim insanları zamanla, iklimle ilgili erken varsayımların doğru olmadığını kabul ettiler."
-      },
-      "c2Cumle": {
-        "en": "Although they admit the risks, they refuse to cancel the space mission.",
-        "tr": "Riskleri kabul etmelerine rağmen uzay görevini iptal etmeyi reddediyorlar."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "confess ",
+        "accept ",
+        "concede "
+      ]
     }
   },
   {
-    "id": "w_abandon",
-    "tip": "KELIME",
-    "hedefDil": "Abandon",
-    "anaDil": "Terk Etmek, Bırakmak",
-    "okunusFonetik": "e-bân-dın",
-    "cagrisimAnahtari": "A bandon (Bando takımı)",
-    "sozlukAnlami": "Abandon: to leave a place or thing forever. (Bir yeri veya bir şeyi tamamen bırakmak, terk etmek.)",
-    "hafizaHikayesi": "A bando takımı konseri yarıda kesip konser alanını terk ediyor.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/2Abandon.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_abandon",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Abandon ",
+      "phonetic_tr": "e-bân-dın ",
+      "pos": "KELIME ",
+      "dict_info": "Abandon: to leave a place or thing forever. (Bir yeri veya bir şeyi tamamen bırakmak, terk etmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "leave",
-        "desert",
-        "forsake"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/2Abandon.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Terk Etmek, Bırakmak ",
+      "mnemonic": {
+        "phonetic_keyword": "A bandon (Bando takımı) ",
+        "story": "A bando takımı konseri yarıda kesip konser alanını terk ediyor. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Do not abandon your pets. ",
+          "tr": "Evcil hayvanlarınızı terk etmeyin. "
+        },
+        {
+          "level": "A2",
+          "en": "They had to abandon the car in the snow. ",
+          "tr": "Arabayı karda terk etmek zorunda kaldılar. "
+        },
+        {
+          "level": "B1",
+          "en": "The captain decided to abandon the sinking ship. ",
+          "tr": "Kaptan batan gemiyi terk etmeye karar verdi. "
+        },
+        {
+          "level": "B2",
+          "en": "For the last two decades, many rural communities have abandoned farming due to urban migration. ",
+          "tr": "Son yirmi yıldır birçok kırsal topluluk, şehir göçü nedeniyle çiftçiliği terk ediyor. "
+        },
+        {
+          "level": "C1",
+          "en": "Scientists today abandon older theories as new data emerges. ",
+          "tr": "Bilim insanları bugünlerde yeni veriler ortaya çıktıkça eski teorileri terk ediyor. "
+        },
+        {
+          "level": "C2",
+          "en": "The decision to abandon the project caused major financial losses. ",
+          "tr": "Projeyi durdurma kararı büyük finansal kayıplara neden oldu. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Do not abandon your pets.",
-        "tr": "Evcil hayvanlarınızı terk etmeyin."
-      },
-      "a2Cumle": {
-        "en": "They had to abandon the car in the snow.",
-        "tr": "Arabayı karda terk etmek zorunda kaldılar."
-      },
-      "b1Cumle": {
-        "en": "The captain decided to abandon the sinking ship.",
-        "tr": "Kaptan batan gemiyi terk etmeye karar verdi."
-      },
-      "b2Cumle": {
-        "en": "For the last two decades, many rural communities have abandoned farming due to urban migration.",
-        "tr": "Son yirmi yıldır birçok kırsal topluluk, şehir göçü nedeniyle çiftçiliği terk ediyor."
-      },
-      "c1Cumle": {
-        "en": "Scientists today abandon older theories as new data emerges.",
-        "tr": "Bilim insanları bugünlerde yeni veriler ortaya çıktıkça eski teorileri terk ediyor."
-      },
-      "c2Cumle": {
-        "en": "The decision to abandon the project caused major financial losses.",
-        "tr": "Projeyi durdurma kararı büyük finansal kayıplara neden oldu."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "leave ",
+        "desert ",
+        "forsake "
+      ]
     }
   },
   {
-    "id": "w_absorb",
-    "tip": "KELIME",
-    "hedefDil": "Absorb",
-    "anaDil": "Emmek, İçine Çekmek",
-    "okunusFonetik": "eb-zorb",
-    "cagrisimAnahtari": "Abiye Çorba",
-    "sozlukAnlami": "Absorb: to take in a liquid, gas or other substance from the surface or space around. (Sıvı, gaz veya başka bir maddeyi yüzeyden veya çevreden içine çekmek, emmek.)",
-    "hafizaHikayesi": "Düğünde abiye elbisesinin üzerine çorba dökülen kadın, kumaşın çorbayı hızla emmesini şaşkınlıkla izledi.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/3Absorb.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_absorb",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Absorb ",
+      "phonetic_tr": "eb-zorb ",
+      "pos": "KELIME ",
+      "dict_info": "Absorb: to take in a liquid, gas or other substance from the surface or space around. (Sıvı, gaz veya başka bir maddeyi yüzeyden veya çevreden içine çekmek, emmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "soak",
-        "suck",
-        "engross"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/3Absorb.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Emmek, İçine Çekmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Abiye Çorba ",
+        "story": "Düğünde abiye elbisesinin üzerine çorba dökülen kadın, kumaşın çorbayı hızla emmesini şaşkınlıkla izledi. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Trees absorb water. ",
+          "tr": "Ağaçlar su emer. "
+        },
+        {
+          "level": "A2",
+          "en": "Plants absorb water from the soil. ",
+          "tr": "Bitkiler topraktan su emer. "
+        },
+        {
+          "level": "B1",
+          "en": "Children have absorbed social norms from their environment throughout human history. ",
+          "tr": "Çocuklar insanlık tarihi boyunca sosyal normları çevrelerinden emerler. "
+        },
+        {
+          "level": "B2",
+          "en": "So far, solar panels have absorbed increasing amounts of energy efficiently. ",
+          "tr": "Şimdiye kadar güneş panelleri giderek artan miktarda enerjiyi verimli şekilde emmiştir. "
+        },
+        {
+          "level": "C1",
+          "en": "Today, researchers study how skin absorbs topical medications. ",
+          "tr": "Günümüzde araştırmacılar, cildin harici ilaçları nasıl emdiğini inceliyor. "
+        },
+        {
+          "level": "C2",
+          "en": "The black hole can absorb all light and matter passing nearby. ",
+          "tr": "Kara delik yakınından geçen tüm ışığı ve maddeyi içine çekebilir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Trees absorb water.",
-        "tr": "Ağaçlar su emer."
-      },
-      "a2Cumle": {
-        "en": "Plants absorb water from the soil.",
-        "tr": "Bitkiler topraktan su emer."
-      },
-      "b1Cumle": {
-        "en": "Children have absorbed social norms from their environment throughout human history.",
-        "tr": "Çocuklar insanlık tarihi boyunca sosyal normları çevrelerinden emerler."
-      },
-      "b2Cumle": {
-        "en": "So far, solar panels have absorbed increasing amounts of energy efficiently.",
-        "tr": "Şimdiye kadar güneş panelleri giderek artan miktarda enerjiyi verimli şekilde emmiştir."
-      },
-      "c1Cumle": {
-        "en": "Today, researchers study how skin absorbs topical medications.",
-        "tr": "Günümüzde araştırmacılar, cildin harici ilaçları nasıl emdiğini inceliyor."
-      },
-      "c2Cumle": {
-        "en": "The black hole can absorb all light and matter passing nearby.",
-        "tr": "Kara delik yakınından geçen tüm ışığı ve maddeyi içine çekebilir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "soak ",
+        "suck ",
+        "engross "
+      ]
     }
   },
   {
-    "id": "w_abuse",
-    "tip": "KELIME",
-    "hedefDil": "Abuse",
-    "anaDil": "İstismar Etmek, Kötüye Kullanmak",
-    "okunusFonetik": "eb-yuz",
-    "cagrisimAnahtari": "Ev ve Buz",
-    "sozlukAnlami": "Abuse: to use something for the wrong purpose in a way that is harmful or dishonest. (Bir şeyi yanlış amaçla, zararlı veya dürüst olmayan bir şekilde kötüye kullanmak, istismar etmek.)",
-    "hafizaHikayesi": "Ev sahibi kiracısına evde kaçak buz ürettiği için kızdı ve sistemi kötüye kullanmak ile onu istismar etmekle suçladı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/4Abuse.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_abuse",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Abuse ",
+      "phonetic_tr": "eb-yuz ",
+      "pos": "KELIME ",
+      "dict_info": "Abuse: to use something for the wrong purpose in a way that is harmful or dishonest. (Bir şeyi yanlış amaçla, zararlı veya dürüst olmayan bir şekilde kötüye kullanmak, istismar etmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "misuse",
-        "mistreat",
-        "exploit"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/4Abuse.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "İstismar Etmek, Kötüye Kullanmak ",
+      "mnemonic": {
+        "phonetic_keyword": "Ev ve Buz ",
+        "story": "Ev sahibi kiracısına evde kaçak buz ürettiği için kızdı ve sistemi kötüye kullanmak ile onu istismar etmekle suçladı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Do not abuse animals. ",
+          "tr": "Hayvanları istismar etmeyin. "
+        },
+        {
+          "level": "A2",
+          "en": "Do not abuse his kindness. ",
+          "tr": "Onun nezaketini kötüye kullanma. "
+        },
+        {
+          "level": "B1",
+          "en": "Throughout history, authoritarian regimes has abused power. ",
+          "tr": "Tarih boyunca otoriter rejimler gücü istismar ettiler. "
+        },
+        {
+          "level": "B2",
+          "en": "Today, experts discuss how the abuse of natural resources affects ecosystems. ",
+          "tr": "Günümüzde uzmanlar, doğal kaynakların kötüye kullanımının ekosistemleri nasıl etkilediğini tartışıyor. "
+        },
+        {
+          "level": "C1",
+          "en": "Lately, health professionals have warned that people increasingly abuse prescription drugs. ",
+          "tr": "Son zamanlarda sağlık uzmanları, insanların reçeteli ilaçları giderek daha fazla kötüye kullandığı konusunda uyarıyor. "
+        },
+        {
+          "level": "C2",
+          "en": "Those who consistently abuse corporate privileges face immediate termination. ",
+          "tr": "Şirket ayrıcalıklarını sürekli olarak kötüye kullananlar derhal işten çıkarılmayla karşı karşıya kalırlar. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Do not abuse animals.",
-        "tr": "Hayvanları istismar etmeyin."
-      },
-      "a2Cumle": {
-        "en": "Do not abuse his kindness.",
-        "tr": "Onun nezaketini kötüye kullanma."
-      },
-      "b1Cumle": {
-        "en": "Throughout history, authoritarian regimes has abused power.",
-        "tr": "Tarih boyunca otoriter rejimler gücü istismar ettiler."
-      },
-      "b2Cumle": {
-        "en": "Today, experts discuss how the abuse of natural resources affects ecosystems.",
-        "tr": "Günümüzde uzmanlar, doğal kaynakların kötüye kullanımının ekosistemleri nasıl etkilediğini tartışıyor."
-      },
-      "c1Cumle": {
-        "en": "Lately, health professionals have warned that people increasingly abuse prescription drugs.",
-        "tr": "Son zamanlarda sağlık uzmanları, insanların reçeteli ilaçları giderek daha fazla kötüye kullandığı konusunda uyarıyor."
-      },
-      "c2Cumle": {
-        "en": "Those who consistently abuse corporate privileges face immediate termination.",
-        "tr": "Şirket ayrıcalıklarını sürekli olarak kötüye kullananlar derhal işten çıkarılmayla karşı karşıya kalırlar."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "misuse ",
+        "mistreat ",
+        "exploit "
+      ]
     }
   },
   {
-    "id": "w_accelerate",
-    "tip": "KELIME",
-    "hedefDil": "Accelerate",
-    "anaDil": "Hızlandırmak",
-    "okunusFonetik": "ek-sel-e-reyt",
-    "cagrisimAnahtari": "Ak Sel ve Reyting",
-    "sozlukAnlami": "Accelerate: to happen or make something happen sooner or faster. (Bir şeyin daha erken veya daha hızlı gerçekleşmesini sağlamak, hızlandırmak.)",
-    "hafizaHikayesi": "Ak sel suları televizyon kanalını basınca ana haber bülteninin reyting artışını acayip hızlandırmak zorunda kaldılar.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/5Accelerate.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_accelerate",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Accelerate ",
+      "phonetic_tr": "ek-sel-e-reyt ",
+      "pos": "KELIME ",
+      "dict_info": "Accelerate: to happen or make something happen sooner or faster. (Bir şeyin daha erken veya daha hızlı gerçekleşmesini sağlamak, hızlandırmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "speed",
-        "hasten",
-        "expedite"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/5Accelerate.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Hızlandırmak ",
+      "mnemonic": {
+        "phonetic_keyword": "Ak Sel ve Reyting ",
+        "story": "Ak sel suları televizyon kanalını basınca ana haber bülteninin reyting artışını acayip hızlandırmak zorunda kaldılar. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "The runner wants to accelerate. ",
+          "tr": "Koşucu hızlanmak istiyor. "
+        },
+        {
+          "level": "A2",
+          "en": "The car started to accelerate. ",
+          "tr": "Araba hızlanmaya başladı. "
+        },
+        {
+          "level": "B1",
+          "en": "Recently, new drugs have accelerated the healing process of chronic wounds. ",
+          "tr": "Son zamanlarda yeni ilaçlar kronik yaraların iyileşme sürecini hızlandırdı. "
+        },
+        {
+          "level": "B2",
+          "en": "Technological advances have accelerated social change in the past century. ",
+          "tr": "Geçtiğimiz yüzyılda teknolojik gelişmeler toplumsal değişimi hızlandırdı. "
+        },
+        {
+          "level": "C1",
+          "en": "Since the 1990s, global warming has been accelerating due to human activity. ",
+          "tr": "1990'lardan bu yana, insan faaliyetleri nedeniyle küresel ısınma hızlanıyor. "
+        },
+        {
+          "level": "C2",
+          "en": "The corporate merger is expected to accelerate the development of groundbreaking software ecosystems. ",
+          "tr": "Şirket birleşmesinin çığır açan yazılım ekosistemlerinin gelişimini hızlandırması bekleniyor. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "The runner wants to accelerate.",
-        "tr": "Koşucu hızlanmak istiyor."
-      },
-      "a2Cumle": {
-        "en": "The car started to accelerate.",
-        "tr": "Araba hızlanmaya başladı."
-      },
-      "b1Cumle": {
-        "en": "Recently, new drugs have accelerated the healing process of chronic wounds.",
-        "tr": "Son zamanlarda yeni ilaçlar kronik yaraların iyileşme sürecini hızlandırdı."
-      },
-      "b2Cumle": {
-        "en": "Technological advances have accelerated social change in the past century.",
-        "tr": "Geçtiğimiz yüzyılda teknolojik gelişmeler toplumsal değişimi hızlandırdı."
-      },
-      "c1Cumle": {
-        "en": "Since the 1990s, global warming has been accelerating due to human activity.",
-        "tr": "1990'lardan bu yana, insan faaliyetleri nedeniyle küresel ısınma hızlanıyor."
-      },
-      "c2Cumle": {
-        "en": "The corporate merger is expected to accelerate the development of groundbreaking software ecosystems.",
-        "tr": "Şirket birleşmesinin çığır açan yazılım ekosistemlerinin gelişimini hızlandırması bekleniyor."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "speed ",
+        "hasten ",
+        "expedite "
+      ]
     }
   },
   {
-    "id": "w_accept",
-    "tip": "KELIME",
-    "hedefDil": "Accept",
-    "anaDil": "Kabul Etmek",
-    "okunusFonetik": "ek-sept",
-    "cagrisimAnahtari": "Ak Sepet",
-    "sozlukAnlami": "Accept: to agree to take something or to consider something as right. (Bir şeyi almayı kabul etmek veya bir şeyi doğru olarak değerlendirmek, onaylamak.)",
-    "hafizaHikayesi": "Gelin adayı damadın getirdiği ak sepet içindeki nişan hediyelerini mutlulukla kabul etmek kararı aldı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/6Accept.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_accept",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Accept ",
+      "phonetic_tr": "ek-sept ",
+      "pos": "KELIME ",
+      "dict_info": "Accept: to agree to take something or to consider something as right. (Bir şeyi almayı kabul etmek veya bir şeyi doğru olarak değerlendirmek, onaylamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "receive",
-        "welcome",
-        "approve"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/6Accept.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Kabul Etmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Ak Sepet ",
+        "story": "Gelin adayı damadın getirdiği ak sepet içindeki nişan hediyelerini mutlulukla kabul etmek kararı aldı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Please accept this gift. ",
+          "tr": "Lütfen bu hediyeyi kabul edin. "
+        },
+        {
+          "level": "A2",
+          "en": "She accepted the job offer. ",
+          "tr": "İş teklifini kabul etti. "
+        },
+        {
+          "level": "B1",
+          "en": "These days, more patients are accepting alternative treatments alongside conventional ones. ",
+          "tr": "Bugünlerde daha fazla hasta, geleneksel tedavilerin yanında alternatif tedavileri kabul ediyor. "
+        },
+        {
+          "level": "B2",
+          "en": "Nowadays, societies are accepting more diverse definitions of family. ",
+          "tr": "Günümüzde toplumlar aileye dair daha çeşitli tanımları kabul ediyor. "
+        },
+        {
+          "level": "C1",
+          "en": "These days, scientists are accepting new models to explain dark matter. ",
+          "tr": "Bugünlerde bilim insanları karanlık maddeyi açıklamak için yeni modelleri kabul ediyor. "
+        },
+        {
+          "level": "C2",
+          "en": "The board will unconditionally accept the strategic proposals formulated by the software architecture team. ",
+          "tr": "Yönetim kurulu, yazılım mimarisi ekibi tarafından formüle edilen strategic teklifleri kayıtsız şartsız kabul edecek. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Please accept this gift.",
-        "tr": "Lütfen bu hediyeyi kabul edin."
-      },
-      "a2Cumle": {
-        "en": "She accepted the job offer.",
-        "tr": "İş teklifini kabul etti."
-      },
-      "b1Cumle": {
-        "en": "These days, more patients are accepting alternative treatments alongside conventional ones.",
-        "tr": "Bugünlerde daha fazla hasta, geleneksel tedavilerin yanında alternatif tedavileri kabul ediyor."
-      },
-      "b2Cumle": {
-        "en": "Nowadays, societies are accepting more diverse definitions of family.",
-        "tr": "Günümüzde toplumlar aileye dair daha çeşitli tanımları kabul ediyor."
-      },
-      "c1Cumle": {
-        "en": "These days, scientists are accepting new models to explain dark matter.",
-        "tr": "Bugünlerde bilim insanları karanlık maddeyi açıklamak için yeni modelleri kabul ediyor."
-      },
-      "c2Cumle": {
-        "en": "The board will unconditionally accept the strategic proposals formulated by the software architecture team.",
-        "tr": "Yönetim kurulu, yazılım mimarisi ekibi tarafından formüle edilen strategic teklifleri kayıtsız şartsız kabul edecek."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "receive ",
+        "welcome ",
+        "approve "
+      ]
     }
   },
   {
-    "id": "w_accommodate",
-    "tip": "KELIME",
-    "hedefDil": "Accommodate",
-    "anaDil": "Yer Sağlamak, Uyum Sağlamak",
-    "okunusFonetik": "e-kom-e-deyt",
-    "cagrisimAnahtari": "Ek Oda ve Odat",
-    "sozlukAnlami": "Accommodate: to provide with a place to live or to fit in with wishes or needs. (Yaşayacak bir yer sağlamak veya isteklere/ihtiyaçlara uyum sağlamak.)",
-    "hafizaHikayesi": "Otel sahibi misafirlere ek oda hazırlayarak onlara yer sağlamak görevini yaptı ve taleplere uyum sağlamak için çalıştı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/7Accommodate.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_accommodate",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Accommodate ",
+      "phonetic_tr": "e-kom-e-deyt ",
+      "pos": "KELIME ",
+      "dict_info": "Accommodate: to provide with a place to live or to fit in with wishes or needs. (Yaşayacak bir yer sağlamak veya isteklere/ihtiyaçlara uyum sağlamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "house",
-        "shelter",
-        "adapt"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/7Accommodate.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Yer Sağlamak, Uyum Sağlamak ",
+      "mnemonic": {
+        "phonetic_keyword": "Ek Oda ve Odat ",
+        "story": "Otel sahibi misafirlere ek oda hazırlayarak onlara yer sağlamak görevini yaptı ve taleplere uyum sağlamak için çalıştı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "This room can accommodate two people. ",
+          "tr": "Bu oda iki kişiye yer sağlayabilir. "
+        },
+        {
+          "level": "A2",
+          "en": "The hotel can accommodate 500 guests. ",
+          "tr": "Otel 500 misafire yer sağlayabilir. "
+        },
+        {
+          "level": "B1",
+          "en": "Today, Hospitals accommodate more telemedicine services. ",
+          "tr": "Günümüzde hastaneler daha fazla uzaktan sağlık hizmetine yer sağlar. "
+        },
+        {
+          "level": "B2",
+          "en": "These days, education systems are accommodating students with diverse learning needs. ",
+          "tr": "Bugünlerde eğitim sistemleri, farklı öğrenme ihtiyaçlarına sahip öğrencilere uyum sağlıyor. "
+        },
+        {
+          "level": "C1",
+          "en": "Nowadays, research labs are accommodating AI-based tools for data analysis. ",
+          "tr": "Günümüzde araştırma laboratuvarları veri analizi için yapay zeka tabanlı araçlara yer sağlıyor. "
+        },
+        {
+          "level": "C2",
+          "en": "To achieve pristine visual fidelity, the layout manager must dynamically accommodate high-resolution vector assets. ",
+          "tr": "Yüksek görsel sadakat elde etmek için, düzen yöneticisi yüksek çözünürlüklü vektör varlıklarına dinamik olarak yer sağlamalıdır. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "This room can accommodate two people.",
-        "tr": "Bu oda iki kişiye yer sağlayabilir."
-      },
-      "a2Cumle": {
-        "en": "The hotel can accommodate 500 guests.",
-        "tr": "Otel 500 misafire yer sağlayabilir."
-      },
-      "b1Cumle": {
-        "en": "Today, Hospitals accommodate more telemedicine services.",
-        "tr": "Günümüzde hastaneler daha fazla uzaktan sağlık hizmetine yer sağlar."
-      },
-      "b2Cumle": {
-        "en": "These days, education systems are accommodating students with diverse learning needs.",
-        "tr": "Bugünlerde eğitim sistemleri, farklı öğrenme ihtiyaçlarına sahip öğrencilere uyum sağlıyor."
-      },
-      "c1Cumle": {
-        "en": "Nowadays, research labs are accommodating AI-based tools for data analysis.",
-        "tr": "Günümüzde araştırma laboratuvarları veri analizi için yapay zeka tabanlı araçlara yer sağlıyor."
-      },
-      "c2Cumle": {
-        "en": "To achieve pristine visual fidelity, the layout manager must dynamically accommodate high-resolution vector assets.",
-        "tr": "Yüksek görsel sadakat elde etmek için, düzen yöneticisi yüksek çözünürlüklü vektör varlıklarına dinamik olarak yer sağlamalıdır."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "house ",
+        "shelter ",
+        "adapt "
+      ]
     }
   },
   {
-    "id": "w_accompany",
-    "tip": "KELIME",
-    "hedefDil": "Accompany",
-    "anaDil": "Eşlik Etmek",
-    "okunusFonetik": "e-kam-pe-ni",
-    "cagrisimAnahtari": "Ek Kampanya",
-    "sozlukAnlami": "Accompany: to go with someone or to be provided or exist at the same time as something. (Biriyle gitmek veya bir şeyle aynı anda mevcut olmak, eşlik etmek.)",
-    "hafizaHikayesi": "Yeni çıkan akıllı televizyonun yanında ek kampanya broşürleri de kutunun içine girip ona yolculukta eşlik etmek üzere hazırlandı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/8Accompany.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_accompany",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Accompany ",
+      "phonetic_tr": "e-kam-pe-ni ",
+      "pos": "KELIME ",
+      "dict_info": "Accompany: to go with someone or to be provided or exist at the same time as something. (Biriyle gitmek veya bir şeyle aynı anda mevcut olmak, eşlik etmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "escort",
-        "attend",
-        "go with"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/8Accompany.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Eşlik Etmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Ek Kampanya ",
+        "story": "Yeni çıkan akıllı televizyonun yanında ek kampanya broşürleri de kutunun içine girip ona yolculukta eşlik etmek üzere hazırlandı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "I will accompany you to the shop. ",
+          "tr": "Dükkana kadar size eşlik edeceğim. "
+        },
+        {
+          "level": "A2",
+          "en": "Children must be accompanied by an adult. ",
+          "tr": "Çocuklara bir yetişkin eşlik etmelidir. "
+        },
+        {
+          "level": "B1",
+          "en": "Mental health issues increasingly accompany chronic illnesses. ",
+          "tr": "Bugünlerde ruh sağlığı sorunları, kronik hastalıklara giderek daha fazla eşlik eder. "
+        },
+        {
+          "level": "B2",
+          "en": "Currently, social change is often accompanied by political unrest. ",
+          "tr": "Günümüzde toplumsal değişime sıklıkla politik huzursuzluk eşlik ediyor. "
+        },
+        {
+          "level": "C1",
+          "en": "These days, high levels of CO2 are accompanying rising global temperatures. ",
+          "tr": "Bugünlerde yüksek CO2 seviyeleri, artan küresel sıcaklıklara eşlik ediyor. "
+        },
+        {
+          "level": "C2",
+          "en": "The transition to a multiplatform ecosystem must be accompanied by rigorous unit testing of UI components. ",
+          "tr": "Çoklu platform ekosistemine geçişe, kullanıcı arayüzü bileşenlerinin titiz birim testleri eşlik etmelidir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "I will accompany you to the shop.",
-        "tr": "Dükkana kadar size eşlik edeceğim."
-      },
-      "a2Cumle": {
-        "en": "Children must be accompanied by an adult.",
-        "tr": "Çocuklara bir yetişkin eşlik etmelidir."
-      },
-      "b1Cumle": {
-        "en": "Mental health issues increasingly accompany chronic illnesses.",
-        "tr": "Bugünlerde ruh sağlığı sorunları, kronik hastalıklara giderek daha fazla eşlik eder."
-      },
-      "b2Cumle": {
-        "en": "Currently, social change is often accompanied by political unrest.",
-        "tr": "Günümüzde toplumsal değişime sıklıkla politik huzursuzluk eşlik ediyor."
-      },
-      "c1Cumle": {
-        "en": "These days, high levels of CO2 are accompanying rising global temperatures.",
-        "tr": "Bugünlerde yüksek CO2 seviyeleri, artan küresel sıcaklıklara eşlik ediyor."
-      },
-      "c2Cumle": {
-        "en": "The transition to a multiplatform ecosystem must be accompanied by rigorous unit testing of UI components.",
-        "tr": "Çoklu platform ekosistemine geçişe, kullanıcı arayüzü bileşenlerinin titiz birim testleri eşlik etmelidir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "escort ",
+        "attend ",
+        "go with "
+      ]
     }
   },
   {
-    "id": "w_accomplish",
-    "tip": "KELIME",
-    "hedefDil": "Accomplish",
-    "anaDil": "Başarmak, Tamamlamak",
-    "okunusFonetik": "e-kam-pliş",
-    "cagrisimAnahtari": "Ekrem ve Parlatılmış",
-    "sozlukAnlami": "Accomplish: to finish something successfully or to achieve something. (Bir şeyi başarıyla bitirmek, elde etmek, başarmak.)",
-    "hafizaHikayesi": "Ekrem parlatılmış madalyasını eline alınca bu zorlu projeyi nihayet tamamlamak ve başarmak gururunu yaşadı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/9Accomplish.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_accomplish",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Accomplish ",
+      "phonetic_tr": "e-kam-pliş ",
+      "pos": "KELIME ",
+      "dict_info": "Accomplish: to finish something successfully or to achieve something. (Bir şeyi başarıyla bitirmek, elde etmek, başarmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "achieve",
-        "attain",
-        "complete"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/9Accomplish.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Başarmak, Tamamlamak ",
+      "mnemonic": {
+        "phonetic_keyword": "Ekrem ve Parlatılmış ",
+        "story": "Ekrem parlatılmış madalyasını eline alınca bu zorlu projeyi nihayet tamamlamak ve başarmak gururunu yaşadı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "I want to accomplish my homework. ",
+          "tr": "Ödevimi tamamlamak istiyorum. "
+        },
+        {
+          "level": "A2",
+          "en": "We can accomplish this task together. ",
+          "tr": "Bu görevi birlikte başarabiliriz. "
+        },
+        {
+          "level": "B1",
+          "en": "In recent years, surgeons accomplish complex procedures with minimally invasive techniques. ",
+          "tr": "Son yıllarda cerrahlar karmaşık işlemleri minimal invaziv tekniklerle başarıyor. "
+        },
+        {
+          "level": "B2",
+          "en": "Today, non-profit organizations accomplish more with digital fundraising tools. ",
+          "tr": "Bugünlerde kar amacı gütmeyen kuruluşlar dijital bağış araçlarıyla daha fazlasını başarıyor. "
+        },
+        {
+          "level": "C1",
+          "en": "Scientists have accomplished significant breakthroughs in renewable energy so far. ",
+          "tr": "Bilim insanları şimdiye kadar yenilenebilir enerjide önemli atılımlar başardı. "
+        },
+        {
+          "level": "C2",
+          "en": "Refactoring the entire skeletal animation system from ImGui to Avalonia UI was a major milestone to accomplish. ",
+          "tr": "Tüm iskelet animasyon sistemini ImGui'den Avalonia UI'a taşımak, tamamlanması gereken büyük bir dönüm noktasıydı. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "I want to accomplish my homework.",
-        "tr": "Ödevimi tamamlamak istiyorum."
-      },
-      "a2Cumle": {
-        "en": "We can accomplish this task together.",
-        "tr": "Bu görevi birlikte başarabiliriz."
-      },
-      "b1Cumle": {
-        "en": "In recent years, surgeons accomplish complex procedures with minimally invasive techniques.",
-        "tr": "Son yıllarda cerrahlar karmaşık işlemleri minimal invaziv tekniklerle başarıyor."
-      },
-      "b2Cumle": {
-        "en": "Today, non-profit organizations accomplish more with digital fundraising tools.",
-        "tr": "Bugünlerde kar amacı gütmeyen kuruluşlar dijital bağış araçlarıyla daha fazlasını başarıyor."
-      },
-      "c1Cumle": {
-        "en": "Scientists have accomplished significant breakthroughs in renewable energy so far.",
-        "tr": "Bilim insanları şimdiye kadar yenilenebilir enerjide önemli atılımlar başardı."
-      },
-      "c2Cumle": {
-        "en": "Refactoring the entire skeletal animation system from ImGui to Avalonia UI was a major milestone to accomplish.",
-        "tr": "Tüm iskelet animasyon sistemini ImGui'den Avalonia UI'a taşımak, tamamlanması gereken büyük bir dönüm noktasıydı."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "achieve ",
+        "attain ",
+        "complete "
+      ]
     }
   },
   {
-    "id": "w_accumulate",
-    "tip": "KELIME",
-    "hedefDil": "Accumulate",
-    "anaDil": "Biriktirmek, Toplamak",
-    "okunusFonetik": "e-kyu-mu-leyt",
-    "cagrisimAnahtari": "Akü ve Mühlet",
-    "sozlukAnlami": "Accumulate: to collect a large number of things over a period of time. (Zaman içinde çok sayıda şeyi bir araya getirmek, biriktirmek, toplamak.)",
-    "hafizaHikayesi": "Eski hurdacı dükkanında yüzlerce akü topladı ve mühlet bitene kadar daha fazlasını biriktirmek için söz verdi.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/10Accumulate.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_accumulate",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Accumulate ",
+      "phonetic_tr": "e-kyu-mu-leyt ",
+      "pos": "KELIME ",
+      "dict_info": "Accumulate: to collect a large number of things over a period of time. (Zaman içinde çok sayıda şeyi bir araya getirmek, biriktirmek, toplamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "gather",
-        "collect",
-        "pile up"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/10Accumulate.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Biriktirmek, Toplamak ",
+      "mnemonic": {
+        "phonetic_keyword": "Akü ve Mühlet ",
+        "story": "Eski hurdacı dükkanında yüzlerce akü topladı ve mühlet bitene kadar daha fazlasını biriktirmek için söz verdi. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "I want to accumulate coins. ",
+          "tr": "Madeni para biriktirmek istiyorum. "
+        },
+        {
+          "level": "A2",
+          "en": "Dust began to accumulate on the tables. ",
+          "tr": "Masaların üzerinde toz birikmeye başladı. "
+        },
+        {
+          "level": "B1",
+          "en": "Unhealthy habits accumulate negative effects on the human body. ",
+          "tr": "Zamanla sağlıksız alışkanlıklar insan vücudu üzerinde olumsuz etkiler biriktirir. "
+        },
+        {
+          "level": "B2",
+          "en": "For the last two decades, sociologists have accumulated data on urban migration patterns. ",
+          "tr": "Son yirmi yıldır sosyologlar kentsel göç kalıpları hakkında veri biriktirdi. "
+        },
+        {
+          "level": "C1",
+          "en": "Nowadays, climate researchers are accumulating large datasets from satellite observations. ",
+          "tr": "Günümüzde iklim araştırmacıları uydu gözlemlerinden büyük veri kümeleri topluyor. "
+        },
+        {
+          "level": "C2",
+          "en": "The recursive procedural terrain generator will accumulate memory overhead if data chunks are not properly cached. ",
+          "tr": "Özyinelemeli prosedürel arazi üreteci, veri parçaları düzgün şekilde önbelleğe alınmazsa bellek yükü biriktirecektir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "I want to accumulate coins.",
-        "tr": "Madeni para biriktirmek istiyorum."
-      },
-      "a2Cumle": {
-        "en": "Dust began to accumulate on the tables.",
-        "tr": "Masaların üzerinde toz birikmeye başladı."
-      },
-      "b1Cumle": {
-        "en": "Unhealthy habits accumulate negative effects on the human body.",
-        "tr": "Zamanla sağlıksız alışkanlıklar insan vücudu üzerinde olumsuz etkiler biriktirir."
-      },
-      "b2Cumle": {
-        "en": "For the last two decades, sociologists have accumulated data on urban migration patterns.",
-        "tr": "Son yirmi yıldır sosyologlar kentsel göç kalıpları hakkında veri biriktirdi."
-      },
-      "c1Cumle": {
-        "en": "Nowadays, climate researchers are accumulating large datasets from satellite observations.",
-        "tr": "Günümüzde iklim araştırmacıları uydu gözlemlerinden büyük veri kümeleri topluyor."
-      },
-      "c2Cumle": {
-        "en": "The recursive procedural terrain generator will accumulate memory overhead if data chunks are not properly cached.",
-        "tr": "Özyinelemeli prosedürel arazi üreteci, veri parçaları düzgün şekilde önbelleğe alınmazsa bellek yükü biriktirecektir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "gather ",
+        "collect ",
+        "pile up "
+      ]
     }
   },
   {
-    "id": "w_accuse",
-    "tip": "KELIME",
-    "hedefDil": "Accuse",
-    "anaDil": "Suçlamak",
-    "okunusFonetik": "e-kyuz",
-    "cagrisimAnahtari": "Akkuz (Ak Kuzu)",
-    "sozlukAnlami": "Accuse: to say that someone has done something morally wrong, illegal, or unkind. (Birinin ahlaki olarak yanlış, yasadışı veya kırıcı bir şey yaptığını söylemek, suçlamak.)",
-    "hafizaHikayesi": "Çoban, komşusunu tarladaki ak kuzu sürüsünü çalmak ve hırsızlık yapmakla haksız yere suçlamak kararı aldı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/11Accuse.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_accuse",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Accuse ",
+      "phonetic_tr": "e-kyuz ",
+      "pos": "KELIME ",
+      "dict_info": "Accuse: to say that someone has done something morally wrong, illegal, or unkind. (Birinin ahlaki olarak yanlış, yasadışı veya kırıcı bir şey yaptığını söylemek, suçlamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "charge",
-        "blame",
-        "indict"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/11Accuse.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Suçlamak ",
+      "mnemonic": {
+        "phonetic_keyword": "Akkuz (Ak Kuzu) ",
+        "story": "Çoban, komşusunu tarladaki ak kuzu sürüsünü çalmak ve hırsızlık yapmakla haksız yere suçlamak kararı aldı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Do not accuse your brother. ",
+          "tr": "Erkek kardeşini suçlama. "
+        },
+        {
+          "level": "A2",
+          "en": "Do not accuse me without proof. ",
+          "tr": "Beni kanıtsız suçlama. "
+        },
+        {
+          "level": "B1",
+          "en": "Patients often accuse food additives of causing allergic reactions. ",
+          "tr": "Bugünlerde hastalar sıkça gıda katkı maddelerini alerjik reaksiyonlara neden olmakla suçlar. "
+        },
+        {
+          "level": "B2",
+          "en": "Recently, activists have accused corporations of exploiting child labor in supply chains. ",
+          "tr": "Son zamanlarda aktivistler şirketleri tedarik zincirlerinde çocuk işçiliğini sömürmekle suçladı. "
+        },
+        {
+          "level": "C1",
+          "en": "Some critics accuse certain researchers of manipulating experimental results today. ",
+          "tr": "Bazı eleştirmenler bugün bazı araştırmacıları deney sonuçlarını manipüle etmekle suçlar. "
+        },
+        {
+          "level": "C2",
+          "en": "Academic rivalries often prompt scholars to openly accuse each other of plagiarism during international symposiums. ",
+          "tr": "Akademik rekabetler, akademisyenleri uluslararası sempozyumlar sırasında sık sık birbirlerini intihalle suçlamaya sevk eder. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Do not accuse your brother.",
-        "tr": "Erkek kardeşini suçlama."
-      },
-      "a2Cumle": {
-        "en": "Do not accuse me without proof.",
-        "tr": "Beni kanıtsız suçlama."
-      },
-      "b1Cumle": {
-        "en": "Patients often accuse food additives of causing allergic reactions.",
-        "tr": "Bugünlerde hastalar sıkça gıda katkı maddelerini alerjik reaksiyonlara neden olmakla suçlar."
-      },
-      "b2Cumle": {
-        "en": "Recently, activists have accused corporations of exploiting child labor in supply chains.",
-        "tr": "Son zamanlarda aktivistler şirketleri tedarik zincirlerinde çocuk işçiliğini sömürmekle suçladı."
-      },
-      "c1Cumle": {
-        "en": "Some critics accuse certain researchers of manipulating experimental results today.",
-        "tr": "Bazı eleştirmenler bugün bazı araştırmacıları deney sonuçlarını manipüle etmekle suçlar."
-      },
-      "c2Cumle": {
-        "en": "Academic rivalries often prompt scholars to openly accuse each other of plagiarism during international symposiums.",
-        "tr": "Akademik rekabetler, akademisyenleri uluslararası sempozyumlar sırasında sık sık birbirlerini intihalle suçlamaya sevk eder."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "charge ",
+        "blame ",
+        "indict "
+      ]
     }
   },
   {
-    "id": "w_achieve",
-    "tip": "KELIME",
-    "hedefDil": "Achieve",
-    "anaDil": "Elde Etmek, Başarmak",
-    "okunusFonetik": "e-çiv",
-    "cagrisimAnahtari": "Açıp ve Civciv",
-    "sozlukAnlami": "Achieve: to succeed in finishing something or causing something to happen, after a lot of effort. (Büyük bir çabanın ardından bir şeyi başarıyla bitirmek veya gerçekleştirmek, elde etmek, başarmak.)",
-    "hafizaHikayesi": "Kutuyu açıp içinden çıkan sevimli civciv maketini görünce çocuk yarışmadaki birincilik ödülünü elde etmek ve başarmak mutluluğunu yaşadı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/12Achieve.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_achieve",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Achieve ",
+      "phonetic_tr": "e-çiv ",
+      "pos": "KELIME ",
+      "dict_info": "Achieve: to succeed in finishing something or causing something to happen, after a lot of effort. (Büyük bir çabanın ardından bir şeyi başarıyla bitirmek veya gerçekleştirmek, elde etmek, başarmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "accomplish",
-        "attain",
-        "reach"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/12Achieve.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Elde Etmek, Başarmak ",
+      "mnemonic": {
+        "phonetic_keyword": "Açıp ve Civciv ",
+        "story": "Kutuyu açıp içinden çıkan sevimli civciv maketini görünce çocuk yarışmadaki birincilik ödülünü elde etmek ve başarmak mutluluğunu yaşadı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "I want to achieve my goals. ",
+          "tr": "Hedeflerimi başarmak istiyorum. "
+        },
+        {
+          "level": "A2",
+          "en": "You can achieve anything with hard work. ",
+          "tr": "Çok çalışarak her şeyi başarabilirsin. "
+        },
+        {
+          "level": "B1",
+          "en": "Until now, doctors have achieved high success rates in treating early-stage cancers. ",
+          "tr": "Bugüne kadar doktorlar erken evre kanserleri tedavi etmede yüksek başarı oranları elde ediyor. "
+        },
+        {
+          "level": "B2",
+          "en": "For the last two decades, educators have achieved better student engagement through interactive methods. ",
+          "tr": "Son yirmi yıldır eğitimciler etkileşimli yöntemlerle daha iyi öğrenci katılımı sağlıyor. "
+        },
+        {
+          "level": "C1",
+          "en": "Scientists achieve major discoveries in quantum computings. ",
+          "tr": "Bilim insanları kuantum bilişim alanında büyük keşifler yapar. "
+        },
+        {
+          "level": "C2",
+          "en": "The agricultural visual system employs deep learning to achieve pristine real-time weed classification. ",
+          "tr": "Tarımsal görsel sistem, bozulmamış gerçek zamanlı yabani ot sınıflandırması elde etmek için derin öğrenmeyi kullanır. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "I want to achieve my goals.",
-        "tr": "Hedeflerimi başarmak istiyorum."
-      },
-      "a2Cumle": {
-        "en": "You can achieve anything with hard work.",
-        "tr": "Çok çalışarak her şeyi başarabilirsin."
-      },
-      "b1Cumle": {
-        "en": "Until now, doctors have achieved high success rates in treating early-stage cancers.",
-        "tr": "Bugüne kadar doktorlar erken evre kanserleri tedavi etmede yüksek başarı oranları elde ediyor."
-      },
-      "b2Cumle": {
-        "en": "For the last two decades, educators have achieved better student engagement through interactive methods.",
-        "tr": "Son yirmi yıldır eğitimciler etkileşimli yöntemlerle daha iyi öğrenci katılımı sağlıyor."
-      },
-      "c1Cumle": {
-        "en": "Scientists achieve major discoveries in quantum computings.",
-        "tr": "Bilim insanları kuantum bilişim alanında büyük keşifler yapar."
-      },
-      "c2Cumle": {
-        "en": "The agricultural visual system employs deep learning to achieve pristine real-time weed classification.",
-        "tr": "Tarımsal görsel sistem, bozulmamış gerçek zamanlı yabani ot sınıflandırması elde etmek için derin öğrenmeyi kullanır."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "accomplish ",
+        "attain ",
+        "reach "
+      ]
     }
   },
   {
-    "id": "w_acknowledge",
-    "tip": "KELIME",
-    "hedefDil": "Acknowledge",
-    "anaDil": "Kabul Etmek, Onaylamak",
-    "okunusFonetik": "ek-nâ-lic",
-    "cagrisimAnahtari": "Ek bilgi ve İlaç",
-    "sozlukAnlami": "Acknowledge: to accept the truth or recognize the existence of something. (Gerçeği kabul etmek veya bir şeyin varlığını onaylamak, tanımak.)",
-    "hafizaHikayesi": "Doktor ek bilgi vererek kutudaki bu yeni ilaç kombinasyonunun hastaya iyi geldiğini ve şifasını resmen onaylamak ve kabul etmek kararı aldı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/13Acknowledge.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_acknowledge",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Acknowledge ",
+      "phonetic_tr": "ek-nâ-lic ",
+      "pos": "KELIME ",
+      "dict_info": "Acknowledge: to accept the truth or recognize the existence of something. (Gerçeği kabul etmek veya bir şeyin varlığını onaylamak, tanımak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "admit",
-        "recognize",
-        "accept"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/13Acknowledge.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Kabul Etmek, Onaylamak ",
+      "mnemonic": {
+        "phonetic_keyword": "Ek bilgi ve İlaç ",
+        "story": "Doktor ek bilgi vererek kutudaki bu yeni ilaç kombinasyonunun hastaya iyi geldiğini ve şifasını resmen onaylamak ve kabul etmek kararı aldı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Please acknowledge my message. ",
+          "tr": "Lütfen mesajımı aldığınızı kabul edin. "
+        },
+        {
+          "level": "A2",
+          "en": "He acknowledged his mistake. ",
+          "tr": "Hatasını kabul etti. "
+        },
+        {
+          "level": "B1",
+          "en": "Medical professionals acknowledge the role of mental health in chronic diseases. ",
+          "tr": "Sağlık uzmanları, ruh sağlığının kronik hastalıklardaki rolünü kabul eder. "
+        },
+        {
+          "level": "B2",
+          "en": "Recently, many governments have acknowledged historical injustices against minority groups. ",
+          "tr": "Son zamanlarda birçok hükümet azınlık gruplara karşı yapılan tarihsel adaletsizlikleri kabul etti. "
+        },
+        {
+          "level": "C1",
+          "en": "So far, researchers have acknowledged the limitations of current AI models. ",
+          "tr": "Şimdiye kadar araştırmacılar mevcut yapay zekâ modellerinin sınırlamalarını kabul etti. "
+        },
+        {
+          "level": "C2",
+          "en": "Fine arts faculty must thoroughly acknowledge how augmented reality transforms the traditional ontology of painting. ",
+          "tr": "Güzel sanatlar fakültesi, artırılmış gerçekliğin geleneksel resim ontolojisini nasıl dönüştürdüğünü bütünüyle kabul etmelidir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Please acknowledge my message.",
-        "tr": "Lütfen mesajımı aldığınızı kabul edin."
-      },
-      "a2Cumle": {
-        "en": "He acknowledged his mistake.",
-        "tr": "Hatasını kabul etti."
-      },
-      "b1Cumle": {
-        "en": "Medical professionals acknowledge the role of mental health in chronic diseases.",
-        "tr": "Sağlık uzmanları, ruh sağlığının kronik hastalıklardaki rolünü kabul eder."
-      },
-      "b2Cumle": {
-        "en": "Recently, many governments have acknowledged historical injustices against minority groups.",
-        "tr": "Son zamanlarda birçok hükümet azınlık gruplara karşı yapılan tarihsel adaletsizlikleri kabul etti."
-      },
-      "c1Cumle": {
-        "en": "So far, researchers have acknowledged the limitations of current AI models.",
-        "tr": "Şimdiye kadar araştırmacılar mevcut yapay zekâ modellerinin sınırlamalarını kabul etti."
-      },
-      "c2Cumle": {
-        "en": "Fine arts faculty must thoroughly acknowledge how augmented reality transforms the traditional ontology of painting.",
-        "tr": "Güzel sanatlar fakültesi, artırılmış gerçekliğin geleneksel resim ontolojisini nasıl dönüştürdüğünü bütünüyle kabul etmelidir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "admit ",
+        "recognize ",
+        "accept "
+      ]
     }
   },
   {
-    "id": "w_address",
-    "tip": "KELIME",
-    "hedefDil": "Address",
-    "anaDil": "Ele Almak, Çözümlemek",
-    "okunusFonetik": "e-dres",
-    "cagrisimAnahtari": "Adres",
-    "sozlukAnlami": "Address: to give attention to or deal with a matter or problem. (Bir konuya veya soruna dikkatini vermek, onu ele almak, çözümlemek.)",
-    "hafizaHikayesi": "Kayıp mektubun üzerindeki yanlış yazılan adres krizini çözmek için postane müdürü konuyu bizzat ele almak ve sorunları çözümlemek için devreye girdi.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/14Address.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_address",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Address ",
+      "phonetic_tr": "e-dres ",
+      "pos": "KELIME ",
+      "dict_info": "Address: to give attention to or deal with a matter or problem. (Bir konuya veya soruna dikkatini vermek, onu ele almak, çözümlemek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "handle",
-        "tackle",
-        "deal with"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/14Address.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Ele Almak, Çözümlemek ",
+      "mnemonic": {
+        "phonetic_keyword": "Adres ",
+        "story": "Kayıp mektubun üzerindeki yanlış yazılan adres krizini çözmek için postane müdürü konuyu bizzat ele almak ve sorunları çözümlemek için devreye girdi. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Please write your address. ",
+          "tr": "Lütfen adresinizi yazın. "
+        },
+        {
+          "level": "A2",
+          "en": "We need to address this problem immediately. ",
+          "tr": "Bu sorunu derhal ele almalıyız. "
+        },
+        {
+          "level": "B1",
+          "en": "Public health officials address vaccine hesitancy through education campaigns. ",
+          "tr": "Bugünlerde halk sağlığı yetkilileri, aşı tereddütünü eğitim kampanyalarıyla ele alıyor. "
+        },
+        {
+          "level": "B2",
+          "en": "For the last two decades, sociologists have addressed the issue of digital inequality. ",
+          "tr": "Son yirmi yıldır sosyologlar dijital eşitsizlik sorununu ele alıyor. "
+        },
+        {
+          "level": "C1",
+          "en": "Environmental scientists address climate change using data-driven models. ",
+          "tr": "Günümüzde çevre bilimciler iklim değişikliğini veri odaklı modellerle ele alıyor. "
+        },
+        {
+          "level": "C2",
+          "en": "The upcoming doctoral seminar will extensively address the fine-tuning problem in relation to modern astrophysics. ",
+          "tr": "Gelecek doktora semineri, modern astrofizikle ilişkili olarak ince ayar problemini kapsamlı bir şekilde ele alacaktır. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Please write your address.",
-        "tr": "Lütfen adresinizi yazın."
-      },
-      "a2Cumle": {
-        "en": "We need to address this problem immediately.",
-        "tr": "Bu sorunu derhal ele almalıyız."
-      },
-      "b1Cumle": {
-        "en": "Public health officials address vaccine hesitancy through education campaigns.",
-        "tr": "Bugünlerde halk sağlığı yetkilileri, aşı tereddütünü eğitim kampanyalarıyla ele alıyor."
-      },
-      "b2Cumle": {
-        "en": "For the last two decades, sociologists have addressed the issue of digital inequality.",
-        "tr": "Son yirmi yıldır sosyologlar dijital eşitsizlik sorununu ele alıyor."
-      },
-      "c1Cumle": {
-        "en": "Environmental scientists address climate change using data-driven models.",
-        "tr": "Günümüzde çevre bilimciler iklim değişikliğini veri odaklı modellerle ele alıyor."
-      },
-      "c2Cumle": {
-        "en": "The upcoming doctoral seminar will extensively address the fine-tuning problem in relation to modern astrophysics.",
-        "tr": "Gelecek doktora semineri, modern astrofizikle ilişkili olarak ince ayar problemini kapsamlı bir şekilde ele alacaktır."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "handle ",
+        "tackle ",
+        "deal with "
+      ]
     }
   },
   {
-    "id": "w_adjust",
-    "tip": "KELIME",
-    "hedefDil": "Adjust",
-    "anaDil": "Uyarlamak, Ayarlamak",
-    "okunusFonetik": "e-cast",
-    "cagrisimAnahtari": "O Cast (Oyuncu Kadrosu)",
-    "sozlukAnlami": "Adjust: to change something slightly, especially to make it more correct, effective, or suitable. (Bir şeyi daha doğru, etkili veya uygun hale getirmek için hafifçe değiştirmek, uyarlamak, ayarlamak.)",
-    "hafizaHikayesi": "Yönetmen o cast kadrosundaki oyuncuların boyunu sahneye uyarlamak için kamera tripodunu yeniden ayarlamak zorunda kaldı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/15Adjust.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_adjust",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Adjust ",
+      "phonetic_tr": "e-cast ",
+      "pos": "KELIME ",
+      "dict_info": "Adjust: to change something slightly, especially to make it more correct, effective, or suitable. (Bir şeyi daha doğru, etkili veya uygun hale getirmek için hafifçe değiştirmek, uyarlamak, ayarlamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "adapt",
-        "alter",
-        "modify"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/15Adjust.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Uyarlamak, Ayarlamak ",
+      "mnemonic": {
+        "phonetic_keyword": "O Cast (Oyuncu Kadrosu) ",
+        "story": "Yönetmen o cast kadrosundaki oyuncuların boyunu sahneye uyarlamak için kamera tripodunu yeniden ayarlamak zorunda kaldı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Adjust your chair, please. ",
+          "tr": "Sandalyenizi ayarlayın, lütfen. "
+        },
+        {
+          "level": "A2",
+          "en": "You can adjust the volume here. ",
+          "tr": "Ses seviyesini buradan ayarlayabilirsiniz. "
+        },
+        {
+          "level": "B1",
+          "en": "Lately, doctors have adjusted treatment plans based on genetic profiles. ",
+          "tr": "Son zamanlarda doktorlar tedavi planlarını genetik profillere göre ayarladı. "
+        },
+        {
+          "level": "B2",
+          "en": "Nowadays, teachers are adjusting their methods to suit diverse learning needs. ",
+          "tr": "Günümüzde öğretmenler yöntemlerini farklı öğrenme ihtiyaçlarına uyarlıyor. "
+        },
+        {
+          "level": "C1",
+          "en": "For the last two decades, engineers have adjusted algorithms to increase efficiency in machines. ",
+          "tr": "Son yirmi yıldır mühendisler makinelerdeki verimliliği artırmak için algoritmaları ayarladı. "
+        },
+        {
+          "level": "C2",
+          "en": "The dynamic UI engine can seamlessly adjust the color palette depending on whether light or dark theme is active. ",
+          "tr": "Dinamik kullanıcı arayüzü motoru, açık veya koyu temanın aktif olmasına bağlı olarak renk paletini sorunsuz bir şekilde ayarlayabilir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Adjust your chair, please.",
-        "tr": "Sandalyenizi ayarlayın, lütfen."
-      },
-      "a2Cumle": {
-        "en": "You can adjust the volume here.",
-        "tr": "Ses seviyesini buradan ayarlayabilirsiniz."
-      },
-      "b1Cumle": {
-        "en": "Lately, doctors have adjusted treatment plans based on genetic profiles.",
-        "tr": "Son zamanlarda doktorlar tedavi planlarını genetik profillere göre ayarladı."
-      },
-      "b2Cumle": {
-        "en": "Nowadays, teachers are adjusting their methods to suit diverse learning needs.",
-        "tr": "Günümüzde öğretmenler yöntemlerini farklı öğrenme ihtiyaçlarına uyarlıyor."
-      },
-      "c1Cumle": {
-        "en": "For the last two decades, engineers have adjusted algorithms to increase efficiency in machines.",
-        "tr": "Son yirmi yıldır mühendisler makinelerdeki verimliliği artırmak için algoritmaları ayarladı."
-      },
-      "c2Cumle": {
-        "en": "The dynamic UI engine can seamlessly adjust the color palette depending on whether light or dark theme is active.",
-        "tr": "Dinamik kullanıcı arayüzü motoru, açık veya koyu temanın aktif olmasına bağlı olarak renk paletini sorunsuz bir şekilde ayarlayabilir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "adapt ",
+        "alter ",
+        "modify "
+      ]
     }
   },
   {
-    "id": "w_administer",
-    "tip": "KELIME",
-    "hedefDil": "Administer",
-    "anaDil": "Uygulamak, Yönetmek",
-    "okunusFonetik": "ed-min-is-tır",
-    "cagrisimAnahtari": "Edip, Minibüs ve Steril",
-    "sozlukAnlami": "Administer: to manage the operation of something or to give a medical treatment. (Bir şeyin işleyişini yönetmek veya bir tıbbi tedaviyi, aşıyı uygulamak.)",
-    "hafizaHikayesi": "Şoför Edip minibüs hattını başarıyla yönetmek görevini yaparken, arkada yolculuk yapan doktor yolcuya steril bir ilk yardım kiti uygulamak durumunda kaldı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/16Administer.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_administer",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Administer ",
+      "phonetic_tr": "ed-min-is-tır ",
+      "pos": "KELIME ",
+      "dict_info": "Administer: to manage the operation of something or to give a medical treatment. (Bir şeyin işleyişini yönetmek veya bir tıbbi tedaviyi, aşıyı uygulamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "manage",
-        "direct",
-        "apply"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/16Administer.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Uygulamak, Yönetmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Edip, Minibüs ve Steril ",
+        "story": "Şoför Edip minibüs hattını başarıyla yönetmek görevini yaparken, arkada yolculuk yapan doktor yolcuya steril bir ilk yardım kiti uygulamak durumunda kaldı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "The nurse will administer the vaccine. ",
+          "tr": "Hemşire aşıyı uygulayacak. "
+        },
+        {
+          "level": "A2",
+          "en": "The team will administer the project. ",
+          "tr": "Ekip projeyi yönetecek. "
+        },
+        {
+          "level": "B1",
+          "en": "So far, healthcare workers have administered millions of vaccines worldwide. ",
+          "tr": "Şimdiye kadar sağlık çalışanları dünya genelinde milyonlarca aşı uyguladı. "
+        },
+        {
+          "level": "B2",
+          "en": "Nowadays, humanitarian organizations are administering aid programs in conflict zones. ",
+          "tr": "Günümüzde insani yardım kuruluşları çatışma bölgelerinde yardım programları yürütüyor. "
+        },
+        {
+          "level": "C1",
+          "en": "Researchers have administered standardized tests to collect cognitive data recently. ",
+          "tr": "Araştırmacılar son zamanlarda bilişsel veri toplamak için standart testler uyguluyor. "
+        },
+        {
+          "level": "C2",
+          "en": "The academic dean was designated to strictly administer the new curriculum criteria across all fine arts departments. ",
+          "tr": "Akademik dekan, tüm güzel sanatlar bölümlerinde yeni müfredat kriterlerini sıkı bir şekilde yönetmek üzere görevlendirildi. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "The nurse will administer the vaccine.",
-        "tr": "Hemşire aşıyı uygulayacak."
-      },
-      "a2Cumle": {
-        "en": "The team will administer the project.",
-        "tr": "Ekip projeyi yönetecek."
-      },
-      "b1Cumle": {
-        "en": "So far, healthcare workers have administered millions of vaccines worldwide.",
-        "tr": "Şimdiye kadar sağlık çalışanları dünya genelinde milyonlarca aşı uyguladı."
-      },
-      "b2Cumle": {
-        "en": "Nowadays, humanitarian organizations are administering aid programs in conflict zones.",
-        "tr": "Günümüzde insani yardım kuruluşları çatışma bölgelerinde yardım programları yürütüyor."
-      },
-      "c1Cumle": {
-        "en": "Researchers have administered standardized tests to collect cognitive data recently.",
-        "tr": "Araştırmacılar son zamanlarda bilişsel veri toplamak için standart testler uyguluyor."
-      },
-      "c2Cumle": {
-        "en": "The academic dean was designated to strictly administer the new curriculum criteria across all fine arts departments.",
-        "tr": "Akademik dekan, tüm güzel sanatlar bölümlerinde yeni müfredat kriterlerini sıkı bir şekilde yönetmek üzere görevlendirildi."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "manage ",
+        "direct ",
+        "apply "
+      ]
     }
   },
   {
-    "id": "w_admire",
-    "tip": "KELIME",
-    "hedefDil": "Admire",
-    "anaDil": "Hayran Kalmak, Takdir Etmek",
-    "okunusFonetik": "ed-mayır",
-    "cagrisimAnahtari": "Edip ve Mayın",
-    "sozlukAnlami": "Admire: to respect and approve of someone or something, or to look at something with pleasure. (Birine veya bir şeye saygı duymak ve onaylamak, hayran kalmak, takdir etmek.)",
-    "hafizaHikayesi": "Kahraman asker Edip mayın tarlasındaki tüm bombaları başarıyla imha edince köylüler onun bu cesaretine hayran kalmak ve onu takdir etmek sırasına girdiler.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/17Admire.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_admire",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Admire ",
+      "phonetic_tr": "ed-mayır ",
+      "pos": "KELIME ",
+      "dict_info": "Admire: to respect and approve of someone or something, or to look at something with pleasure. (Birine veya bir şeye saygı duymak ve onaylamak, hayran kalmak, takdir etmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "respect",
-        "esteem",
-        "adore"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/17Admire.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Hayran Kalmak, Takdir Etmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Edip ve Mayın ",
+        "story": "Kahraman asker Edip mayın tarlasındaki tüm bombaları başarıyla imha edince köylüler onun bu cesaretine hayran kalmak ve onu takdir etmek sırasına girdiler. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "I admire your beautiful house. ",
+          "tr": "Güzel evinize hayran kaldım. "
+        },
+        {
+          "level": "A2",
+          "en": "I really admire your courage. ",
+          "tr": "Cesaretine gerçekten hayranım. "
+        },
+        {
+          "level": "B1",
+          "en": "Patients admire doctors who communicate empathetically. ",
+          "tr": "Bugünlerde hastalar empatiyle iletişim kuran doktorlara hayran kalır. "
+        },
+        {
+          "level": "B2",
+          "en": "Students admire social reformers who fought for equality. ",
+          "tr": "Günümüzde öğrenciler eşitlik için mücadele eden sosyal reformculara hayranlık duyar. "
+        },
+        {
+          "level": "C1",
+          "en": "People admire scientists who make discoveries that change the world throughout human history. ",
+          "tr": "İnsanlar insanlık tarihi boyunca dünyayı değiştiren keşifler yapan bilim insanlarına hayranlık duyar. "
+        },
+        {
+          "level": "C2",
+          "en": "Art critics universally admire Rachel Rossin for her pioneering work in bringing virtual environments onto oil canvases. ",
+          "tr": "Sanat eleştirmenleri, sanal ortamları yağlı boya tuvallere taşıyan öncü çalışmalarından dolayı Rachel Rossin'e evrensel olarak hayranlık duyarlar. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "I admire your beautiful house.",
-        "tr": "Güzel evinize hayran kaldım."
-      },
-      "a2Cumle": {
-        "en": "I really admire your courage.",
-        "tr": "Cesaretine gerçekten hayranım."
-      },
-      "b1Cumle": {
-        "en": "Patients admire doctors who communicate empathetically.",
-        "tr": "Bugünlerde hastalar empatiyle iletişim kuran doktorlara hayran kalır."
-      },
-      "b2Cumle": {
-        "en": "Students admire social reformers who fought for equality.",
-        "tr": "Günümüzde öğrenciler eşitlik için mücadele eden sosyal reformculara hayranlık duyar."
-      },
-      "c1Cumle": {
-        "en": "People admire scientists who make discoveries that change the world throughout human history.",
-        "tr": "İnsanlar insanlık tarihi boyunca dünyayı değiştiren keşifler yapan bilim insanlarına hayranlık duyar."
-      },
-      "c2Cumle": {
-        "en": "Art critics universally admire Rachel Rossin for her pioneering work in bringing virtual environments onto oil canvases.",
-        "tr": "Sanat eleştirmenleri, sanal ortamları yağlı boya tuvallere taşıyan öncü çalışmalarından dolayı Rachel Rossin'e evrensel olarak hayranlık duyarlar."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "respect ",
+        "esteem ",
+        "adore "
+      ]
     }
   },
   {
-    "id": "w_admit_2",
-    "tip": "KELIME",
-    "hedefDil": "Admit",
-    "anaDil": "Kabul Etmek, İtiraf Etmek",
-    "okunusFonetik": "ed-mit",
-    "cagrisimAnahtari": "Edip ve MİT (Tekrarlanan Kelime)",
-    "sozlukAnlami": "Admit: to agree that something is true, especially unwillingly; or to confess. (Bir şeyin doğru olduğunu, özellikle de isteksizce kabul etmek veya itiraf etmek.)",
-    "hafizaHikayesi": "MİT ajanı Edip, gizli görev belgelerini kaybettiğini amirine itiraf etti ve cezasını sessizce kabul etmek durumunda kaldı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/18Admit.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_admit_2",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Admit ",
+      "phonetic_tr": "ed-mit ",
+      "pos": "KELIME ",
+      "dict_info": "Admit: to agree that something is true, especially unwillingly; or to confess. (Bir şeyin doğru olduğunu, özellikle de isteksizce kabul etmek veya itiraf etmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "confess",
-        "accept",
-        "concede"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/18Admit.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Kabul Etmek, İtiraf Etmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Edip ve MİT (Tekrarlanan Kelime) ",
+        "story": "MİT ajanı Edip, gizli görev belgelerini kaybettiğini amirine itiraf etti ve cezasını sessizce kabul etmek durumunda kaldı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "I admit that I was wrong. ",
+          "tr": "Hatalı olduğumu kabul ediyorum. "
+        },
+        {
+          "level": "A2",
+          "en": "He had to admit his error. ",
+          "tr": "Hatasını kabul etmek zorunda kaldı. "
+        },
+        {
+          "level": "B1",
+          "en": "More people admit the link between diet and mental health. ",
+          "tr": "Günümüzde daha fazla insan, beslenme ile ruh sağlığı arasındaki bağlantıyı kabul ediyor. "
+        },
+        {
+          "level": "B2",
+          "en": "Recently, leaders have admitted past policies failed to protect the environment. ",
+          "tr": "Son zamanlarda liderler, geçmiş politikaların çevreyi korumada başarısız olduğunu kabul ediyor. "
+        },
+        {
+          "level": "C1",
+          "en": "So far, some researchers have admitted gaps in their previous methodologies. ",
+          "tr": "Şimdiye kadar bazı araştırmacılar önceki yöntemlerindeki eksiklikleri kabul ediyor. "
+        },
+        {
+          "level": "C2",
+          "en": "The developers had to admit that the rendering of text assets within ImGui layout was thoroughly suboptimal. ",
+          "tr": "Geliştiriciler, ImGui düzeni içindeki metin varlıklarının işlenmesinin tamamen yetersiz olduğunu kabul etmek zorunda kaldılar. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "I admit that I was wrong.",
-        "tr": "Hatalı olduğumu kabul ediyorum."
-      },
-      "a2Cumle": {
-        "en": "He had to admit his error.",
-        "tr": "Hatasını kabul etmek zorunda kaldı."
-      },
-      "b1Cumle": {
-        "en": "More people admit the link between diet and mental health.",
-        "tr": "Günümüzde daha fazla insan, beslenme ile ruh sağlığı arasındaki bağlantıyı kabul ediyor."
-      },
-      "b2Cumle": {
-        "en": "Recently, leaders have admitted past policies failed to protect the environment.",
-        "tr": "Son zamanlarda liderler, geçmiş politikaların çevreyi korumada başarısız olduğunu kabul ediyor."
-      },
-      "c1Cumle": {
-        "en": "So far, some researchers have admitted gaps in their previous methodologies.",
-        "tr": "Şimdiye kadar bazı araştırmacılar önceki yöntemlerindeki eksiklikleri kabul ediyor."
-      },
-      "c2Cumle": {
-        "en": "The developers had to admit that the rendering of text assets within ImGui layout was thoroughly suboptimal.",
-        "tr": "Geliştiriciler, ImGui düzeni içindeki metin varlıklarının işlenmesinin tamamen yetersiz olduğunu kabul etmek zorunda kaldılar."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "confess ",
+        "accept ",
+        "concede "
+      ]
     }
   },
   {
-    "id": "w_adopt",
-    "tip": "KELIME",
-    "hedefDil": "Adopt",
-    "anaDil": "Benimsemek, Kabul Etmek",
-    "okunusFonetik": "e-dopt",
-    "cagrisimAnahtari": "Edip ve Kot",
-    "sozlukAnlami": "Adopt: to accept or start to use something new, or to legally take another person's child. (Yeni bir şeyi benimsemek/kullanmaya başlamak veya yasal olarak evlat edinmek.)",
-    "hafizaHikayesi": "Tasarımcı Edip yeni moda çizgili kot tasarımlarını koleksiyonuna katmayı ve bu tarzı hızla benimsemek fikrini kabul etmek kararı verdi.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/19Adopt.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_adopt",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Adopt ",
+      "phonetic_tr": "e-dopt ",
+      "pos": "KELIME ",
+      "dict_info": "Adopt: to accept or start to use something new, or to legally take another person's child. (Yeni bir şeyi benimsemek/kullanmaya başlamak veya yasal olarak evlat edinmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "embrace",
-        "take in",
-        "approve"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/19Adopt.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Benimsemek, Kabul Etmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Edip ve Kot ",
+        "story": "Tasarımcı Edip yeni moda çizgili kot tasarımlarını koleksiyonuna katmayı ve bu tarzı hızla benimsemek fikrini kabul etmek kararı verdi. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "They want to adopt a puppy. ",
+          "tr": "Bir köpek yavrusu sahiplenmek/evlat edinmek istiyorlar. "
+        },
+        {
+          "level": "A2",
+          "en": "The school decided to adopt a new policy. ",
+          "tr": "Okul yeni bir politikayı benimseme kararı aldı. "
+        },
+        {
+          "level": "B1",
+          "en": "Today, hospitals adopt electronic health record systems for better coordination. ",
+          "tr": "Günümüzde hastaneler daha iyi koordinasyon için elektronik sağlık kayıt sistemlerini benimser. "
+        },
+        {
+          "level": "B2",
+          "en": "For the last two decades, many countries have adopted inclusive education policies. ",
+          "tr": "Son yirmi yıldır birçok ülke kapsayıcı eğitim politikalarını benimsedi. "
+        },
+        {
+          "level": "C1",
+          "en": "Recently, laboratories have adopted AI-based methods to analyze data faster. ",
+          "tr": "Son zamanlarda laboratuvarlar verileri daha hızlı analiz etmek için yapay zekâ tabanlı yöntemleri benimsiyor. "
+        },
+        {
+          "level": "C2",
+          "en": "To implement robust dynamic mode features, the multiplatform app architecture must adopt clean state flow components. ",
+          "tr": "Sağlam dinamik mod özelliklerini uygulamak için, çoklu platform uygulama mimarisi temiz durum akış bileşenlerini benimsemelidir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "They want to adopt a puppy.",
-        "tr": "Bir köpek yavrusu sahiplenmek/evlat edinmek istiyorlar."
-      },
-      "a2Cumle": {
-        "en": "The school decided to adopt a new policy.",
-        "tr": "Okul yeni bir politikayı benimseme kararı aldı."
-      },
-      "b1Cumle": {
-        "en": "Today, hospitals adopt electronic health record systems for better coordination.",
-        "tr": "Günümüzde hastaneler daha iyi koordinasyon için elektronik sağlık kayıt sistemlerini benimser."
-      },
-      "b2Cumle": {
-        "en": "For the last two decades, many countries have adopted inclusive education policies.",
-        "tr": "Son yirmi yıldır birçok ülke kapsayıcı eğitim politikalarını benimsedi."
-      },
-      "c1Cumle": {
-        "en": "Recently, laboratories have adopted AI-based methods to analyze data faster.",
-        "tr": "Son zamanlarda laboratuvarlar verileri daha hızlı analiz etmek için yapay zekâ tabanlı yöntemleri benimsiyor."
-      },
-      "c2Cumle": {
-        "en": "To implement robust dynamic mode features, the multiplatform app architecture must adopt clean state flow components.",
-        "tr": "Sağlam dinamik mod özelliklerini uygulamak için, çoklu platform uygulama mimarisi temiz durum akış bileşenlerini benimsemelidir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "embrace ",
+        "take in ",
+        "approve "
+      ]
     }
   },
   {
-    "id": "w_aggravate",
-    "tip": "KELIME",
-    "hedefDil": "Aggravate",
-    "anaDil": "Kötüleşmek, Ağırlaştırmak",
-    "okunusFonetik": "eg-re-veyt",
-    "cagrisimAnahtari": "Ege ve Kravat",
-    "sozlukAnlami": "Aggravate: to make a disease or a bad situation worse. (Bir hastalığı veya kötü bir durumu daha da kötüleştirmek, ağırlaştırmak.)",
-    "hafizaHikayesi": "Ege boğazı ağrırken sıkı bir kravat takınca hastalığı tırmandı ve boğazındaki enfeksiyon durumunu ağırlaştırmak hatasını yaptı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/20Aggravate.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_aggravate",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Aggravate ",
+      "phonetic_tr": "eg-re-veyt ",
+      "pos": "KELIME ",
+      "dict_info": "Aggravate: to make a disease or a bad situation worse. (Bir hastalığı veya kötü bir durumu daha da kötüleştirmek, ağırlaştırmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "worsen",
-        "irritate",
-        "exacerbate"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/20Aggravate.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Kötüleşmek, Ağırlaştırmak ",
+      "mnemonic": {
+        "phonetic_keyword": "Ege ve Kravat ",
+        "story": "Ege boğazı ağrırken sıkı bir kravat takınca hastalığı tırmandı ve boğazındaki enfeksiyon durumunu ağırlaştırmak hatasını yaptı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Loud noise can aggravate my headache. ",
+          "tr": "Yüksek gürültü baş ağrımı kötüleştirebilir. "
+        },
+        {
+          "level": "A2",
+          "en": "Scratching will only aggravate the rash. ",
+          "tr": "Kaşımak sadece döküntüyü kötüleştirir. "
+        },
+        {
+          "level": "B1",
+          "en": "Poor air quality aggravates respiratory conditions like asthma. ",
+          "tr": "Kötü hava kalitesi, astım gibi solunum rahatsızlıklarını ağırlaştırır. "
+        },
+        {
+          "level": "B2",
+          "en": "Nowadays, misinformation on social media is aggravating political polarization. ",
+          "tr": "Günümüzde sosyal medyadaki yanlış bilgiler politik kutuplaşmayı kötüleştiriyor. "
+        },
+        {
+          "level": "C1",
+          "en": "In recent years, excessive greenhouse gas emissions have aggravated climate change. ",
+          "tr": "Son yıllarda aşırı sera gazı salımları iklim değişikliğini kötüleştirdi. "
+        },
+        {
+          "level": "C2",
+          "en": "Improper optimization of the main mesh loading loops will severely aggravate frame drops in the terrain renderer. ",
+          "tr": "Ana ağ yükleme döngülerinin uygunsuz şekilde optimize edilmesi, arazi işleyicideki kare düşüşlerini ciddi şekilde kötüleştirecektir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Loud noise can aggravate my headache.",
-        "tr": "Yüksek gürültü baş ağrımı kötüleştirebilir."
-      },
-      "a2Cumle": {
-        "en": "Scratching will only aggravate the rash.",
-        "tr": "Kaşımak sadece döküntüyü kötüleştirir."
-      },
-      "b1Cumle": {
-        "en": "Poor air quality aggravates respiratory conditions like asthma.",
-        "tr": "Kötü hava kalitesi, astım gibi solunum rahatsızlıklarını ağırlaştırır."
-      },
-      "b2Cumle": {
-        "en": "Nowadays, misinformation on social media is aggravating political polarization.",
-        "tr": "Günümüzde sosyal medyadaki yanlış bilgiler politik kutuplaşmayı kötüleştiriyor."
-      },
-      "c1Cumle": {
-        "en": "In recent years, excessive greenhouse gas emissions have aggravated climate change.",
-        "tr": "Son yıllarda aşırı sera gazı salımları iklim değişikliğini kötüleştirdi."
-      },
-      "c2Cumle": {
-        "en": "Improper optimization of the main mesh loading loops will severely aggravate frame drops in the terrain renderer.",
-        "tr": "Ana ağ yükleme döngülerinin uygunsuz şekilde optimize edilmesi, arazi işleyicideki kare düşüşlerini ciddi şekilde kötüleştirecektir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "worsen ",
+        "irritate ",
+        "exacerbate "
+      ]
     }
   },
   {
-    "id": "w_agree",
-    "tip": "KELIME",
-    "hedefDil": "Agree",
-    "anaDil": "Katılmak, Aynı Fikirde Olmak",
-    "okunusFonetik": "e-gri",
-    "cagrisimAnahtari": "Eğri",
-    "sozlukAnlami": "Agree: to have the same opinion, or to accept a suggestion or idea. (Aynı görüşe sahip olmak, bir öneriyi veya fikri kabul etmek, hemfikir olmak.)",
-    "hafizaHikayesi": "Mimar tahtaya eğri bir çizgi çizip 'Bence bu duvar böyle kıvrılmalı' deyince, mühendisler de ona katılmak kararı verdi ve aynı fikirde olmak üzere el sıkıştılar.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/21Agree.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_agree",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Agree ",
+      "phonetic_tr": "e-gri ",
+      "pos": "KELIME ",
+      "dict_info": "Agree: to have the same opinion, or to accept a suggestion or idea. (Aynı görüşe sahip olmak, bir öneriyi veya fikri kabul etmek, hemfikir olmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "concur",
-        "consent",
-        "harmony"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/21Agree.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Katılmak, Aynı Fikirde Olmak ",
+      "mnemonic": {
+        "phonetic_keyword": "Eğri ",
+        "story": "Mimar tahtaya eğri bir çizgi çizip 'Bence bu duvar böyle kıvrılmalı' deyince, mühendisler de ona katılmak kararı verdi ve aynı fikirde olmak üzere el sıkıştılar. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "I agree with you. ",
+          "tr": "Sana katılıyorum. "
+        },
+        {
+          "level": "A2",
+          "en": "We agree to start the project tomorrow. ",
+          "tr": "Projeye yarın başlamayı kabul ediyoruz/onaylıyoruz. "
+        },
+        {
+          "level": "B1",
+          "en": "Most nutritionists agree on the benefits of a high-fiber diet. ",
+          "tr": "Çoğu beslenme uzmanı yüksek lifli beslenmenin faydaları konusunda hemfikir. "
+        },
+        {
+          "level": "B2",
+          "en": "Researchers agree that early childhood education shapes long-term development. ",
+          "tr": "Araştırmacılar erken çocukluk eğitiminin uzun vadeli gelişimi şekillendirdiği konusunda hemfikir. "
+        },
+        {
+          "level": "C1",
+          "en": "So far, physicists have agreed on the standard model of particle physics. ",
+          "tr": "Şimdiye kadar fizikçiler parçacık fiziğinin standart modeli konusunda hemfikir oldu. "
+        },
+        {
+          "level": "C2",
+          "en": "Scholars generally agree that fine-tuning phenomena pose profound philosophical problems for modern cosmologists. ",
+          "tr": "Bilim insanları genellikle ince ayar fenomenlerinin modern kozmologlar için derin felsefi problemler oluşturduğu konusunda hemfikir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "I agree with you.",
-        "tr": "Sana katılıyorum."
-      },
-      "a2Cumle": {
-        "en": "We agree to start the project tomorrow.",
-        "tr": "Projeye yarın başlamayı kabul ediyoruz/onaylıyoruz."
-      },
-      "b1Cumle": {
-        "en": "Most nutritionists agree on the benefits of a high-fiber diet.",
-        "tr": "Çoğu beslenme uzmanı yüksek lifli beslenmenin faydaları konusunda hemfikir."
-      },
-      "b2Cumle": {
-        "en": "Researchers agree that early childhood education shapes long-term development.",
-        "tr": "Araştırmacılar erken çocukluk eğitiminin uzun vadeli gelişimi şekillendirdiği konusunda hemfikir."
-      },
-      "c1Cumle": {
-        "en": "So far, physicists have agreed on the standard model of particle physics.",
-        "tr": "Şimdiye kadar fizikçiler parçacık fiziğinin standart modeli konusunda hemfikir oldu."
-      },
-      "c2Cumle": {
-        "en": "Scholars generally agree that fine-tuning phenomena pose profound philosophical problems for modern cosmologists.",
-        "tr": "Bilim insanları genellikle ince ayar fenomenlerinin modern kozmologlar için derin felsefi problemler oluşturduğu konusunda hemfikir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "concur ",
+        "consent ",
+        "harmony "
+      ]
     }
   },
   {
-    "id": "w_alienate",
-    "tip": "KELIME",
-    "hedefDil": "Alienate",
-    "anaDil": "Yabancılaştırmak, Uzaklaştırmak",
-    "okunusFonetik": "ey-li-ye-neyt",
-    "cagrisimAnahtari": "Alien (Uzaylı) ve Net",
-    "sozlukAnlami": "Alienate: to cause someone to change from friendly to unfriendly or indifferent; or to make someone feel isolated. (Birinin dostça olan tutumunu düşmanca veya kayıtsız hale getirmek, yabancılaştırmak, uzaklaştırmak.)",
-    "hafizaHikayesi": "Kasabaya gelen alien (uzaylı) net bir şekilde konuşamayınca, köylüler korkup onu kendilerinden hızla uzaklaştırmak ve yabancılaştırmak yolunu seçtiler.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/22Alienate.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_alienate",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Alienate ",
+      "phonetic_tr": "ey-li-ye-neyt ",
+      "pos": "KELIME ",
+      "dict_info": "Alienate: to cause someone to change from friendly to unfriendly or indifferent; or to make someone feel isolated. (Birinin dostça olan tutumunu düşmanca veya kayıtsız hale getirmek, yabancılaştırmak, uzaklaştırmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "estrange",
-        "isolate",
-        "distance"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/22Alienate.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Yabancılaştırmak, Uzaklaştırmak ",
+      "mnemonic": {
+        "phonetic_keyword": "Alien (Uzaylı) ve Net ",
+        "story": "Kasabaya gelen alien (uzaylı) net bir şekilde konuşamayınca, köylüler korkup onu kendilerinden hızla uzaklaştırmak ve yabancılaştırmak yolunu seçtiler. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Do not alienate your peers. ",
+          "tr": "Akranlarınızı kendinizden uzaklaştırmayın. "
+        },
+        {
+          "level": "A2",
+          "en": "His cold behavior began to alienate his friends. ",
+          "tr": "Soğuk davranışları arkadaşlarını uzaklaştırmaya başladı. "
+        },
+        {
+          "level": "B1",
+          "en": "Judgmental language alienates people struggling with addiction. ",
+          "tr": "Yargılayıcı dil, bağımlılıkla mücadele eden insanları uzaklaştırır. "
+        },
+        {
+          "level": "B2",
+          "en": "Today, aggressive political discourse alienates moderate voters. ",
+          "tr": "Günümüzde saldırgan siyasi söylem ılımlı seçmenleri uzaklaştırıyor. "
+        },
+        {
+          "level": "C1",
+          "en": "Complex scientific jargon often alienates the general public. ",
+          "tr": "Karmaşık bilimsel terimler genellikle genel halkı uzaklaştırıyor. "
+        },
+        {
+          "level": "C2",
+          "en": "Overly complicated or cluttered UI elements will inevitably alienate mobile students seeking intuitive navigation paths. ",
+          "tr": "Aşırı karmaşık veya karmaşık kullanıcı arayüzü bileşenleri, sezgisel gezinme yolları arayan mobil öğrencileri kaçınılmaz olarak uzaklaştıracaktır. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Do not alienate your peers.",
-        "tr": "Akranlarınızı kendinizden uzaklaştırmayın."
-      },
-      "a2Cumle": {
-        "en": "His cold behavior began to alienate his friends.",
-        "tr": "Soğuk davranışları arkadaşlarını uzaklaştırmaya başladı."
-      },
-      "b1Cumle": {
-        "en": "Judgmental language alienates people struggling with addiction.",
-        "tr": "Yargılayıcı dil, bağımlılıkla mücadele eden insanları uzaklaştırır."
-      },
-      "b2Cumle": {
-        "en": "Today, aggressive political discourse alienates moderate voters.",
-        "tr": "Günümüzde saldırgan siyasi söylem ılımlı seçmenleri uzaklaştırıyor."
-      },
-      "c1Cumle": {
-        "en": "Complex scientific jargon often alienates the general public.",
-        "tr": "Karmaşık bilimsel terimler genellikle genel halkı uzaklaştırıyor."
-      },
-      "c2Cumle": {
-        "en": "Overly complicated or cluttered UI elements will inevitably alienate mobile students seeking intuitive navigation paths.",
-        "tr": "Aşırı karmaşık veya karmaşık kullanıcı arayüzü bileşenleri, sezgisel gezinme yolları arayan mobil öğrencileri kaçınılmaz olarak uzaklaştıracaktır."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "estrange ",
+        "isolate ",
+        "distance "
+      ]
     }
   },
   {
-    "id": "w_alleviate",
-    "tip": "KELIME",
-    "hedefDil": "Alleviate",
-    "anaDil": "Hafifletmek, Azaltmak",
-    "okunusFonetik": "e-li-vi-yeyt",
-    "cagrisimAnahtari": "Ali ve niyet (Niyet Etmek)",
-    "sozlukAnlami": "Alleviate: to make something bad such as pain or problems less severe. (Ağrı veya sorunlar gibi kötü bir şeyi daha az şiddetli hale getirmek, hafifletmek, azaltmak.)",
-    "hafizaHikayesi": "Hasta Ali, oruç tutmaya niyet etmek isteyince doktor ağrılarını hafifletmek ve acısını azaltmak için ona özel bir iğne yaptı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/23Alleviate.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_alleviate",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Alleviate ",
+      "phonetic_tr": "e-li-vi-yeyt ",
+      "pos": "KELIME ",
+      "dict_info": "Alleviate: to make something bad such as pain or problems less severe. (Ağrı veya sorunlar gibi kötü bir şeyi daha az şiddetli hale getirmek, hafifletmek, azaltmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "ease",
-        "relieve",
-        "soothe"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/23Alleviate.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Hafifletmek, Azaltmak ",
+      "mnemonic": {
+        "phonetic_keyword": "Ali ve niyet (Niyet Etmek) ",
+        "story": "Hasta Ali, oruç tutmaya niyet etmek isteyince doktor ağrılarını hafifletmek ve acısını azaltmak için ona özel bir iğne yaptı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Cold water can alleviate minor skin burns. ",
+          "tr": "Soğuk su hafif cilt yanıklarını hafifletebilir. "
+        },
+        {
+          "level": "A2",
+          "en": "The aspirin helped to alleviate her headache. ",
+          "tr": "Aspirin baş ağrısını hafifletmeye yardımcı oldu. "
+        },
+        {
+          "level": "B1",
+          "en": "Recently, therapists have used mindfulness to alleviate anxiety and stress. ",
+          "tr": "Son zamanlarda terapistler kaygı ve stresi hafifletmek için farkındalık uyguladı. "
+        },
+        {
+          "level": "B2",
+          "en": "Since the early 2000s, policy-makers have been developing strategies to alleviate urban poverty. ",
+          "tr": "2000'li yılların başından beri politika yapıcılar kentsel yoksulluğu hafifletmek için stratejiler geliştiriyor. "
+        },
+        {
+          "level": "C1",
+          "en": "Engineers design technologies that have alleviated the effects of natural disasters over time. ",
+          "tr": "Mühendisler zamanla doğal afetlerin etkilerini hafifleten teknolojiler tasarlar. "
+        },
+        {
+          "level": "C2",
+          "en": "Integrating an explicit local caching configuration can vastly alleviate network bottlenecks during peak dataset downloads. ",
+          "tr": "Belirli bir yerel önbellekleme yapılandırmasının entegre edilmesi, yoğun veri kümesi indirmeleri sırasında ağ darboğazlarını büyük ölçüde hafifletebilir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Cold water can alleviate minor skin burns.",
-        "tr": "Soğuk su hafif cilt yanıklarını hafifletebilir."
-      },
-      "a2Cumle": {
-        "en": "The aspirin helped to alleviate her headache.",
-        "tr": "Aspirin baş ağrısını hafifletmeye yardımcı oldu."
-      },
-      "b1Cumle": {
-        "en": "Recently, therapists have used mindfulness to alleviate anxiety and stress.",
-        "tr": "Son zamanlarda terapistler kaygı ve stresi hafifletmek için farkındalık uyguladı."
-      },
-      "b2Cumle": {
-        "en": "Since the early 2000s, policy-makers have been developing strategies to alleviate urban poverty.",
-        "tr": "2000'li yılların başından beri politika yapıcılar kentsel yoksulluğu hafifletmek için stratejiler geliştiriyor."
-      },
-      "c1Cumle": {
-        "en": "Engineers design technologies that have alleviated the effects of natural disasters over time.",
-        "tr": "Mühendisler zamanla doğal afetlerin etkilerini hafifleten teknolojiler tasarlar."
-      },
-      "c2Cumle": {
-        "en": "Integrating an explicit local caching configuration can vastly alleviate network bottlenecks during peak dataset downloads.",
-        "tr": "Belirli bir yerel önbellekleme yapılandırmasının entegre edilmesi, yoğun veri kümesi indirmeleri sırasında ağ darboğazlarını büyük ölçüde hafifletebilir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "ease ",
+        "relieve ",
+        "soothe "
+      ]
     }
   },
   {
-    "id": "w_allocate",
-    "tip": "KELIME",
-    "hedefDil": "Allocate",
-    "anaDil": "Tahsis Etmek, Ayırmak",
-    "okunusFonetik": "e-lo-keyt",
-    "cagrisimAnahtari": "Alo ve Paket (Alo Paket)",
-    "sozlukAnlami": "Allocate: to give something to someone as their share of a total amount, to use for a particular purpose. (Bir şeyi belirli bir amaçla kullanmak üzere toplam miktardan birine pay olarak vermek, tahsis etmek, ayırmak.)",
-    "hafizaHikayesi": "Restoran sahibi alo paket sipariş hattı kuryelerine bütçeden yeni motosikletler almak için büyük bir pay tahsis etmek ve ödenek ayırmak kararı aldı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/24Allocate.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_allocate",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Allocate ",
+      "phonetic_tr": "e-lo-keyt ",
+      "pos": "KELIME ",
+      "dict_info": "Allocate: to give something to someone as their share of a total amount, to use for a particular purpose. (Bir şeyi belirli bir amaçla kullanmak üzere toplam miktardan birine pay olarak vermek, tahsis etmek, ayırmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "assign",
-        "allot",
-        "distribute"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/24Allocate.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Tahsis Etmek, Ayırmak ",
+      "mnemonic": {
+        "phonetic_keyword": "Alo ve Paket (Alo Paket) ",
+        "story": "Restoran sahibi alo paket sipariş hattı kuryelerine bütçeden yeni motosikletler almak için büyük bir pay tahsis etmek ve ödenek ayırmak kararı aldı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Please allocate some time for reading. ",
+          "tr": "Lütfen okumak için biraz zaman ayırın. "
+        },
+        {
+          "level": "A2",
+          "en": "The company will allocate funds for the project. ",
+          "tr": "Şirket proje için fon tahsis edecek / ayıracak. "
+        },
+        {
+          "level": "B1",
+          "en": "Right now, governments are allocating more funds to mental health services. ",
+          "tr": "Şu anda hükümetler ruh sağlığı hizmetlerine daha fazla fon tahsis ediyor. "
+        },
+        {
+          "level": "B2",
+          "en": "For the last two decades, NGOs have allocated resources to support refugee education. ",
+          "tr": "Son yirmi yıldır sivil toplum kuruluşları mülteci eğitimi için kaynak ayırdı. "
+        },
+        {
+          "level": "C1",
+          "en": "Recently, research institutions have allocated larger budgets to space exploration projects. ",
+          "tr": "Son zamanlarda araştırma kurumları uzay keşif projelerine daha büyük bütçeler ayırıyor. "
+        },
+        {
+          "level": "C2",
+          "en": "To guarantee smooth performance, the layout runtime must efficiently allocate visual buffers to high-fidelity components. ",
+          "tr": "Sorunsuz performans sağlamak için, düzen çalışma zamanı, yüksek kaliteli bileşenlere görsel arabellekleri verimli bir şekilde tahsis etmelidir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Please allocate some time for reading.",
-        "tr": "Lütfen okumak için biraz zaman ayırın."
-      },
-      "a2Cumle": {
-        "en": "The company will allocate funds for the project.",
-        "tr": "Şirket proje için fon tahsis edecek / ayıracak."
-      },
-      "b1Cumle": {
-        "en": "Right now, governments are allocating more funds to mental health services.",
-        "tr": "Şu anda hükümetler ruh sağlığı hizmetlerine daha fazla fon tahsis ediyor."
-      },
-      "b2Cumle": {
-        "en": "For the last two decades, NGOs have allocated resources to support refugee education.",
-        "tr": "Son yirmi yıldır sivil toplum kuruluşları mülteci eğitimi için kaynak ayırdı."
-      },
-      "c1Cumle": {
-        "en": "Recently, research institutions have allocated larger budgets to space exploration projects.",
-        "tr": "Son zamanlarda araştırma kurumları uzay keşif projelerine daha büyük bütçeler ayırıyor."
-      },
-      "c2Cumle": {
-        "en": "To guarantee smooth performance, the layout runtime must efficiently allocate visual buffers to high-fidelity components.",
-        "tr": "Sorunsuz performans sağlamak için, düzen çalışma zamanı, yüksek kaliteli bileşenlere görsel arabellekleri verimli bir şekilde tahsis etmelidir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "assign ",
+        "allot ",
+        "distribute "
+      ]
     }
   },
   {
-    "id": "w_allow",
-    "tip": "KELIME",
-    "hedefDil": "Allow",
-    "anaDil": "İzin Vermek, Olanak Tanımak",
-    "okunusFonetik": "e-lav",
-    "cagrisimAnahtari": "El ve Av",
-    "sozlukAnlami": "Allow: to give permission for someone to do something, or to make something possible. (Birinin bir şey yapmasına izin vermek veya bir şeyi mümkün kılmak, olanak tanımak.)",
-    "hafizaHikayesi": "Ormancı el işaretiyle avcı ekibine bu bölgede avlanmaları için resmi olarak izin vermek ve onlara olanak tanımak işaretini yaptı.",
-    "aiImageUrl": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/25Allow.webp",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_allow",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Allow ",
+      "phonetic_tr": "e-lav ",
+      "pos": "KELIME ",
+      "dict_info": "Allow: to give permission for someone to do something, or to make something possible. (Birinin bir şey yapmasına izin vermek veya bir şeyi mümkün kılmak, olanak tanımak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "permit",
-        "let",
-        "enable"
+      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/25Allow.webp ",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "İzin Vermek, Olanak Tanımak ",
+      "mnemonic": {
+        "phonetic_keyword": "El ve Av ",
+        "story": "Ormancı el işaretiyle avcı ekibine bu bölgede avlanmaları için resmi olarak izin vermek ve onlara olanak tanımak işaretini yaptı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Please allow me to help you. ",
+          "tr": "Lütfen size yardım etmeme izin verin. "
+        },
+        {
+          "level": "A2",
+          "en": "My parents allow me to go out. ",
+          "tr": "Ailem dışarı çıkmama izin veriyor. "
+        },
+        {
+          "level": "B1",
+          "en": "Ever since the rise of digital technology, telemedicine has allowed patients to consult doctors without leaving home. ",
+          "tr": "Dijital teknolojinin yükselişinden beri, uzaktan sağlık hizmetleri hastaların evden çıkmadan doktorlara danışmasına olanak tanıdı. "
+        },
+        {
+          "level": "B2",
+          "en": "For hundreds of years, work policies have evolved, and, today flexible work policies allow employees to maintain better work-life balance. ",
+          "tr": "Yüzlerce yıldır çalışma politikaları gelişiyor ve bugünlerde esnek çalışma politikaları, çalışanların daha iyi bir iş-yaşam dengesi sürdürmesine izin veriyor. "
+        },
+        {
+          "level": "C1",
+          "en": "So far, technological advances have allowed scientists to observe cells in real time. ",
+          "tr": "Şimdiye kadar teknolojik gelişmeler bilim insanlarının hücreleri gerçek zamanlı gözlemlemesine olanak tanıdı. "
+        },
+        {
+          "level": "C2",
+          "en": "The transition to a highly modular UI lifecycle will allow developers to deploy localized themes seamlessly. ",
+          "tr": "Yönergelere tam uyum sağlayan bu esnek kullanıcı arayüzü geçişi, geliştiricilerin yerelleştirilmiş temaları sorunsuz bir şekilde dağıtmasına olanak tanıyacaktır. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Please allow me to help you.",
-        "tr": "Lütfen size yardım etmeme izin verin."
-      },
-      "a2Cumle": {
-        "en": "My parents allow me to go out.",
-        "tr": "Ailem dışarı çıkmama izin veriyor."
-      },
-      "b1Cumle": {
-        "en": "Ever since the rise of digital technology, telemedicine has allowed patients to consult doctors without leaving home.",
-        "tr": "Dijital teknolojinin yükselişinden beri, uzaktan sağlık hizmetleri hastaların evden çıkmadan doktorlara danışmasına olanak tanıdı."
-      },
-      "b2Cumle": {
-        "en": "For hundreds of years, work policies have evolved, and, today flexible work policies allow employees to maintain better work-life balance.",
-        "tr": "Yüzlerce yıldır çalışma politikaları gelişiyor ve bugünlerde esnek çalışma politikaları, çalışanların daha iyi bir iş-yaşam dengesi sürdürmesine izin veriyor."
-      },
-      "c1Cumle": {
-        "en": "So far, technological advances have allowed scientists to observe cells in real time.",
-        "tr": "Şimdiye kadar teknolojik gelişmeler bilim insanlarının hücreleri gerçek zamanlı gözlemlemesine olanak tanıdı."
-      },
-      "c2Cumle": {
-        "en": "The transition to a highly modular UI lifecycle will allow developers to deploy localized themes seamlessly.",
-        "tr": "Yönergelere tam uyum sağlayan bu esnek kullanıcı arayüzü geçişi, geliştiricilerin yerelleştirilmiş temaları sorunsuz bir şekilde dağıtmasına olanak tanıyacaktır."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "permit ",
+        "let ",
+        "enable "
+      ]
     }
   }
 ]
