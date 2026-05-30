@@ -1,1252 +1,1727 @@
 [
   {
-    "id": "w_alter",
-    "tip": "KELIME",
-    "hedefDil": "Alter",
-    "anaDil": "Değiştirmek",
-    "okunusFonetik": "ol-tır",
-    "cagrisimAnahtari": "Altar (Tarihi karakter / Sunak)",
-    "sozlukAnlami": "Alter: to change something, usually slightly, or to cause the characteristics of something to change. (Bir şeyi genellikle hafifçe değiştirmek veya bir şeyin özelliklerinin değişmesine neden olmak.)",
-    "hafizaHikayesi": "Altar, savaş stratejisini son anda değiştirmek zorunda kaldı ve tüm ordunun hücum planını baştan aşağı yeniledi.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_alter",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Alter ",
+      "phonetic_tr": "ol-tır ",
+      "pos": "KELIME ",
+      "dict_info": "Alter: to change something, usually slightly, or to cause the characteristics of something to change. (Bir şeyi genellikle hafifçe değiştirmek veya bir şeyin özelliklerinin değişmesine neden olmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "change",
-        "modify",
-        "adjust"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Değiştirmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Altar (Tarihi karakter / Sunak) ",
+        "story": "Altar, savaş stratejisini son anda değiştirmek zorunda kaldı ve tüm ordunun hücum planını baştan aşağı yeniledi. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "You cannot alter the text now. ",
+          "tr": "Metni şimdi değiştiremezsin. "
+        },
+        {
+          "level": "A2",
+          "en": "We had to alter our travel plans. ",
+          "tr": "Seyahat planlarımızı değiştirmek zorunda kaldık. "
+        },
+        {
+          "level": "B1",
+          "en": "The pandemic altered the way people interacted with each other. ",
+          "tr": "Pandemi, insanların birbirleriyle etkileşim biçimini değiştirdi. "
+        },
+        {
+          "level": "B2",
+          "en": "The tailors managed to alter the suit to fit him perfectly. ",
+          "tr": "Terziler takım elbiseyi ona tam uyacak şekilde değiştirmeyi/uyarlamayı başardılar. "
+        },
+        {
+          "level": "C1",
+          "en": "The surgeon altered the procedure to minimize complications. ",
+          "tr": "Cerrah, komplikasyonları en aza indirmek için prosedürü değiştirdi. "
+        },
+        {
+          "level": "C2",
+          "en": "The chemical reaction radically altered the structural matrix of the molecule. ",
+          "tr": "Kimyasal reaksiyon, molekülün yapısal matrisini kökten değiştirdi. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "You cannot alter the text now.",
-        "tr": "Metni şimdi değiştiremezsin."
-      },
-      "a2Cumle": {
-        "en": "We had to alter our travel plans.",
-        "tr": "Seyahat planlarımızı değiştirmek zorunda kaldık."
-      },
-      "b1Cumle": {
-        "en": "The pandemic altered the way people interacted with each other.",
-        "tr": "Pandemi, insanların birbirleriyle etkileşim biçimini değiştirdi."
-      },
-      "b2Cumle": {
-        "en": "The tailors managed to alter the suit to fit him perfectly.",
-        "tr": "Terziler takım elbiseyi ona tam uyacak şekilde değiştirmeyi/uyarlamayı başardılar."
-      },
-      "c1Cumle": {
-        "en": "The surgeon altered the procedure to minimize complications.",
-        "tr": "Cerrah, komplikasyonları en aza indirmek için prosedürü değiştirdi."
-      },
-      "c2Cumle": {
-        "en": "The chemical reaction radically altered the structural matrix of the molecule.",
-        "tr": "Kimyasal reaksiyon, molekülün yapısal matrisini kökten değiştirdi."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "change ",
+        "modify ",
+        "adjust "
+      ]
     }
   },
   {
-    "id": "w_appear",
-    "tip": "KELIME",
-    "hedefDil": "Appear",
-    "anaDil": "Görünmek, Ortaya Çıkmak",
-    "okunusFonetik": "e-piyır",
-    "cagrisimAnahtari": "E-Aperatif (Dijital Atıştırmalık)",
-    "sozlukAnlami": "Appear: to start to be seen or to exist, or to seem in a particular way. (Görülmeye veya var olmaya başlamak, ya da belirli bir şekilde görünmek/gözükmek.)",
-    "hafizaHikayesi": "Uygulamada bir anda yeni bir e-aperatif ikonu belirdi ve ekranda lezzetli bir menü olarak ortaya çıktı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_appear",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Appear ",
+      "phonetic_tr": "e-piyır ",
+      "pos": "KELIME ",
+      "dict_info": "Appear: to start to be seen or to exist, or to seem in a particular way. (Görülmeye veya var olmaya başlamak, ya da belirli bir şekilde görünmek/gözükmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "seem",
-        "emerge",
-        "look"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Görünmek, Ortaya Çıkmak ",
+      "mnemonic": {
+        "phonetic_keyword": "E-Aperatif (Dijital Atıştırmalık) ",
+        "story": "Uygulamada bir anda yeni bir e-aperatif ikonu belirdi ve ekranda lezzetli bir menü olarak ortaya çıktı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "He did not appear at the party. ",
+          "tr": "Partide görünmedi. "
+        },
+        {
+          "level": "A2",
+          "en": "A new star appeared in the sky. ",
+          "tr": "Gökyüzünde yeni bir yıldız göründü. "
+        },
+        {
+          "level": "B1",
+          "en": "Symptoms of the disease appeared within 24 hours. ",
+          "tr": "Hastalığın belirtileri 24 saat içinde ortaya çıktı. "
+        },
+        {
+          "level": "B2",
+          "en": "A new political leader appeared after the revolution. ",
+          "tr": "Devrimden sonra yeni bir siyasi lider ortaya çıktı. "
+        },
+        {
+          "level": "C1",
+          "en": "The stars appeared brighter through the new telescope. ",
+          "tr": "Yeni teleskopla yıldızlar daha parlak göründü. "
+        },
+        {
+          "level": "C2",
+          "en": "New structural anomalies appear in the canvas layer when analyzed under specialized light. ",
+          "tr": "Özel ışık altında analiz edildiğinde, tuval katmanında yeni yapısal anomaliler ortaya çıkıyor. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "He did not appear at the party.",
-        "tr": "Partide görünmedi."
-      },
-      "a2Cumle": {
-        "en": "A new star appeared in the sky.",
-        "tr": "Gökyüzünde yeni bir yıldız göründü."
-      },
-      "b1Cumle": {
-        "en": "Symptoms of the disease appeared within 24 hours.",
-        "tr": "Hastalığın belirtileri 24 saat içinde ortaya çıktı."
-      },
-      "b2Cumle": {
-        "en": "A new political leader appeared after the revolution.",
-        "tr": "Devrimden sonra yeni bir siyasi lider ortaya çıktı."
-      },
-      "c1Cumle": {
-        "en": "The stars appeared brighter through the new telescope.",
-        "tr": "Yeni teleskopla yıldızlar daha parlak göründü."
-      },
-      "c2Cumle": {
-        "en": "New structural anomalies appear in the canvas layer when analyzed under specialized light.",
-        "tr": "Özel ışık altında analiz edildiğinde, tuval katmanında yeni yapısal anomaliler ortaya çıkıyor."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "seem ",
+        "emerge ",
+        "look "
+      ]
     }
   },
   {
-    "id": "w_apply",
-    "tip": "KELIME",
-    "hedefDil": "Apply",
-    "anaDil": "Başvurmak, Uygulamak",
-    "okunusFonetik": "ep-lay",
-    "cagrisimAnahtari": "Eap (App/Uygulama) ve Ay",
-    "sozlukAnlami": "Apply: to make a formal request for something, or to use a method, formula, or substance. (Bir şey için resmi istekte bulunmak, başvurmak veya bir yöntem, formül ya da maddeyi kullanmak/uygulamak.)",
-    "hafizaHikayesi": "Yeni aydan arsa almak isteyen adam, resmi eap üzerinden sisteme girerek tapu için başvurmak ve formülü uygulamak adımlarını takip etti.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_apply",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Apply ",
+      "phonetic_tr": "ep-lay ",
+      "pos": "KELIME ",
+      "dict_info": "Apply: to make a formal request for something, or to use a method, formula, or substance. (Bir şey için resmi istekte bulunmak, başvurmak veya bir yöntem, formül ya da maddeyi kullanmak/uygulamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "request",
-        "employ",
-        "implement"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Başvurmak, Uygulamak ",
+      "mnemonic": {
+        "phonetic_keyword": "Eap (App/Uygulama) ve Ay ",
+        "story": "Yeni aydan arsa almak isteyen adam, resmi eap üzerinden sisteme girerek tapu için başvurmak ve formülü uygulamak adımlarını takip etti. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Apply this cream to your skin. ",
+          "tr": "Bu kremi cildinize uygulayın. "
+        },
+        {
+          "level": "A2",
+          "en": "You can apply for the job online. ",
+          "tr": "İşe internet üzerinden başvurabilirsiniz. "
+        },
+        {
+          "level": "B1",
+          "en": "The nurse applied the bandage carefully to the wound. ",
+          "tr": "Hemşire bandajı yaraya dikkatlice uyguladı. "
+        },
+        {
+          "level": "B2",
+          "en": "She applied for a scholarship to study abroad. ",
+          "tr": "Yurtdışında okumak için burs başvurusunda bulundu. "
+        },
+        {
+          "level": "C1",
+          "en": "The researcher applied the formula to calculate the speed. ",
+          "tr": "Araştırmacı hızı hesaplamak için formülü uyguladı. "
+        },
+        {
+          "level": "C2",
+          "en": "To achieve crisp UI lines, the layout manager must correctly apply vector scaling rules. ",
+          "tr": "Net kullanıcı arayüzü çizgileri elde etmek için, düzen yöneticisi vektör ölçeklendirme kurallarını doğru bir şekilde uygulamalıdır. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Apply this cream to your skin.",
-        "tr": "Bu kremi cildinize uygulayın."
-      },
-      "a2Cumle": {
-        "en": "You can apply for the job online.",
-        "tr": "İşe internet üzerinden başvurabilirsiniz."
-      },
-      "b1Cumle": {
-        "en": "The nurse applied the bandage carefully to the wound.",
-        "tr": "Hemşire bandajı yaraya dikkatlice uyguladı."
-      },
-      "b2Cumle": {
-        "en": "She applied for a scholarship to study abroad.",
-        "tr": "Yurtdışında okumak için burs başvurusunda bulundu."
-      },
-      "c1Cumle": {
-        "en": "The researcher applied the formula to calculate the speed.",
-        "tr": "Araştırmacı hızı hesaplamak için formülü uyguladı."
-      },
-      "c2Cumle": {
-        "en": "To achieve crisp UI lines, the layout manager must correctly apply vector scaling rules.",
-        "tr": "Net kullanıcı arayüzü çizgileri elde etmek için, düzen yöneticisi vektör ölçeklendirme kurallarını doğru bir şekilde uygulamalıdır."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "request ",
+        "employ ",
+        "implement "
+      ]
     }
   },
   {
-    "id": "w_appoint",
-    "tip": "KELIME",
-    "hedefDil": "Appoint",
-    "anaDil": "Atamak",
-    "okunusFonetik": "e-poynt",
-    "cagrisimAnahtari": "A-Point (Bir Nokta)",
-    "sozlukAnlami": "Appoint: to choose someone officially for a job or a responsibility. (Birini bir iş veya sorumluluk için resmi olarak seçmek, atamak.)",
-    "hafizaHikayesi": "Şirket yönetimi, haritadaki o kritik a-point (bir nokta) bölgesine yeni bir saha müdürü atamak için resmi yazıyı onayladı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_appoint",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Appoint ",
+      "phonetic_tr": "e-poynt ",
+      "pos": "KELIME ",
+      "dict_info": "Appoint: to choose someone officially for a job or a responsibility. (Birini bir iş veya sorumluluk için resmi olarak seçmek, atamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "assign",
-        "designate",
-        "nominate"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Atamak ",
+      "mnemonic": {
+        "phonetic_keyword": "A-Point (Bir Nokta) ",
+        "story": "Şirket yönetimi, haritadaki o kritik a-point (bir nokta) bölgesine yeni bir saha müdürü atamak için resmi yazıyı onayladı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "The company will appoint a leader. ",
+          "tr": "Şirket bir lider atayacak. "
+        },
+        {
+          "level": "A2",
+          "en": "They appointed a new manager. ",
+          "tr": "Yeni bir müdür atadılar. "
+        },
+        {
+          "level": "B1",
+          "en": "The hospital appointed a new chief of surgery last month. ",
+          "tr": "Hastane geçen ay yeni bir cerrahi şefi atadı. "
+        },
+        {
+          "level": "B2",
+          "en": "The president appointed a new ambassador to France. ",
+          "tr": "Başkan, Fransa'ya yeni bir büyükelçi atadı. "
+        },
+        {
+          "level": "C1",
+          "en": "A panel of scientists was appointed to review the findings. ",
+          "tr": "Bulguları incelemek üzere bir bilim insanı kurulu atandı. "
+        },
+        {
+          "level": "C2",
+          "en": "A highly specialized academic faculty committee was appointed to judge the proficiency in art defense. ",
+          "tr": "Sanatta yeterlik savunmasını değerlendirmek üzere son derece uzmanlaşmış bir akademik fakülte komitesi atandı. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "The company will appoint a leader.",
-        "tr": "Şirket bir lider atayacak."
-      },
-      "a2Cumle": {
-        "en": "They appointed a new manager.",
-        "tr": "Yeni bir müdür atadılar."
-      },
-      "b1Cumle": {
-        "en": "The hospital appointed a new chief of surgery last month.",
-        "tr": "Hastane geçen ay yeni bir cerrahi şefi atadı."
-      },
-      "b2Cumle": {
-        "en": "The president appointed a new ambassador to France.",
-        "tr": "Başkan, Fransa'ya yeni bir büyükelçi atadı."
-      },
-      "c1Cumle": {
-        "en": "A panel of scientists was appointed to review the findings.",
-        "tr": "Bulguları incelemek üzere bir bilim insanı kurulu atandı."
-      },
-      "c2Cumle": {
-        "en": "A highly specialized academic faculty committee was appointed to judge the proficiency in art defense.",
-        "tr": "Sanatta yeterlik savunmasını değerlendirmek üzere son derece uzmanlaşmış bir akademik fakülte komitesi atandı."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "assign ",
+        "designate ",
+        "nominate "
+      ]
     }
   },
   {
-    "id": "w_appraise",
-    "tip": "KELIME",
-    "hedefDil": "Appraise",
-    "anaDil": "Değerlendirmek, Kıymet Biçmek",
-    "okunusFonetik": "e-preyz",
-    "cagrisimAnahtari": "E-Priz",
-    "sozlukAnlami": "Appraise: to examine someone or something in order to judge their qualities, success, or value. (Nitelik, başarı veya değeri hakkında yargıda bulunmak için birini veya bir şeyi incelemek, değerlendirmek, değer/kıymet biçmek.)",
-    "hafizaHikayesi": "Müfettiş, fabrikadaki yeni e-priz sisteminin kalitesini kontrol edip ona yüksek bir kıyet biçmek için tüm elektrik tesisatını baştan aşağı değerlendirmek adımı attı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_appraise",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Appraise ",
+      "phonetic_tr": "e-preyz ",
+      "pos": "KELIME ",
+      "dict_info": "Appraise: to examine someone or something in order to judge their qualities, success, or value. (Nitelik, başarı veya değeri hakkında yargıda bulunmak için birini veya bir şeyi incelemek, değerlendirmek, değer/kıymet biçmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "evaluate",
-        "assess",
-        "estimate"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Değerlendirmek, Kıymet Biçmek ",
+      "mnemonic": {
+        "phonetic_keyword": "E-Priz ",
+        "story": "Müfettiş, fabrikadaki yeni e-priz sisteminin kalitesini kontrol edip ona yüksek bir kıyet biçmek için tüm elektrik tesisatını baştan aşağı değerlendirmek adımı attı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "We need to appraise the items. ",
+          "tr": "Öğeleri değerlendirmemiz gerekiyor. "
+        },
+        {
+          "level": "A2",
+          "en": "The expert came to appraise the house. ",
+          "tr": "Uzman evi değerlendirmek için geldi. "
+        },
+        {
+          "level": "B1",
+          "en": "The doctor appraised the patient's condition before surgery. ",
+          "tr": "Doktor, ameliyattan önce hastanın durumunu değerlendirdi. "
+        },
+        {
+          "level": "B2",
+          "en": "The sociologist appraised the community's response to the crisis. ",
+          "tr": "Sosyolog, toplumun krize verdiği tepkiyi değerlendirdi. "
+        },
+        {
+          "level": "C1",
+          "en": "The engineer appraised the damage to the bridge. ",
+          "tr": "Mühendis köprüdeki hasarı değerlendirdi. "
+        },
+        {
+          "level": "C2",
+          "en": "Autonomous agricultural vehicles must constantly appraise crop health metrics via real-time computer vision. ",
+          "tr": "Otonom tarım araçları, gerçek zamanlı bilgisayarlı görü aracılığıyla mahsul sağlığı metriklerini sürekli olarak değerlendirmelidir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "We need to appraise the items.",
-        "tr": "Öğeleri değerlendirmemiz gerekiyor."
-      },
-      "a2Cumle": {
-        "en": "The expert came to appraise the house.",
-        "tr": "Uzman evi değerlendirmek için geldi."
-      },
-      "b1Cumle": {
-        "en": "The doctor appraised the patient's condition before surgery.",
-        "tr": "Doktor, ameliyattan önce hastanın durumunu değerlendirdi."
-      },
-      "b2Cumle": {
-        "en": "The sociologist appraised the community's response to the crisis.",
-        "tr": "Sosyolog, toplumun krize verdiği tepkiyi değerlendirdi."
-      },
-      "c1Cumle": {
-        "en": "The engineer appraised the damage to the bridge.",
-        "tr": "Mühendis köprüdeki hasarı değerlendirdi."
-      },
-      "c2Cumle": {
-        "en": "Autonomous agricultural vehicles must constantly appraise crop health metrics via real-time computer vision.",
-        "tr": "Otonom tarım araçları, gerçek zamanlı bilgisayarlı görü aracılığıyla mahsul sağlığı metriklerini sürekli olarak değerlendirmelidir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "evaluate ",
+        "assess ",
+        "estimate "
+      ]
     }
   },
   {
-    "id": "w_appreciate",
-    "tip": "KELIME",
-    "hedefDil": "Appreciate",
-    "anaDil": "Takdir Etmek, Değerini Bilmek",
-    "okunusFonetik": "e-pri-şi-yeyt",
-    "cagrisimAnahtari": "E-Afiş ve Niyet",
-    "sozlukAnlami": "Appreciate: to recognize how good someone or something is and to value him, her, or it. (Birinin veya bir şeyin ne kadar iyi olduğunu fark etmek, ona değer vermek, takdir etmek.)",
-    "hafizaHikayesi": "Tasarımcının hazırladığı e-afiş çalışmasına niyet eden galeri müdürü, bu sanatsal emeği çok takdir etmek ve eserlerin değerini bilmek gerektiğini söyledi.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_appreciate",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Appreciate ",
+      "phonetic_tr": "e-pri-şi-yeyt ",
+      "pos": "KELIME ",
+      "dict_info": "Appreciate: to recognize how good someone or something is and to value him, her, or it. (Birinin veya bir şeyin ne kadar iyi olduğunu fark etmek, ona değer vermek, takdir etmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "value",
-        "cherish",
-        "acknowledge"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Takdir Etmek, Değerini Bilmek ",
+      "mnemonic": {
+        "phonetic_keyword": "E-Afiş ve Niyet ",
+        "story": "Tasarımcının hazırladığı e-afiş çalışmasına niyet eden galeri müdürü, bu sanatsal emeği çok takdir etmek ve eserlerin değerini bilmek gerektiğini söyledi. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "I appreciate your beautiful gift. ",
+          "tr": "Güzel hediyenizi takdir ediyorum / Teşekkür ederim. "
+        },
+        {
+          "level": "A2",
+          "en": "I highly appreciate your help. ",
+          "tr": "Yardımınızı gerçekten çok takdir ediyorum. "
+        },
+        {
+          "level": "B1",
+          "en": "The patient appreciated the nurse's help during his recovery last week. ",
+          "tr": "Hasta, geçen hafta iyileşme sürecinde hemşirenin yardımını takdir etti. "
+        },
+        {
+          "level": "B2",
+          "en": "In 2019, the community appreciated the mayor's efforts to improve education. ",
+          "tr": "Toplum, 2019 yılında belediye başkanının eğitimi iyileştirme çabalarını takdir etti. "
+        },
+        {
+          "level": "C1",
+          "en": "Scientists appreciated the significance of the discovery after the experiment ended yesterday. ",
+          "tr": "Bilim insanları, deney dün sona erdikten sonra keşfin önemini takdir etti. "
+        },
+        {
+          "level": "C2",
+          "en": "Art scholars thoroughly appreciate advanced virtual reality setups for their capacity to expand traditional fine arts boundaries. ",
+          "tr": "Sanat akademisyenleri, gelişmiş artırılmış gerçeklik kurulumlarını, geleneksel güzel sanatlar sınırlarını genişletme kapasitelerinden dolayı tamamen takdir ederler. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "I appreciate your beautiful gift.",
-        "tr": "Güzel hediyenizi takdir ediyorum / Teşekkür ederim."
-      },
-      "a2Cumle": {
-        "en": "I highly appreciate your help.",
-        "tr": "Yardımınızı gerçekten çok takdir ediyorum."
-      },
-      "b1Cumle": {
-        "en": "The patient appreciated the nurse's help during his recovery last week.",
-        "tr": "Hasta, geçen hafta iyileşme sürecinde hemşirenin yardımını takdir etti."
-      },
-      "b2Cumle": {
-        "en": "In 2019, the community appreciated the mayor's efforts to improve education.",
-        "tr": "Toplum, 2019 yılında belediye başkanının eğitimi iyileştirme çabalarını takdir etti."
-      },
-      "c1Cumle": {
-        "en": "Scientists appreciated the significance of the discovery after the experiment ended yesterday.",
-        "tr": "Bilim insanları, deney dün sona erdikten sonra keşfin önemini takdir etti."
-      },
-      "c2Cumle": {
-        "en": "Art scholars thoroughly appreciate advanced virtual reality setups for their capacity to expand traditional fine arts boundaries.",
-        "tr": "Sanat akademisyenleri, gelişmiş artırılmış gerçeklik kurulumlarını, geleneksel güzel sanatlar sınırlarını genişletme kapasitelerinden dolayı tamamen takdir ederler."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "value ",
+        "cherish ",
+        "acknowledge "
+      ]
     }
   },
   {
-    "id": "w_approve",
-    "tip": "KELIME",
-    "hedefDil": "Approve",
-    "anaDil": "Onaylamak",
-    "okunusFonetik": "e-pruv",
-    "cagrisimAnahtari": "E-Provo (Dijital Prova)",
-    "sozlukAnlami": "Approve: to have a positive opinion of someone or something, or to officially accept a plan or decision. (Biri veya bir şey hakkında olumlu görüşe sahip olmak, ya da bir plan veya kararı resmi olarak kabul etmek, onaylamak.)",
-    "hafizaHikayesi": "Defile öncesi hazırlanan e-provo yazılım sistemini inceleyen baş tasarımcı, tüm sahne akış planını resmi olarak onaylamak kararı aldı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_approve",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Approve ",
+      "phonetic_tr": "e-pruv ",
+      "pos": "KELIME ",
+      "dict_info": "Approve: to have a positive opinion of someone or something, or to officially accept a plan or decision. (Biri veya bir şey hakkında olumlu görüşe sahip olmak, ya da bir plan veya kararı resmi olarak kabul etmek, onaylamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "accept",
-        "endorse",
-        "sanction"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Onaylamak ",
+      "mnemonic": {
+        "phonetic_keyword": "E-Provo (Dijital Prova) ",
+        "story": "Defile öncesi hazırlanan e-provo yazılım sistemini inceleyen baş tasarımcı, tüm sahne akış planını resmi olarak onaylamak kararı aldı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "My parents do not approve of this. ",
+          "tr": "Ebeveynlerim bunu onaylamıyor. "
+        },
+        {
+          "level": "A2",
+          "en": "The committee approved the budget. ",
+          "tr": "Komite bütçeyi onayladı. "
+        },
+        {
+          "level": "B1",
+          "en": "The ethics committee approved the new clinical trial in March. ",
+          "tr": "Etik kurulu, Mart ayında yeni klinik denemeyi onayladı. "
+        },
+        {
+          "level": "B2",
+          "en": "The parliament approved the new policy two years ago. ",
+          "tr": "Parlamento, yeni politikayı iki yıl önce onayladı. "
+        },
+        {
+          "level": "C1",
+          "en": "The board approved the research proposal after a detailed review last Monday. ",
+          "tr": "Kurul, geçen Pazartesi detaylı bir incelemeden sonra araştırma önerisini onayladı. "
+        },
+        {
+          "level": "C2",
+          "en": "The faculty council will officially approve the doctoral thesis layout regarding augmented reality painting. ",
+          "tr": "Fakülte kurulu, artırılmış gerçeklik resmiyle ilgili doktora tezi düzenini resmi olarak onaylayacaktır. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "My parents do not approve of this.",
-        "tr": "Ebeveynlerim bunu onaylamıyor."
-      },
-      "a2Cumle": {
-        "en": "The committee approved the budget.",
-        "tr": "Komite bütçeyi onayladı."
-      },
-      "b1Cumle": {
-        "en": "The ethics committee approved the new clinical trial in March.",
-        "tr": "Etik kurulu, Mart ayında yeni klinik denemeyi onayladı."
-      },
-      "b2Cumle": {
-        "en": "The parliament approved the new policy two years ago.",
-        "tr": "Parlamento, yeni politikayı iki yıl önce onayladı."
-      },
-      "c1Cumle": {
-        "en": "The board approved the research proposal after a detailed review last Monday.",
-        "tr": "Kurul, geçen Pazartesi detaylı bir incelemeden sonra araştırma önerisini onayladı."
-      },
-      "c2Cumle": {
-        "en": "The faculty council will officially approve the doctoral thesis layout regarding augmented reality painting.",
-        "tr": "Fakülte kurulu, artırılmış gerçeklik resmiyle ilgili doktora tezi düzenini resmi olarak onaylayacaktır."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "accept ",
+        "endorse ",
+        "sanction "
+      ]
     }
   },
   {
-    "id": "w_arise",
-    "tip": "KELIME",
-    "hedefDil": "Arise",
-    "anaDil": "Ortaya Çıkmak, Meydana Gelmek",
-    "okunusFonetik": "e-rayz",
-    "cagrisimAnahtari": "E-Rayız (Dijital Ray Sistemi)",
-    "sozlukAnlami": "Arise: to happen, to start to exist, or to occur especially as a result of something. (Gerçekleşmek, var olmaya başlamak, özellikle bir şeyin sonucu olarak ortaya çıkmak/meydana gelmek.)",
-    "hafizaHikayesi": "Maden ocağındaki e-rayız sisteminde küçük bir arıza olunca, operasyonu yavaşlatan beklenmedik teknik sorunlar ortaya çıkmak sırasına girdi.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_arise",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Arise ",
+      "phonetic_tr": "e-rayz ",
+      "pos": "KELIME ",
+      "dict_info": "Arise: to happen, to start to exist, or to occur especially as a result of something. (Gerçekleşmek, var olmaya başlamak, özellikle bir şeyin sonucu olarak ortaya çıkmak/meydana gelmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "occur",
-        "happen",
-        "originate"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Ortaya Çıkmak, Meydana Gelmek ",
+      "mnemonic": {
+        "phonetic_keyword": "E-Rayız (Dijital Ray Sistemi) ",
+        "story": "Maden ocağındaki e-rayız sisteminde küçük bir arıza olunca, operasyonu yavaşlatan beklenmedik teknik sorunlar ortaya çıkmak sırasına girdi. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "A new difficulty may arise. ",
+          "tr": "Yeni bir zorluk ortaya çıkabilir. "
+        },
+        {
+          "level": "A2",
+          "en": "Problems can arise at any time. ",
+          "tr": "Sorunlar her an ortaya çıkabilir. "
+        },
+        {
+          "level": "B1",
+          "en": "A rare complication arose during surgery last night. ",
+          "tr": "Dün gece ameliyat sırasında nadir bir komplikasyon ortaya çıktı. "
+        },
+        {
+          "level": "B2",
+          "en": "Several issues arose during the negotiation process in 2021. ",
+          "tr": "2021 yılında müzakere sürecinde çeşitli sorunlar ortaya çıktı. "
+        },
+        {
+          "level": "C1",
+          "en": "Unexpected results arose when the temperature suddenly dropped yesterday. ",
+          "tr": "Sıcaklık dün aniden düştüğünde beklenmedik sonuçlar ortaya çıktı. "
+        },
+        {
+          "level": "C2",
+          "en": "When migrating large assets from ImGui to Avalonia UI, severe scaling issues may dynamically arise. ",
+          "tr": "Büyük varlıkları ImGui'den Avalonia UI'a taşırken, ciddi ölçeklendirme sorunları dinamik olarak ortaya çıkabilir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "A new difficulty may arise.",
-        "tr": "Yeni bir zorluk ortaya çıkabilir."
-      },
-      "a2Cumle": {
-        "en": "Problems can arise at any time.",
-        "tr": "Sorunlar her an ortaya çıkabilir."
-      },
-      "b1Cumle": {
-        "en": "A rare complication arose during surgery last night.",
-        "tr": "Dün gece ameliyat sırasında nadir bir komplikasyon ortaya çıktı."
-      },
-      "b2Cumle": {
-        "en": "Several issues arose during the negotiation process in 2021.",
-        "tr": "2021 yılında müzakere sürecinde çeşitli sorunlar ortaya çıktı."
-      },
-      "c1Cumle": {
-        "en": "Unexpected results arose when the temperature suddenly dropped yesterday.",
-        "tr": "Sıcaklık dün aniden düştüğünde beklenmedik sonuçlar ortaya çıktı."
-      },
-      "c2Cumle": {
-        "en": "When migrating large assets from ImGui to Avalonia UI, severe scaling issues may dynamically arise.",
-        "tr": "Büyük varlıkları ImGui'den Avalonia UI'a taşırken, ciddi ölçeklendirme sorunları dinamik olarak ortaya çıkabilir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "occur ",
+        "happen ",
+        "originate "
+      ]
     }
   },
   {
-    "id": "w_articulate",
-    "tip": "KELIME",
-    "hedefDil": "Articulate",
-    "anaDil": "Açıkça İfade Etmek",
-    "okunusFonetik": "ar-tik-yu-leyt",
-    "cagrisimAnahtari": "Artık ve Kule",
-    "sozlukAnlami": "Articulate: to express in words, especially clearly and effectively. (Düşünceleri sözcüklerle, özellikle net ve etkili bir şekilde açıklamak, açıkça ifade etmek.)",
-    "hafizaHikayesi": "Mimar, 'Artık bu kule projesinin detaylarını halka anlatmalıyız' diyerek çizimlerini açıkça ifade etmek için pürüzsüz bir konuşma yaptı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_articulate",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Articulate ",
+      "phonetic_tr": "ar-tik-yu-leyt ",
+      "pos": "KELIME ",
+      "dict_info": "Articulate: to express in words, especially clearly and effectively. (Düşünceleri sözcüklerle, özellikle net ve etkili bir şekilde açıklamak, açıkça ifade etmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "express",
-        "pronounce",
-        "voice"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Açıkça İfade Etmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Artık ve Kule ",
+        "story": "Mimar, 'Artık bu kule projesinin detaylarını halka anlatmalıyız' diyerek çizimlerini açıkça ifade etmek için pürüzsüz bir konuşma yaptı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Please articulate your words cleanly. ",
+          "tr": "Lütfen kelimelerinizi açıkça ifade edin / net söyleyin. "
+        },
+        {
+          "level": "A2",
+          "en": "She struggled to articulate her feelings. ",
+          "tr": "Duygularını açıkça ifade etmekte zorlandı. "
+        },
+        {
+          "level": "B1",
+          "en": "The therapist articulated the treatment plan clearly at yesterday's session. ",
+          "tr": "Terapist, dünkü seansta tedavi planını açıkça ifade etti. "
+        },
+        {
+          "level": "B2",
+          "en": "The activist articulated her views at the conference last weekend. ",
+          "tr": "Aktivist, geçen hafta sonu konferansta görüşlerini açıkça ifade etti. "
+        },
+        {
+          "level": "C1",
+          "en": "The professor articulated the theory in his lecture two days ago. ",
+          "tr": "Profesör, iki gün önce dersinde teoriyi açıkça ifade etti. "
+        },
+        {
+          "level": "C2",
+          "en": "The doctoral candidate must precisely articulate the stylistic transformation of contemporary art through digital media. ",
+          "tr": "Doktora adayı, çağdaş sanatın dijital medya aracılığıyla yaşadığı üslupsal dönüşümü tam olarak açıkça ifade etmelidir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Please articulate your words cleanly.",
-        "tr": "Lütfen kelimelerinizi açıkça ifade edin / net söyleyin."
-      },
-      "a2Cumle": {
-        "en": "She struggled to articulate her feelings.",
-        "tr": "Duygularını açıkça ifade etmekte zorlandı."
-      },
-      "b1Cumle": {
-        "en": "The therapist articulated the treatment plan clearly at yesterday's session.",
-        "tr": "Terapist, dünkü seansta tedavi planını açıkça ifade etti."
-      },
-      "b2Cumle": {
-        "en": "The activist articulated her views at the conference last weekend.",
-        "tr": "Aktivist, geçen hafta sonu konferansta görüşlerini açıkça ifade etti."
-      },
-      "c1Cumle": {
-        "en": "The professor articulated the theory in his lecture two days ago.",
-        "tr": "Profesör, iki gün önce dersinde teoriyi açıkça ifade etti."
-      },
-      "c2Cumle": {
-        "en": "The doctoral candidate must precisely articulate the stylistic transformation of contemporary art through digital media.",
-        "tr": "Doktora adayı, çağdaş sanatın dijital medya aracılığıyla yaşadığı üslupsal dönüşümü tam olarak açıkça ifade etmelidir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "express ",
+        "pronounce ",
+        "voice "
+      ]
     }
   },
   {
-    "id": "w_assess",
-    "tip": "KELIME",
-    "hedefDil": "Assess",
-    "anaDil": "Değerlendirmek",
-    "okunusFonetik": "e-ses",
-    "cagrisimAnahtari": "Ases (Tarihi Muhafız / Bekçi)",
-    "sozlukAnlami": "Assess: to judge or decide the amount, value, quality, or importance of something. (Bir şeyin miktarını, değerini, kalitesini veya önemini yargılamak veya belirlemek, değerlendirmek.)",
-    "hafizaHikayesi": "Gece devriyesine çıkan tarihi ases (bekçi), sokakların güvenlik durumunu ve asayiş kalitesini baştan aşağı değerlendirmek adımı attı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_assess",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Assess ",
+      "phonetic_tr": "e-ses ",
+      "pos": "KELIME ",
+      "dict_info": "Assess: to judge or decide the amount, value, quality, or importance of something. (Bir şeyin miktarını, değerini, kalitesini veya önemini yargılamak veya belirlemek, değerlendirmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "evaluate",
-        "appraise",
-        "judge"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Değerlendirmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Ases (Tarihi Muhafız / Bekçi) ",
+        "story": "Gece devriyesine çıkan tarihi ases (bekçi), sokakların güvenlik durumunu ve asayiş kalitesini baştan aşağı değerlendirmek adımı attı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Assess your skills honestly. ",
+          "tr": "Yeteneklerinizi dürüstçe değerlendirin. "
+        },
+        {
+          "level": "A2",
+          "en": "We need to assess the risks involved. ",
+          "tr": "İçerdiği riskleri değerlendirmemiz gerekiyor. "
+        },
+        {
+          "level": "B1",
+          "en": "The doctor assessed the patient's progress after one week. ",
+          "tr": "Doktor, bir hafta sonra hastanın ilerlemesini değerlendirdi. "
+        },
+        {
+          "level": "B2",
+          "en": "The committee assessed the candidates during last month's interviews. ",
+          "tr": "Komite, geçen ayki mülakatlar sırasında adayları değerlendirdi. "
+        },
+        {
+          "level": "C1",
+          "en": "The team assessed the environmental impact of the project in 2022. ",
+          "tr": "Ekip, projenin çevresel etkisini 2022 yılında değerlendirdi. "
+        },
+        {
+          "level": "C2",
+          "en": "To minimize latency, WorldMake Pro must dynamically assess GPU performance metrics across procedural biomes. ",
+          "tr": "Gecikmeyi en aza indirmek için, WorldMake Pro, prosedürel biyomlar genelinde GPU performans metriklerini dinamik olarak değerlendirmelidir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Assess your skills honestly.",
-        "tr": "Yeteneklerinizi dürüstçe değerlendirin."
-      },
-      "a2Cumle": {
-        "en": "We need to assess the risks involved.",
-        "tr": "İçerdiği riskleri değerlendirmemiz gerekiyor."
-      },
-      "b1Cumle": {
-        "en": "The doctor assessed the patient's progress after one week.",
-        "tr": "Doktor, bir hafta sonra hastanın ilerlemesini değerlendirdi."
-      },
-      "b2Cumle": {
-        "en": "The committee assessed the candidates during last month's interviews.",
-        "tr": "Komite, geçen ayki mülakatlar sırasında adayları değerlendirdi."
-      },
-      "c1Cumle": {
-        "en": "The team assessed the environmental impact of the project in 2022.",
-        "tr": "Ekip, projenin çevresel etkisini 2022 yılında değerlendirdi."
-      },
-      "c2Cumle": {
-        "en": "To minimize latency, WorldMake Pro must dynamically assess GPU performance metrics across procedural biomes.",
-        "tr": "Gecikmeyi en aza indirmek için, WorldMake Pro, prosedürel biyomlar genelinde GPU performans metriklerini dinamik olarak değerlendirmelidir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "evaluate ",
+        "appraise ",
+        "judge "
+      ]
     }
   },
   {
-    "id": "w_attach",
-    "tip": "KELIME",
-    "hedefDil": "Attach",
-    "anaDil": "Eklemek, İliştirmek",
-    "okunusFonetik": "e-teç",
-    "cagrisimAnahtari": "Et ve Taç",
-    "sozlukAnlami": "Attach: to fasten, join, or connect something to something else. (Bir şeyi başka bir şeye bağlamak, katmak, eklemek, iliştirmek.)",
-    "hafizaHikayesi": "Kasap, dükkanın reklam afişindeki büyük et resminin hemen tepesine şık bir kraliyet taçı görseli eklemek ve iliştirmek için grafikere talimat verdi.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_attach",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Attach ",
+      "phonetic_tr": "e-teç ",
+      "pos": "KELIME ",
+      "dict_info": "Attach: to fasten, join, or connect something to something else. (Bir şeyi başka bir şeye bağlamak, katmak, eklemek, iliştirmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "connect",
-        "link",
-        "fasten"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Eklemek, İliştirmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Et ve Taç ",
+        "story": "Kasap, dükkanın reklam afişindeki büyük et resminin hemen tepesine şık bir kraliyet taçı görseli eklemek ve iliştirmek için grafikere talimat verdi. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Attach the document here. ",
+          "tr": "Belgeyi buraya ekleyin. "
+        },
+        {
+          "level": "A2",
+          "en": "Please attach your photo to the application. ",
+          "tr": "Lütfen başvuruya fotoğrafınızı ekleyin. "
+        },
+        {
+          "level": "B1",
+          "en": "The nurse attached the heart monitor to the patient's chest last morning. ",
+          "tr": "Hemşire geçen sabah hastanın göğsüne kalp monitörünü bağladı. "
+        },
+        {
+          "level": "B2",
+          "en": "The researcher attached the consent forms to the survey last week. ",
+          "tr": "Araştırmacı geçen hafta anketlere onay formlarını ekledi. "
+        },
+        {
+          "level": "C1",
+          "en": "The technician attached the sensor to the device yesterday afternoon. ",
+          "tr": "Teknisyen, dün öğleden sonra sensörü cihaza iliştirdi. "
+        },
+        {
+          "level": "C2",
+          "en": "The skeletal runtime layout will seamlessly attach new keyframes to the Marion transform hierarchy. ",
+          "tr": "İskelet çalışma zamanı düzeni, Marion dönüşüm hiyerarşisine yeni anahtar kareleri sorunsuz bir şekilde ekleyecektir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Attach the document here.",
-        "tr": "Belgeyi buraya ekleyin."
-      },
-      "a2Cumle": {
-        "en": "Please attach your photo to the application.",
-        "tr": "Lütfen başvuruya fotoğrafınızı ekleyin."
-      },
-      "b1Cumle": {
-        "en": "The nurse attached the heart monitor to the patient's chest last morning.",
-        "tr": "Hemşire geçen sabah hastanın göğsüne kalp monitörünü bağladı."
-      },
-      "b2Cumle": {
-        "en": "The researcher attached the consent forms to the survey last week.",
-        "tr": "Araştırmacı geçen hafta anketlere onay formlarını ekledi."
-      },
-      "c1Cumle": {
-        "en": "The technician attached the sensor to the device yesterday afternoon.",
-        "tr": "Teknisyen, dün öğleden sonra sensörü cihaza iliştirdi."
-      },
-      "c2Cumle": {
-        "en": "The skeletal runtime layout will seamlessly attach new keyframes to the Marion transform hierarchy.",
-        "tr": "İskelet çalışma zamanı düzeni, Marion dönüşüm hiyerarşisine yeni anahtar kareleri sorunsuz bir şekilde ekleyecektir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "connect ",
+        "link ",
+        "fasten "
+      ]
     }
   },
   {
-    "id": "w_attain",
-    "tip": "KELIME",
-    "hedefDil": "Attain",
-    "anaDil": "Erişmek, Elde Etmek",
-    "okunusFonetik": "e-teyn",
-    "cagrisimAnahtari": "Et ve Tayın (Asker Azığı)",
-    "sozlukAnlami": "Attain: to reach or succeed in getting something, usually after a lot of effort. (Genellikle büyük bir çabadan sonra bir seviyeye ulaşmak veya bir şeyi elde etmek/edinmek.)",
-    "hafizaHikayesi": "Kuşatmadaki askerler uzun çabalar sonucu taze et ve tayın azığına kavuşunca, nihayet temel ihtiyaç maddelerini elde etmek ve hedeflerine erişmek huzurunu buldiler.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_attain",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Attain ",
+      "phonetic_tr": "e-teyn ",
+      "pos": "KELIME ",
+      "dict_info": "Attain: to reach or succeed in getting something, usually after a lot of effort. (Genellikle büyük bir çabadan sonra bir seviyeye ulaşmak veya bir şeyi elde etmek/edinmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "achieve",
-        "accomplish",
-        "reach"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Erişmek, Elde Etmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Et ve Tayın (Asker Azığı) ",
+        "story": "Kuşatmadaki askerler uzun çabalar sonucu taze et ve tayın azığına kavuşunca, nihayet temel ihtiyaç maddelerini elde etmek ve hedeflerine erişmek huzurunu buldiler. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "He wants to attain success. ",
+          "tr": "Başarıya erişmek istiyor. "
+        },
+        {
+          "level": "A2",
+          "en": "She attained a high score in the exam. ",
+          "tr": "Sınavda yüksek bir puan elde etti. "
+        },
+        {
+          "level": "B1",
+          "en": "The patient attained full mobility after six months of therapy. ",
+          "tr": "Hasta, altı aylık tedaviden sonra tam hareket kabiliyeti kazandı. "
+        },
+        {
+          "level": "B2",
+          "en": "She attained her PhD degree in 2018. ",
+          "tr": "2018 yılında doktora derecesini aldı. "
+        },
+        {
+          "level": "C1",
+          "en": "The experiment attained the expected results last Friday. ",
+          "tr": "Deney, geçen Cuma beklenen sonuçlara ulaştı. "
+        },
+        {
+          "level": "C2",
+          "en": "The autonomous navigation framework utilizes RTK-GPS to attain centimeter-level positioning accuracy. ",
+          "tr": "Otonom navigasyon çerçevesi, santimetre düzeyinde konumlandırma doğruluğu elde etmek için RTK-GPS kullanır. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "He wants to attain success.",
-        "tr": "Başarıya erişmek istiyor."
-      },
-      "a2Cumle": {
-        "en": "She attained a high score in the exam.",
-        "tr": "Sınavda yüksek bir puan elde etti."
-      },
-      "b1Cumle": {
-        "en": "The patient attained full mobility after six months of therapy.",
-        "tr": "Hasta, altı aylık tedaviden sonra tam hareket kabiliyeti kazandı."
-      },
-      "b2Cumle": {
-        "en": "She attained her PhD degree in 2018.",
-        "tr": "2018 yılında doktora derecesini aldı."
-      },
-      "c1Cumle": {
-        "en": "The experiment attained the expected results last Friday.",
-        "tr": "Deney, geçen Cuma beklenen sonuçlara ulaştı."
-      },
-      "c2Cumle": {
-        "en": "The autonomous navigation framework utilizes RTK-GPS to attain centimeter-level positioning accuracy.",
-        "tr": "Otonom navigasyon çerçevesi, santimetre düzeyinde konumlandırma doğruluğu elde etmek için RTK-GPS kullanır."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "achieve ",
+        "accomplish ",
+        "reach "
+      ]
     }
   },
   {
-    "id": "w_attribute",
-    "tip": "KELIME",
-    "hedefDil": "Attribute",
-    "anaDil": "Atfetmek, Bağlamak",
-    "okunusFonetik": "e-trib-yut",
-    "cagrisimAnahtari": "At ve Tribün",
-    "sozlukAnlami": "Attribute: to say or think that something is the result of something else. (Bir şeyin başka bir şeyin sonucu olduğunu söylemek veya düşünmek, bir nedene bağlamak/atfetmek.)",
-    "hafizaHikayesi": "Yarışı kazanan jokey, başarısını altındaki asil at ve tribün dolduran seyircilerin coşkusuna bağlamak ve tüm galibiyeti bu motivasyona atfetmek adımı attı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_attribute",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Attribute ",
+      "phonetic_tr": "e-trib-yut ",
+      "pos": "KELIME ",
+      "dict_info": "Attribute: to say or think that something is the result of something else. (Bir şeyin başka bir şeyin sonucu olduğunu söylemek veya düşünmek, bir nedene bağlamak/atfetmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "ascribe",
-        "assign",
-        "credit"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Atfetmek, Bağlamak ",
+      "mnemonic": {
+        "phonetic_keyword": "At ve Tribün ",
+        "story": "Yarışı kazanan jokey, başarısını altındaki asil at ve tribün dolduran seyircilerin coşkusuna bağlamak ve tüm galibiyeti bu motivasyona atfetmek adımı attı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Do not attribute bad motives to him. ",
+          "tr": "Kötü niyetleri ona bağlamayın. "
+        },
+        {
+          "level": "A2",
+          "en": "She attributes her success to hard work. ",
+          "tr": "Başarısını çok çalışmaya bağlıyor. "
+        },
+        {
+          "level": "B1",
+          "en": "Doctors attributed the improvement to the new medication last month. ",
+          "tr": "Doktorlar iyileşmeyi geçen ay yeni ilaca bağladı. "
+        },
+        {
+          "level": "B2",
+          "en": "Historians attributed the decline of the empire to internal conflicts in the 17th century. ",
+          "tr": "Tarihçiler, imparatorluğun çöküşünü 17. yüzyıldaki iç çatışmalara bağladı. "
+        },
+        {
+          "level": "C1",
+          "en": "The team attributed the error to a miscalculation made the last test. ",
+          "tr": "Ekip, hatayı geçen testte yapılan bir hesaplama hatasına bağladı. "
+        },
+        {
+          "level": "C2",
+          "en": "Cosmologists often attribute the mathematical order of the universe to intricate fine-tuning mechanisms. ",
+          "tr": "Kozmologlar genellikle evrenin matematiksel düzenini karmaşık ince ayar mekanizmalarına bağlarlar/atfederler. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Do not attribute bad motives to him.",
-        "tr": "Kötü niyetleri ona bağlamayın."
-      },
-      "a2Cumle": {
-        "en": "She attributes her success to hard work.",
-        "tr": "Başarısını çok çalışmaya bağlıyor."
-      },
-      "b1Cumle": {
-        "en": "Doctors attributed the improvement to the new medication last month.",
-        "tr": "Doktorlar iyileşmeyi geçen ay yeni ilaca bağladı."
-      },
-      "b2Cumle": {
-        "en": "Historians attributed the decline of the empire to internal conflicts in the 17th century.",
-        "tr": "Tarihçiler, imparatorluğun çöküşünü 17. yüzyıldaki iç çatışmalara bağladı."
-      },
-      "c1Cumle": {
-        "en": "The team attributed the error to a miscalculation made the last test.",
-        "tr": "Ekip, hatayı geçen testte yapılan bir hesaplama hatasına bağladı."
-      },
-      "c2Cumle": {
-        "en": "Cosmologists often attribute the mathematical order of the universe to intricate fine-tuning mechanisms.",
-        "tr": "Kozmologlar genellikle evrenin matematiksel düzenini karmaşık ince ayar mekanizmalarına bağlarlar/atfederler."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "ascribe ",
+        "assign ",
+        "credit "
+      ]
     }
   },
   {
-    "id": "w_avert",
-    "tip": "KELIME",
-    "hedefDil": "Avert",
-    "anaDil": "Önlemek",
-    "okunusFonetik": "e-vört",
-    "cagrisimAnahtari": "Ev ve Ört (Halı Örtüsü)",
-    "sozlukAnlami": "Avert: to prevent something bad from happening. (Kötü bir şeyin gerçekleşmesini engellemek, önlemek.)",
-    "hafizaHikayesi": "Aniden çıkan yangında tüm ev alev alacakken, ıslak bir örtü kullanarak büyük bir felaketi son anda önlemek başarısını gösterdiler.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_avert",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Avert ",
+      "phonetic_tr": "e-vört ",
+      "pos": "KELIME ",
+      "dict_info": "Avert: to prevent something bad from happening. (Kötü bir şeyin gerçekleşmesini engellemek, önlemek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "prevent",
-        "avoid",
-        "turn away"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Önlemek ",
+      "mnemonic": {
+        "phonetic_keyword": "Ev ve Ört (Halı Örtüsü) ",
+        "story": "Aniden çıkan yangında tüm ev alev alacakken, ıslak bir örtü kullanarak büyük bir felaketi son anda önlemek başarısını gösterdiler. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Try to avert common mistakes. ",
+          "tr": "Basit hataları önlemeye çalışın. "
+        },
+        {
+          "level": "A2",
+          "en": "We managed to avert a major disaster. ",
+          "tr": "Büyük bir felaketi önlemeyi başardık. "
+        },
+        {
+          "level": "B1",
+          "en": "The medical team averted a serious complication during surgery yesterday. ",
+          "tr": "Tıbbi ekip, dün ameliyat sırasında ciddi bir komplikasyonu önledi. "
+        },
+        {
+          "level": "B2",
+          "en": "The government averted a financial crisis in 2008. ",
+          "tr": "Hükümet, 2008 yılında bir finansal krizi önledi. "
+        },
+        {
+          "level": "C1",
+          "en": "Engineers averted a potential system failure by fixing the circuit last night. ",
+          "tr": "Mühendisler, devreyi dün gece tamir ederek olası bir sistem arızasını önledi. "
+        },
+        {
+          "level": "C2",
+          "en": "By refactoring core visual assets from ImGui to Avalonia UI, the software developers averted an icon rendering crisis. ",
+          "tr": "Yazılım geliştiriciler, temel görsel varlıkları ImGui'den Avalonia UI'a geçirerek ikon işleme krizini önlediler. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Try to avert common mistakes.",
-        "tr": "Basit hataları önlemeye çalışın."
-      },
-      "a2Cumle": {
-        "en": "We managed to avert a major disaster.",
-        "tr": "Büyük bir felaketi önlemeyi başardık."
-      },
-      "b1Cumle": {
-        "en": "The medical team averted a serious complication during surgery yesterday.",
-        "tr": "Tıbbi ekip, dün ameliyat sırasında ciddi bir komplikasyonu önledi."
-      },
-      "b2Cumle": {
-        "en": "The government averted a financial crisis in 2008.",
-        "tr": "Hükümet, 2008 yılında bir finansal krizi önledi."
-      },
-      "c1Cumle": {
-        "en": "Engineers averted a potential system failure by fixing the circuit last night.",
-        "tr": "Mühendisler, devreyi dün gece tamir ederek olası bir sistem arızasını önledi."
-      },
-      "c2Cumle": {
-        "en": "By refactoring core visual assets from ImGui to Avalonia UI, the software developers averted an icon rendering crisis.",
-        "tr": "Yazılım geliştiriciler, temel görsel varlıkları ImGui'den Avalonia UI'a geçirerek ikon işleme krizini önlediler."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "prevent ",
+        "avoid ",
+        "turn away "
+      ]
     }
   },
   {
-    "id": "w_avoid",
-    "tip": "KELIME",
-    "hedefDil": "Avoid",
-    "anaDil": "Kaçınmak",
-    "okunusFonetik": "e-voyd",
-    "cagrisimAnahtari": "A-Voit (Boşluk/Geçersiz Alan)",
-    "sozlukAnlami": "Avoid: to stay away from a person, place, or situation, or to prevent something from happening. (Bir kişiden, yerden veya durumdan uzak durmak, kaçınmak, bir şeyin olmasını engellemek.)",
-    "hafizaHikayesi": "Yazılımcı, kodun çökmesini engellemek için haritadaki o tehlikeli a-voit (geçersiz/boş alan) fonksiyonuna dokunmaktan dikkatle kaçındı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_avoid",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Avoid ",
+      "phonetic_tr": "e-voyd ",
+      "pos": "KELIME ",
+      "dict_info": "Avoid: to stay away from a person, place, or situation, or to prevent something from happening. (Bir kişiden, yerden veya durumdan uzak durmak, kaçınmak, bir şeyin olmasını engellemek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "evade",
-        "elude",
-        "shun"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Kaçınmak ",
+      "mnemonic": {
+        "phonetic_keyword": "A-Voit (Boşluk/Geçersiz Alan) ",
+        "story": "Yazılımcı, kodun çökmesini engellemek için haritadaki o tehlikeli a-voit (geçersiz/boş alan) fonksiyonuna dokunmaktan dikkatle kaçındı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Avoid fatty foods for a healthy life. ",
+          "tr": "Sağlıklı bir yaşam için yağlı yiyeceklerden kaçının. "
+        },
+        {
+          "level": "A2",
+          "en": "You should avoid driving in this weather. ",
+          "tr": "Bu havada araba kullanmaktan kaçınmalısın. "
+        },
+        {
+          "level": "B1",
+          "en": "The doctor avoided prescribing antibiotics unnecessarily last year. ",
+          "tr": "Doktor, geçen yıl gereksiz yere antibiyotik yazmaktan kaçındı. "
+        },
+        {
+          "level": "B2",
+          "en": "Citizens avoided large gatherings during the pandemic in 2020. ",
+          "tr": "Vatandaşlar, 2020 yılında pandemi sırasında kalabalık toplantılardan kaçındı. "
+        },
+        {
+          "level": "C1",
+          "en": "The researchers avoided contamination by sterilizing the equipment before the test. ",
+          "tr": "Araştırmacılar, testten önce ekipmanı steril ederek bulaşmayı önledi. "
+        },
+        {
+          "level": "C2",
+          "en": "The traffic AI subsystem should proactively compute alternative path coordinate nodes to avoid collisions. ",
+          "tr": "Trafik yapay zeka alt sistemi, çarpışmalardan kaçınmak için alternatif yol koordinat düğümlerini proaktif olarak hesaplamalıdır. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Avoid fatty foods for a healthy life.",
-        "tr": "Sağlıklı bir yaşam için yağlı yiyeceklerden kaçının."
-      },
-      "a2Cumle": {
-        "en": "You should avoid driving in this weather.",
-        "tr": "Bu havada araba kullanmaktan kaçınmalısın."
-      },
-      "b1Cumle": {
-        "en": "The doctor avoided prescribing antibiotics unnecessarily last year.",
-        "tr": "Doktor, geçen yıl gereksiz yere antibiyotik yazmaktan kaçındı."
-      },
-      "b2Cumle": {
-        "en": "Citizens avoided large gatherings during the pandemic in 2020.",
-        "tr": "Vatandaşlar, 2020 yılında pandemi sırasında kalabalık toplantılardan kaçındı."
-      },
-      "c1Cumle": {
-        "en": "The researchers avoided contamination by sterilizing the equipment before the test.",
-        "tr": "Araştırmacılar, testten önce ekipmanı steril ederek bulaşmayı önledi."
-      },
-      "c2Cumle": {
-        "en": "The traffic AI subsystem should proactively compute alternative path coordinate nodes to avoid collisions.",
-        "tr": "Trafik yapay zeka alt sistemi, çarpışmalardan kaçınmak için alternatif yol koordinat düğümlerini proaktif olarak hesaplamalıdır."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "evade ",
+        "elude ",
+        "shun "
+      ]
     }
   },
   {
-    "id": "w_become",
-    "tip": "KELIME",
-    "hedefDil": "Become",
-    "anaDil": "Olmak",
-    "okunusFonetik": "bi-kam",
-    "cagrisimAnahtari": "Bi (İki) ve Kamp",
-    "sozlukAnlami": "Become: to start to be something or to change into something. (Bir şey olmaya başlamak veya bir şeye dönüşmek, olmak.)",
-    "hafizaHikayesi": "Dağcı ekip, yan yana kurulan bi (iki) kamp çadırı sayesinde nihayet bölgedeki en donanımlı dağcılık merkezi olmak hedefine ulaştı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_become",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Become ",
+      "phonetic_tr": "bi-kam ",
+      "pos": "KELIME ",
+      "dict_info": "Become: to start to be something or to change into something. (Bir şey olmaya başlamak veya bir şeye dönüşmek, olmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "turn into",
-        "grow",
-        "get"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Olmak ",
+      "mnemonic": {
+        "phonetic_keyword": "Bi (İki) ve Kamp ",
+        "story": "Dağcı ekip, yan yana kurulan bi (iki) kamp çadırı sayesinde nihayet bölgedeki en donanımlı dağcılık merkezi olmak hedefine ulaştı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "It is becoming dark outside. ",
+          "tr": "Dışarısı kararıyor / karanlık oluyor. "
+        },
+        {
+          "level": "A2",
+          "en": "He wants to become a doctor. ",
+          "tr": "Doktor olmak istiyor. "
+        },
+        {
+          "level": "B1",
+          "en": "The patient became unresponsive after the injection last night. ",
+          "tr": "Hasta, dün gece enjeksiyondan sonra tepkisiz hale geldi. "
+        },
+        {
+          "level": "B2",
+          "en": "She became a prominent activist during the protests in 2013. ",
+          "tr": "2013'teki protestolar sırasında önde gelen bir aktivist oldu. "
+        },
+        {
+          "level": "C1",
+          "en": "The substance became unstable when exposed to heat yesterday. ",
+          "tr": "Madde, dün ısıya maruz kaldığında kararsız hale geldi. "
+        },
+        {
+          "level": "C2",
+          "en": "As digital assets expand, traditional oil painting techniques become synthesized with augmented spatial layers. ",
+          "tr": "Dijital varlıklar genişledikçe, geleneksel yağlı boya teknikleri artırılmış mekansal katmanlarla sentezlenmiş hale gelir/olur. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "It is becoming dark outside.",
-        "tr": "Dışarısı kararıyor / karanlık oluyor."
-      },
-      "a2Cumle": {
-        "en": "He wants to become a doctor.",
-        "tr": "Doktor olmak istiyor."
-      },
-      "b1Cumle": {
-        "en": "The patient became unresponsive after the injection last night.",
-        "tr": "Hasta, dün gece enjeksiyondan sonra tepkisiz hale geldi."
-      },
-      "b2Cumle": {
-        "en": "She became a prominent activist during the protests in 2013.",
-        "tr": "2013'teki protestolar sırasında önde gelen bir aktivist oldu."
-      },
-      "c1Cumle": {
-        "en": "The substance became unstable when exposed to heat yesterday.",
-        "tr": "Madde, dün ısıya maruz kaldığında kararsız hale geldi."
-      },
-      "c2Cumle": {
-        "en": "As digital assets expand, traditional oil painting techniques become synthesized with augmented spatial layers.",
-        "tr": "Dijital varlıklar genişledikçe, geleneksel yağlı boya teknikleri artırılmış mekansal katmanlarla sentezlenmiş hale gelir/olur."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "turn into ",
+        "grow ",
+        "get "
+      ]
     }
   },
   {
-    "id": "w_begin",
-    "tip": "KELIME",
-    "hedefDil": "Begin",
-    "anaDil": "Başlamak",
-    "okunusFonetik": "bi-gin",
-    "cagrisimAnahtari": "Bi (İki) ve Gin (Cin oyun kartı)",
-    "sozlukAnlami": "Begin: to start to happen or do something. (Gerçekleşmeye veya yapılmaya başlanmak, başlamak.)",
-    "hafizaHikayesi": "Masada oturan bi (iki) arkadaş, gin oyun kartlarını dağıtarak turnuvanın ilk eline pürüzsüzce başlamak adımı attılar.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_begin",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Begin ",
+      "phonetic_tr": "bi-gin ",
+      "pos": "KELIME ",
+      "dict_info": "Begin: to start to happen or do something. (Gerçekleşmeye veya yapılmaya başlanmak, başlamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "start",
-        "commence",
-        "initiate"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Başlamak ",
+      "mnemonic": {
+        "phonetic_keyword": "Bi (İki) ve Gin (Cin oyun kartı) ",
+        "story": "Masada oturan bi (iki) arkadaş, gin oyun kartlarını dağıtarak turnuvanın ilk eline pürüzsüzce başlamak adımı attılar. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Let's begin the game. ",
+          "tr": "Oyuna başlayalım. "
+        },
+        {
+          "level": "A2",
+          "en": "The class will begin at nine. ",
+          "tr": "Ders saat dokuzda başlayacak. "
+        },
+        {
+          "level": "B1",
+          "en": "The symptoms began during the early stages of the infection. ",
+          "tr": "Belirtiler, enfeksiyonun erken evrelerinde başladı. "
+        },
+        {
+          "level": "B2",
+          "en": "The protest movement began during the economic crisis of 2001. ",
+          "tr": "Protesto hareketi, 2001 ekonomik krizi sırasında başladı. "
+        },
+        {
+          "level": "C1",
+          "en": "The volcanic activity began during the Ice Age. ",
+          "tr": "Volkanik faaliyet Buzul Çağı sırasında başladı. "
+        },
+        {
+          "level": "C2",
+          "en": "The background execution tasks will automatically begin as soon as the configuration cache checks complete. ",
+          "tr": "Yapılandırma önbelleği kontrolleri tamamlanır tamamlanmaz arka plan yürütme görevleri otomatik olarak başlayacaktır. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Let's begin the game.",
-        "tr": "Oyuna başlayalım."
-      },
-      "a2Cumle": {
-        "en": "The class will begin at nine.",
-        "tr": "Ders saat dokuzda başlayacak."
-      },
-      "b1Cumle": {
-        "en": "The symptoms began during the early stages of the infection.",
-        "tr": "Belirtiler, enfeksiyonun erken evrelerinde başladı."
-      },
-      "b2Cumle": {
-        "en": "The protest movement began during the economic crisis of 2001.",
-        "tr": "Protesto hareketi, 2001 ekonomik krizi sırasında başladı."
-      },
-      "c1Cumle": {
-        "en": "The volcanic activity began during the Ice Age.",
-        "tr": "Volkanik faaliyet Buzul Çağı sırasında başladı."
-      },
-      "c2Cumle": {
-        "en": "The background execution tasks will automatically begin as soon as the configuration cache checks complete.",
-        "tr": "Yapılandırma önbelleği kontrolleri tamamlanır tamamlanmaz arka plan yürütme görevleri otomatik olarak başlayacaktır."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "start ",
+        "commence ",
+        "initiate "
+      ]
     }
   },
   {
-    "id": "w_block",
-    "tip": "KELIME",
-    "hedefDil": "Block",
-    "anaDil": "Engellemek, Tıkamak",
-    "okunusFonetik": "blok",
-    "cagrisimAnahtari": "Blok (Bina Bloku)",
-    "sozlukAnlami": "Block: to prevent movement through something or to stop something from happening or progressing. (Bir şeyin içinden geçişi engellemek, tıkanıklık oluşturmak veya bir şeyin gerçekleşmesini/ilerlemesini durdurmak.)",
-    "hafizaHikayesi": "Şantiyeye devrilen devasa beton blok, ana yolu tamamen kapatarak araçların geçişini engellemek ve trafiği tıkamak krizine yol açtı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_block",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Block ",
+      "phonetic_tr": "blok ",
+      "pos": "KELIME ",
+      "dict_info": "Block: to prevent movement through something or to stop something from happening or progressing. (Bir şeyin içinden geçişi engellemek, tıkanıklık oluşturmak veya bir şeyin gerçekleşmesini/ilerlemesini durdurmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "obstruct",
-        "clog",
-        "bar"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Engellemek, Tıkamak ",
+      "mnemonic": {
+        "phonetic_keyword": "Blok (Bina Bloku) ",
+        "story": "Şantiyeye devrilen devasa beton blok, ana yolu tamamen kapatarak araçların geçişini engellemek ve trafiği tıkamak krizine yol açtı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Do not block my view. ",
+          "tr": "Görüşümü engellemeyin. "
+        },
+        {
+          "level": "A2",
+          "en": "The fallen tree blocks the road. ",
+          "tr": "Devrilen ağaç yolu engelliyor. "
+        },
+        {
+          "level": "B1",
+          "en": "The tumor blocked the airway until recently. ",
+          "tr": "Tümör, yakın zamana kadar solunum yolunu tıkadı. "
+        },
+        {
+          "level": "B2",
+          "en": "Authorities blocked access to the area during the early stages of the conflict. ",
+          "tr": "Yetkililer, çatışmanın erken evrelerinde bölgeye erişimi engelledi. "
+        },
+        {
+          "level": "C1",
+          "en": "The ice sheets blocked river flow during the last glacial period. ",
+          "tr": "Buz tabakaları, son buzul çağı sırasında nehir akışını engelledi. "
+        },
+        {
+          "level": "C2",
+          "en": "Any operating system firewall rule can potentially block the required database network socket requests. ",
+          "tr": "Herhangi bir işletim sistemi güvenlik duvarı kuralı, gerekli veritabanı ağ soketi isteklerini potansiyel olarak engelleyebilir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Do not block my view.",
-        "tr": "Görüşümü engellemeyin."
-      },
-      "a2Cumle": {
-        "en": "The fallen tree blocks the road.",
-        "tr": "Devrilen ağaç yolu engelliyor."
-      },
-      "b1Cumle": {
-        "en": "The tumor blocked the airway until recently.",
-        "tr": "Tümör, yakın zamana kadar solunum yolunu tıkadı."
-      },
-      "b2Cumle": {
-        "en": "Authorities blocked access to the area during the early stages of the conflict.",
-        "tr": "Yetkililer, çatışmanın erken evrelerinde bölgeye erişimi engelledi."
-      },
-      "c1Cumle": {
-        "en": "The ice sheets blocked river flow during the last glacial period.",
-        "tr": "Buz tabakaları, son buzul çağı sırasında nehir akışını engelledi."
-      },
-      "c2Cumle": {
-        "en": "Any operating system firewall rule can potentially block the required database network socket requests.",
-        "tr": "Herhangi bir işletim sistemi güvenlik duvarı kuralı, gerekli veritabanı ağ soketi isteklerini potansiyel olarak engelleyebilir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "obstruct ",
+        "clog ",
+        "bar "
+      ]
     }
   },
   {
-    "id": "w_blur",
-    "tip": "KELIME",
-    "hedefDil": "Blur",
-    "anaDil": "Bulanıklaştırmak",
-    "okunusFonetik": "blör",
-    "cagrisimAnahtari": "Blörf (Blöf Yapmak)",
-    "sozlukAnlami": "Blur: to make something difficult to see, or to make the differences between two things less clear. (Bir şeyin görülmesini zorlaştırmak veya iki şey arasındaki farkı daha az net hale getirmek, bulanıklaştırmak.)",
-    "hafizaHikayesi": "Kumarbaz masada sürekli blörf yaparak rakiplerinin kafasını karıştırmaya ve kartların netliğini zihinlerinde bulanıklaştırmak adımı atmaya çalıştı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_blur",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Blur ",
+      "phonetic_tr": "blör ",
+      "pos": "KELIME ",
+      "dict_info": "Blur: to make something difficult to see, or to make the differences between two things less clear. (Bir şeyin görülmesini zorlaştırmak veya iki şey arasındaki farkı daha az net hale getirmek, bulanıklaştırmak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "obscure",
-        "smudge",
-        "dim"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Bulanıklaştırmak ",
+      "mnemonic": {
+        "phonetic_keyword": "Blörf (Blöf Yapmak) ",
+        "story": "Kumarbaz masada sürekli blörf yaparak rakiplerinin kafasını karıştırmaya ve kartların netliğini zihinlerinde bulanıklaştırmak adımı atmaya çalıştı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "The camera lens can blur the background. ",
+          "tr": "Kamera merceği arka planı bulanıklaştırabilir. "
+        },
+        {
+          "level": "A2",
+          "en": "Tears blurred her vision. ",
+          "tr": "Gözyaşları görüşünü bulanıklaştırdı. "
+        },
+        {
+          "level": "B1",
+          "en": "The medication blurred the patient's vision during the first few hours. ",
+          "tr": "İlaç, ilk birkaç saat boyunca hastanın görmesini bulanıklaştırdı. "
+        },
+        {
+          "level": "B2",
+          "en": "Media coverage blurred the distinction between fact and opinion during the crisis. ",
+          "tr": "Medya haberleri, kriz sırasında gerçek ve yorum arasındaki farkı bulanıklaştırdı. "
+        },
+        {
+          "level": "C1",
+          "en": "The dust storms blurred the satellite images during the Martian spring. ",
+          "tr": "Toz fırtınaları, Mars baharı sırasında uydu görüntülerini bulanıklaştırdı. "
+        },
+        {
+          "level": "C2",
+          "en": "High-velocity motion presets within the 2D skeletal system might unintentionally blur vector texture edges across high resolutions. ",
+          "tr": "2D iskelet sistemi içindeki yüksek hızlı hareket ön ayarları, yüksek çözünürlüklerde vektör doku kenarlarını kasıtsız olarak bulanıklaştırabilir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "The camera lens can blur the background.",
-        "tr": "Kamera merceği arka planı bulanıklaştırabilir."
-      },
-      "a2Cumle": {
-        "en": "Tears blurred her vision.",
-        "tr": "Gözyaşları görüşünü bulanıklaştırdı."
-      },
-      "b1Cumle": {
-        "en": "The medication blurred the patient's vision during the first few hours.",
-        "tr": "İlaç, ilk birkaç saat boyunca hastanın görmesini bulanıklaştırdı."
-      },
-      "b2Cumle": {
-        "en": "Media coverage blurred the distinction between fact and opinion during the crisis.",
-        "tr": "Medya haberleri, kriz sırasında gerçek ve yorum arasındaki farkı bulanıklaştırdı."
-      },
-      "c1Cumle": {
-        "en": "The dust storms blurred the satellite images during the Martian spring.",
-        "tr": "Toz fırtınaları, Mars baharı sırasında uydu görüntülerini bulanıklaştırdı."
-      },
-      "c2Cumle": {
-        "en": "High-velocity motion presets within the 2D skeletal system might unintentionally blur vector texture edges across high resolutions.",
-        "tr": "2D iskelet sistemi içindeki yüksek hızlı hareket ön ayarları, yüksek çözünürlüklerde vektör doku kenarlarını kasıtsız olarak bulanıklaştırabilir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "obscure ",
+        "smudge ",
+        "dim "
+      ]
     }
   },
   {
-    "id": "w_boost",
-    "tip": "KELIME",
-    "hedefDil": "Boost",
-    "anaDil": "Arttırmak, Güçlendirmek",
-    "okunusFonetik": "bust",
-    "cagrisimAnahtari": "Büst (Heykel Büstü)",
-    "sozlukAnlami": "Boost: to improve or increase something, or to make something higher or better. (Bir şeyi geliştirmek, artırmak, daha yüksek veya daha iyi hale getirmek, güçlendirmek.)",
-    "hafizaHikayesi": "Müze müdürü, meydana yerleştirilen tarihi büst sayesinde serginin popülaritesini ve ziyaretçi sayısını hızla arttırmak ve imajı güçlendirmek başarısını elde etti.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_boost",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Boost ",
+      "phonetic_tr": "bust ",
+      "pos": "KELIME ",
+      "dict_info": "Boost: to improve or increase something, or to make something higher or better. (Bir şeyi geliştirmek, artırmak, daha yüksek veya daha iyi hale getirmek, güçlendirmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "increase",
-        "enhance",
-        "raise"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Arttırmak, Güçlendirmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Büst (Heykel Büstü) ",
+        "story": "Müze müdürü, meydana yerleştirilen tarihi büst sayesinde serginin popülaritesini ve ziyaretçi sayısını hızla arttırmak ve imajı güçlendirmek başarısını elde etti. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "This energy drink will boost your energy. ",
+          "tr": "Bu enerji içeceği enerjinizi artıracak / güçlendirecek. "
+        },
+        {
+          "level": "A2",
+          "en": "We need to boost our sales figures. ",
+          "tr": "Satış rakamlarımızı artırmamız gerekiyor. "
+        },
+        {
+          "level": "B1",
+          "en": "The new vaccine boosted immunity during outbreak. ",
+          "tr": "Yeni aşı, salgın sırasında bağışıklığı güçlendirdi. "
+        },
+        {
+          "level": "B2",
+          "en": "Government subsidies boosted employment during the Great Depression. ",
+          "tr": "Hükümet sübvansiyonları, Büyük Buhran sırasında istihdamı artırdı. "
+        },
+        {
+          "level": "C1",
+          "en": "Solar radiation boosted the plant's growth during the early spring. ",
+          "tr": "Güneş radyasyonu, erken ilkbahar döneminde bitkinin büyümesini artırdı. "
+        },
+        {
+          "level": "C2",
+          "en": "Leveraging parallel GPU rendering modules will significantly boost the frame rate of our world-building ecosystem. ",
+          "tr": "Paralel GPU işleme modüllerinden yararlanmak, dünya kurma ekosistemimizin kare hızını önemli ölçüde artıracaktır/güçlendirecektir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "This energy drink will boost your energy.",
-        "tr": "Bu enerji içeceği enerjinizi artıracak / güçlendirecek."
-      },
-      "a2Cumle": {
-        "en": "We need to boost our sales figures.",
-        "tr": "Satış rakamlarımızı artırmamız gerekiyor."
-      },
-      "b1Cumle": {
-        "en": "The new vaccine boosted immunity during outbreak.",
-        "tr": "Yeni aşı, salgın sırasında bağışıklığı güçlendirdi."
-      },
-      "b2Cumle": {
-        "en": "Government subsidies boosted employment during the Great Depression.",
-        "tr": "Hükümet sübvansiyonları, Büyük Buhran sırasında istihdamı artırdı."
-      },
-      "c1Cumle": {
-        "en": "Solar radiation boosted the plant's growth during the early spring.",
-        "tr": "Güneş radyasyonu, erken ilkbahar döneminde bitkinin büyümesini artırdı."
-      },
-      "c2Cumle": {
-        "en": "Leveraging parallel GPU rendering modules will significantly boost the frame rate of our world-building ecosystem.",
-        "tr": "Paralel GPU işleme modüllerinden yararlanmak, dünya kurma ekosistemimizin kare hızını önemli ölçüde artıracaktır/güçlendirecektir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "increase ",
+        "enhance ",
+        "raise "
+      ]
     }
   },
   {
-    "id": "w_capture",
-    "tip": "KELIME",
-    "hedefDil": "Capture",
-    "anaDil": "Yakalamak, Ele Geçirmek",
-    "okunusFonetik": "kep-çır",
-    "cagrisimAnahtari": "Kepçe (İş Makinesi Kepçesi)",
-    "sozlukAnlami": "Capture: to take someone as a prisoner, or to record an image or a sound successfully. (Birini esir almak, ele geçirmek veya bir resmi, sesi başarıyla kaydetmek/yakalamak.)",
-    "hafizaHikayesi": "İş makinesinin büyük kepçesi, bataklığa düşen kaçak aracın tekerleğini tık diye yakalamak ve suçluları ele geçirmek için kullanıldı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_capture",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Capture ",
+      "phonetic_tr": "kep-çır ",
+      "pos": "KELIME ",
+      "dict_info": "Capture: to take someone as a prisoner, or to record an image or a sound successfully. (Birini esir almak, ele geçirmek veya bir resmi, sesi başarıyla kaydetmek/yakalamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "catch",
-        "seize",
-        "arrest"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Yakalamak, Ele Geçirmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Kepçe (İş Makinesi Kepçesi) ",
+        "story": "İş makinesinin büyük kepçesi, bataklığa düşen kaçak aracın tekerleğini tık diye yakalamak ve suçluları ele geçirmek için kullanıldı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "The police tried to capture the thief. ",
+          "tr": "Polis hırsızı yakalamaya çalıştı. "
+        },
+        {
+          "level": "A2",
+          "en": "The camera captured the entire event. ",
+          "tr": "Kamera tüm olayı yakaladı. "
+        },
+        {
+          "level": "B1",
+          "en": "The imaging device captured detailed brain activity during the operation. ",
+          "tr": "Görüntüleme cihazı, ameliyat sırasında ayrıntılı beyin aktivitelerini yakaladı. "
+        },
+        {
+          "level": "B2",
+          "en": "The soldiers captured the rebel leader during the final days of the war. ",
+          "tr": "Askerler, savaşın son günlerinde isyancı lideri ele geçirdi. "
+        },
+        {
+          "level": "C1",
+          "en": "The telescope captured rare images of a supernova during the observation period. ",
+          "tr": "Teleskop, gözlem dönemi sırasında nadir bir süpernova görüntüsü yakaladı. "
+        },
+        {
+          "level": "C2",
+          "en": "Our advanced agricultural computer vision system can accurately capture leaf vein data points. ",
+          "tr": "Gelişmiş tarımsal bilgisayarlı görü sistemimiz yaprak damarı veri noktalarını doğru bir şekilde yakalayabilir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "The police tried to capture the thief.",
-        "tr": "Polis hırsızı yakalamaya çalıştı."
-      },
-      "a2Cumle": {
-        "en": "The camera captured the entire event.",
-        "tr": "Kamera tüm olayı yakaladı."
-      },
-      "b1Cumle": {
-        "en": "The imaging device captured detailed brain activity during the operation.",
-        "tr": "Görüntüleme cihazı, ameliyat sırasında ayrıntılı beyin aktivitelerini yakaladı."
-      },
-      "b2Cumle": {
-        "en": "The soldiers captured the rebel leader during the final days of the war.",
-        "tr": "Askerler, savaşın son günlerinde isyancı lideri ele geçirdi."
-      },
-      "c1Cumle": {
-        "en": "The telescope captured rare images of a supernova during the observation period.",
-        "tr": "Teleskop, gözlem dönemi sırasında nadir bir süpernova görüntüsü yakaladı."
-      },
-      "c2Cumle": {
-        "en": "Our advanced agricultural computer vision system can accurately capture leaf vein data points.",
-        "tr": "Gelişmiş tarımsal bilgisayarlı görü sistemimiz yaprak damarı veri noktalarını doğru bir şekilde yakalayabilir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "catch ",
+        "seize ",
+        "arrest "
+      ]
     }
   },
   {
-    "id": "w_celebrate",
-    "tip": "KELIME",
-    "hedefDil": "Celebrate",
-    "anaDil": "Kutlamak",
-    "okunusFonetik": "sel-e-breyt",
-    "cagrisimAnahtari": "Sel ve Berat (Berat Belgesi)",
-    "sozlukAnlami": "Celebrate: to take part in special enjoyable activities in order to show that a particular occasion is important. (Belirli bir günün önemini göstermek için eğlenceli etkinlikler yapmak, kutlamak.)",
-    "hafizaHikayesi": "Kasabayı basan sel sularından kurtulan kahraman itfaiyeciye başarı berat belgesi verilince, tüm halk meydanda toplanıp bunu kutlamak adımı attı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_celebrate",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Celebrate ",
+      "phonetic_tr": "sel-e-breyt ",
+      "pos": "KELIME ",
+      "dict_info": "Celebrate: to take part in special enjoyable activities in order to show that a particular occasion is important. (Belirli bir günün önemini göstermek için eğlenceli etkinlikler yapmak, kutlamak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "commemorate",
-        "observe",
-        "praise"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Kutlamak ",
+      "mnemonic": {
+        "phonetic_keyword": "Sel ve Berat (Berat Belgesi) ",
+        "story": "Kasabayı basan sel sularından kurtulan kahraman itfaiyeciye başarı berat belgesi verilince, tüm halk meydanda toplanıp bunu kutlamak adımı attı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "We gathered to celebrate her birthday. ",
+          "tr": "Doğum gününü kutlamak için toplandık. "
+        },
+        {
+          "level": "A2",
+          "en": "They like to celebrate small achievements. ",
+          "tr": "Küçük başarıları kutlamaktan hoşlanırlar. "
+        },
+        {
+          "level": "B1",
+          "en": "The hospital staff celebrated the recovery of the last COVID-19 patient during the ceremony last spring. ",
+          "tr": "Hastane personeli, geçen ilkbahardaki törende son COVID-19 hastasının iyileşmesini kutladı. "
+        },
+        {
+          "level": "B2",
+          "en": "People celebrated the end of the monarchy during the early years of the republic. ",
+          "tr": "Halk, cumhuriyetin ilk yıllarında monarşinin sona erişini kutladı. "
+        },
+        {
+          "level": "C1",
+          "en": "Scientists celebrated the discovery of a new element during the international conference in 2017. ",
+          "tr": "Bilim insanları, 2017'deki uluslararası konferans sırasında yeni bir elementin keşfini kutladı. "
+        },
+        {
+          "level": "C2",
+          "en": "The graphics department faculty gathered to celebrate the international symposium completion. ",
+          "tr": "Grafik bölümü fakültesi, uluslararası sempozyumun tamamlanmasını kutlamak için bir araya geldi. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "We gathered to celebrate her birthday.",
-        "tr": "Doğum gününü kutlamak için toplandık."
-      },
-      "a2Cumle": {
-        "en": "They like to celebrate small achievements.",
-        "tr": "Küçük başarıları kutlamaktan hoşlanırlar."
-      },
-      "b1Cumle": {
-        "en": "The hospital staff celebrated the recovery of the last COVID-19 patient during the ceremony last spring.",
-        "tr": "Hastane personeli, geçen ilkbahardaki törende son COVID-19 hastasının iyileşmesini kutladı."
-      },
-      "b2Cumle": {
-        "en": "People celebrated the end of the monarchy during the early years of the republic.",
-        "tr": "Halk, cumhuriyetin ilk yıllarında monarşinin sona erişini kutladı."
-      },
-      "c1Cumle": {
-        "en": "Scientists celebrated the discovery of a new element during the international conference in 2017.",
-        "tr": "Bilim insanları, 2017'deki uluslararası konferans sırasında yeni bir elementin keşfini kutladı."
-      },
-      "c2Cumle": {
-        "en": "The graphics department faculty gathered to celebrate the international symposium completion.",
-        "tr": "Grafik bölümü fakültesi, uluslararası sempozyumun tamamlanmasını kutlamak için bir araya geldi."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "commemorate ",
+        "observe ",
+        "praise "
+      ]
     }
   },
   {
-    "id": "w_challenge",
-    "tip": "KELIME",
-    "hedefDil": "Challenge",
-    "anaDil": "Zorlamak, Meydan Okumak",
-    "okunusFonetik": "çel-ınç",
-    "cagrisimAnahtari": "Çalınç (Zil Çalınması / Alarm)",
-    "sozlukAnlami": "Challenge: to test someone's ability, interest, or express disagreement with ideas. (Birinin yeteneğini, ilgisini test etmek, zorlamak veya mevcut fikirlere karşı çıkıp meydan okumak.)",
-    "hafizaHikayesi": "Fabrikadaki büyük zil çalınç sesiyle ötmeye başlayınca, işçiler bu zorlu üretim rekorunu kırmak için birbirlerine meydan okumak yarışına girdiler.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_challenge",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Challenge ",
+      "phonetic_tr": "çel-ınç ",
+      "pos": "KELIME ",
+      "dict_info": "Challenge: to test someone's ability, interest, or express disagreement with ideas. (Birinin yeteneğini, ilgisini test etmek, zorlamak veya mevcut fikirlere karşı çıkıp meydan okumak.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "question",
-        "dare",
-        "confront"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Zorlamak, Meydan Okumak ",
+      "mnemonic": {
+        "phonetic_keyword": "Çalınç (Zil Çalınması / Alarm) ",
+        "story": "Fabrikadaki büyük zil çalınç sesiyle ötmeye başlayınca, işçiler bu zorlu üretim rekorunu kırmak için birbirlerine meydan okumak yarışına girdiler. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "The game was a fun challenge. ",
+          "tr": "Oyun eğlenceli bir zorluktu/meydan okumaydı. "
+        },
+        {
+          "level": "A2",
+          "en": "This new project will challenge our skills. ",
+          "tr": "Bu yeni proje yeteneklerimizi zorlayacak. "
+        },
+        {
+          "level": "B1",
+          "en": "The athlete had never been challenged by such a severe injury before the accident. ",
+          "tr": "Kazadan önce sporcu, bu kadar ciddi bir sakatlıkla hiç zorlanmamıştı. "
+        },
+        {
+          "level": "B2",
+          "en": "The new policy had challenged traditional gender roles before it was repealed. ",
+          "tr": "Yeni politika, yürürlükten kaldırılmadan önce geleneksel cinsiyet rollerine meydan okumuştu. "
+        },
+        {
+          "level": "C1",
+          "en": "Scientists had already challenged the prevailing theory before the new evidence appeared. ",
+          "tr": "Yeni kanıtlar ortaya çıkmadan önce bilim insanları mevcut teoriye zaten meydan okumuştu. "
+        },
+        {
+          "level": "C2",
+          "en": "Developing Marion to directly challenge Spine Pro requires pristine code structures. ",
+          "tr": "Spine Pro'ya doğrudan meydan okumak için Marion'u geliştirmek, bozulmamış kod yapıları gerektirir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "The game was a fun challenge.",
-        "tr": "Oyun eğlenceli bir zorluktu/meydan okumaydı."
-      },
-      "a2Cumle": {
-        "en": "This new project will challenge our skills.",
-        "tr": "Bu yeni proje yeteneklerimizi zorlayacak."
-      },
-      "b1Cumle": {
-        "en": "The athlete had never been challenged by such a severe injury before the accident.",
-        "tr": "Kazadan önce sporcu, bu kadar ciddi bir sakatlıkla hiç zorlanmamıştı."
-      },
-      "b2Cumle": {
-        "en": "The new policy had challenged traditional gender roles before it was repealed.",
-        "tr": "Yeni politika, yürürlükten kaldırılmadan önce geleneksel cinsiyet rollerine meydan okumuştu."
-      },
-      "c1Cumle": {
-        "en": "Scientists had already challenged the prevailing theory before the new evidence appeared.",
-        "tr": "Yeni kanıtlar ortaya çıkmadan önce bilim insanları mevcut teoriye zaten meydan okumuştu."
-      },
-      "c2Cumle": {
-        "en": "Developing Marion to directly challenge Spine Pro requires pristine code structures.",
-        "tr": "Spine Pro'ya doğrudan meydan okumak için Marion'u geliştirmek, bozulmamış kod yapıları gerektirir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "question ",
+        "dare ",
+        "confront "
+      ]
     }
   },
   {
-    "id": "w_change",
-    "tip": "KELIME",
-    "hedefDil": "Change",
-    "anaDil": "Değişmek, Değiştirmek",
-    "okunusFonetik": "çeynç",
-    "cagrisimAnahtari": "Çenç (Sahte/Değiştirilmiş Araç)",
-    "sozlukAnlami": "Change: to make or become different, or to exchange one thing for another. (Farklı hale getirmek veya gelmek, ya da bir şeyi diğeriyle değiştirmek/takas etmek.)",
-    "hafizaHikayesi": "Polisler sanayideki çenç aracı inceleyince, suçluların motor numarasını tamamen değiştirmek hatasını yaptıklarını fark ettiler.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_change",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Change ",
+      "phonetic_tr": "çeynç ",
+      "pos": "KELIME ",
+      "dict_info": "Change: to make or become different, or to exchange one thing for another. (Farklı hale getirmek veya gelmek, ya da bir şeyi diğeriyle değiştirmek/takas etmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "alter",
-        "modify",
-        "transform"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Değişmek, Değiştirmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Çenç (Sahte/Değiştirilmiş Araç) ",
+        "story": "Polisler sanayideki çenç aracı inceleyince, suçluların motor numarasını tamamen değiştirmek hatasını yaptıklarını fark ettiler. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "I want to change my clothes. ",
+          "tr": "Kıyafetlerimi değiştirmek istiyorum. "
+        },
+        {
+          "level": "A2",
+          "en": "The weather will change tomorrow. ",
+          "tr": "Hava yarın değişecek. "
+        },
+        {
+          "level": "B1",
+          "en": "The patient's condition had changed significantly by the time the doctor arrived. ",
+          "tr": "Doktor geldiğinde hastanın durumu önemli ölçüde değişmişti. "
+        },
+        {
+          "level": "B2",
+          "en": "Society had changed dramatically after the introduction of the internet. ",
+          "tr": "İnternetin tanıtılmasından sonra toplum büyük ölçüde değişmişti. "
+        },
+        {
+          "level": "C1",
+          "en": "The chemical had changed color before it was removed from the heat. ",
+          "tr": "Kimyasal, ısıdan alınmadan önce rengini değiştirmişti. "
+        },
+        {
+          "level": "C2",
+          "en": "We will change our layout codebase from dynamic system parameters to static style templates. ",
+          "tr": "Düzen kod tabanımızı dinamik sistem parametrelerinden statik stil şablonlarına değiştireceğiz. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "I want to change my clothes.",
-        "tr": "Kıyafetlerimi değiştirmek istiyorum."
-      },
-      "a2Cumle": {
-        "en": "The weather will change tomorrow.",
-        "tr": "Hava yarın değişecek."
-      },
-      "b1Cumle": {
-        "en": "The patient's condition had changed significantly by the time the doctor arrived.",
-        "tr": "Doktor geldiğinde hastanın durumu önemli ölçüde değişmişti."
-      },
-      "b2Cumle": {
-        "en": "Society had changed dramatically after the introduction of the internet.",
-        "tr": "İnternetin tanıtılmasından sonra toplum büyük ölçüde değişmişti."
-      },
-      "c1Cumle": {
-        "en": "The chemical had changed color before it was removed from the heat.",
-        "tr": "Kimyasal, ısıdan alınmadan önce rengini değiştirmişti."
-      },
-      "c2Cumle": {
-        "en": "We will change our layout codebase from dynamic system parameters to static style templates.",
-        "tr": "Düzen kod tabanımızı dinamik sistem parametrelerinden statik stil şablonlarına değiştireceğiz."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "alter ",
+        "modify ",
+        "transform "
+      ]
     }
   },
   {
-    "id": "w_check",
-    "tip": "KELIME",
-    "hedefDil": "Check",
-    "anaDil": "Kontrol Etmek",
-    "okunusFonetik": "çek",
-    "cagrisimAnahtari": "Banka Çeki",
-    "sozlukAnlami": "Check: to examine something to ensure its correctness, safety, or quality. (Doğruluğundan, güvenliğinden veya kalitesinden emin olmak için bir şeyi incelemek, kontrol etmek.)",
-    "hafizaHikayesi": "İş adamı elindeki yüklü banka çeki numarasını doğrulamak için bankayı arayarak hesabı titizlikle kontrol etmek kararı aldı.",
-    "aiImageUrl": "",
-    "meta": {
-      "anaSeviyeCEFR": "A1",
-      "isAWL": true,
-      "sinavModulleri": [
-        "YDS",
-        "YOKDIL_SOSYAL"
+    "word_id": "w_check",
+    "target_lang": "en",
+    "source_lang": "tr",
+    "core": {
+      "word": "Check ",
+      "phonetic_tr": "çek ",
+      "pos": "KELIME ",
+      "dict_info": "Check: to examine something to ensure its correctness, safety, or quality. (Doğruluğundan, güvenliğinden veya kalitesinden emin olmak için bir şeyi incelemek, kontrol etmek.) ",
+      "domain_flags": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
       ],
-      "esAnlamlilar": [
-        "verify",
-        "examine",
-        "inspect"
+      "image_url": "",
+      "localized_tr_image_prompt": null
+    },
+    "l10n_tr": {
+      "translation": "Kontrol Etmek ",
+      "mnemonic": {
+        "phonetic_keyword": "Banka Çeki ",
+        "story": "İş adamı elindeki yüklü banka çeki numarasını doğrulamak için bankayı arayarak hesabı titizlikle kontrol etmek kararı aldı. "
+      },
+      "sentences": [
+        {
+          "level": "A1",
+          "en": "Check the answer sheet, please. ",
+          "tr": "Cevap kağıdını kontrol edin, lütfen. "
+        },
+        {
+          "level": "A2",
+          "en": "Please check your work carefully. ",
+          "tr": "Lütfen çalışmanızı dikkatlice kontrol edin. "
+        },
+        {
+          "level": "B1",
+          "en": "The nurse had checked the patient's blood pressure before administering the medication. ",
+          "tr": "Hemşire, ilacı vermeden önce hastanın tansiyonunu kontrol etmişti. "
+        },
+        {
+          "level": "B2",
+          "en": "The inspector had checked the school's compliance with safety rules before the visit ended. ",
+          "tr": "Müfettiş, ziyaret sona ermeden önce okulun güvenlik kurallarına uyumunu kontrol etmişti. "
+        },
+        {
+          "level": "C1",
+          "en": "The researcher had checked the calibration of the device before starting the experiment. ",
+          "tr": "Araştırmacı, deneye başlamadan önce cihazın kalibrasyonunu kontrol etmişti. "
+        },
+        {
+          "level": "C2",
+          "en": "The system framework must recursively check if local tables match the centralized user state database schemas. ",
+          "tr": "Sistem çerçevesi, yerel tabloların merkezi kullanıcı durumu veritabanı şemalarıyla eşleşip eşleşmediğini özyinelemeli olarak kontrol etmelidir. "
+        }
       ]
     },
-    "cumleler": {
-      "a1Cumle": {
-        "en": "Check the answer sheet, please.",
-        "tr": "Cevap kağıdını kontrol edin, lütfen."
-      },
-      "a2Cumle": {
-        "en": "Please check your work carefully.",
-        "tr": "Lütfen çalışmanızı dikkatlice kontrol edin."
-      },
-      "b1Cumle": {
-        "en": "The nurse had checked the patient's blood pressure before administering the medication.",
-        "tr": "Hemşire, ilacı vermeden önce hastanın tansiyonunu kontrol etmişti."
-      },
-      "b2Cumle": {
-        "en": "The inspector had checked the school's compliance with safety rules before the visit ended.",
-        "tr": "Müfettiş, ziyaret sona ermeden önce okulun güvenlik kurallarına uyumunu kontrol etmişti."
-      },
-      "c1Cumle": {
-        "en": "The researcher had checked the calibration of the device before starting the experiment.",
-        "tr": "Araştırmacı, deneye başlamadan önce cihazın kalibrasyonunu kontrol etmişti."
-      },
-      "c2Cumle": {
-        "en": "The system framework must recursively check if local tables match the centralized user state database schemas.",
-        "tr": "Sistem çerçevesi, yerel tabloların merkezi kullanıcı durumu veritabanı şemalarıyla eşleşip eşleşmediğini özyinelemeli olarak kontrol etmelidir."
-      }
+    "metadata": {
+      "anaSeviyeCEFR ": "A1 ",
+      "isAWL ": true,
+      "sinavModulleri ": [
+        "YDS ",
+        "YOKDIL_SOSYAL "
+      ],
+      "esAnlamlilar ": [
+        "verify ",
+        "examine ",
+        "inspect "
+      ]
     }
   }
 ]
