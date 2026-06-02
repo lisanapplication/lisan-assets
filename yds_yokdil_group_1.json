@@ -1172,75 +1172,76 @@
       ]
     }
   },
-  {
-    "word_id": "w_admit_2",
-    "target_lang": "en",
-    "source_lang": "tr",
-    "core": {
-      "word": "Admit ",
-      "phonetic_tr": "ed-mit ",
-      "pos": "KELIME ",
-      "dict_info": "Admit: to agree that something is true, especially unwillingly; or to confess. (Bir şeyin doğru olduğunu, özellikle de isteksizce kabul etmek veya itiraf etmek.) ",
-      "domain_flags": [
-        "YDS ",
-        "YOKDIL_SOSYAL "
-      ],
-      "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/18Admit.webp ",
-      "localized_tr_image_prompt": null
-    },
-    "l10n_tr": {
-      "translation": "Kabul Etmek, İtiraf Etmek ",
-      "mnemonic": {
-        "phonetic_keyword": "Edip ve MİT (Tekrarlanan Kelime) ",
-        "story": "MİT ajanı Edip, gizli görev belgelerini kaybettiğini amirine itiraf etti ve cezasını sessizce kabul etmek durumunda kaldı. "
-      },
-      "sentences": [
-        {
-          "level": "A1",
-          "en": "I admit that I was wrong. ",
-          "tr": "Hatalı olduğumu kabul ediyorum. "
-        },
-        {
-          "level": "A2",
-          "en": "He had to admit his error. ",
-          "tr": "Hatasını kabul etmek zorunda kaldı. "
-        },
-        {
-          "level": "B1",
-          "en": "More people admit the link between diet and mental health. ",
-          "tr": "Günümüzde daha fazla insan, beslenme ile ruh sağlığı arasındaki bağlantıyı kabul ediyor. "
-        },
-        {
-          "level": "B2",
-          "en": "Recently, leaders have admitted past policies failed to protect the environment. ",
-          "tr": "Son zamanlarda liderler, geçmiş politikaların çevreyi korumada başarısız olduğunu kabul ediyor. "
-        },
-        {
-          "level": "C1",
-          "en": "So far, some researchers have admitted gaps in their previous methodologies. ",
-          "tr": "Şimdiye kadar bazı araştırmacılar önceki yöntemlerindeki eksiklikleri kabul ediyor. "
-        },
-        {
-          "level": "C2",
-          "en": "The developers had to admit that the rendering of text assets within ImGui layout was thoroughly suboptimal. ",
-          "tr": "Geliştiriciler, ImGui düzeni içindeki metin varlıklarının işlenmesinin tamamen yetersiz olduğunu kabul etmek zorunda kaldılar. "
-        }
-      ]
-    },
-    "metadata": {
-      "anaSeviyeCEFR ": "A1 ",
-      "isAWL ": true,
-      "sinavModulleri ": [
-        "YDS ",
-        "YOKDIL_SOSYAL "
-      ],
-      "esAnlamlilar ": [
-        "confess ",
-        "accept ",
-        "concede "
-      ]
-    }
+{
+  "word_id": "w_advise_2",
+  "target_lang": "en",
+  "source_lang": "tr",
+  "core": {
+    "word": "Advise",
+    "phonetic_tr": "ed-vayz",
+    "pos": "FİİL",
+    "dict_info": "Advise: to give someone advice; to recommend or suggest. (Birine tavsiyede bulunmak; önermek veya öğüt vermek.)",
+    "domain_flags": [
+      "YDS",
+      "YOKDIL_SOSYAL"
+    ],
+    "image_url": "https://raw.githubusercontent.com/lisanapplication/lisan-assets/YdsYokdilVerbs/images/Advise.webp",
+    "localized_tr_image_prompt": null
   },
+  "l10n_tr": {
+    "translation": "Tavsiye Etmek, Öğüt Vermek",
+    "mnemonic": {
+      "phonetic_keyword": "Edi ve Vazo",
+      "story": "Antikacı Edi, dükkanına gelen müşteriye o çok değerli vazoyu almasını şiddetle tavsiye etti."
+    },
+    "sentences": [
+      {
+        "level": "A1",
+        "en": "I advise you to go home.",
+        "tr": "Eve gitmeni tavsiye ederim."
+      },
+      {
+        "level": "A2",
+        "en": "The doctor advised him to rest for a few days.",
+        "tr": "Doktor ona birkaç gün dinlenmesini tavsiye etti."
+      },
+      {
+        "level": "B1",
+        "en": "My teachers always advise me to practice my English vocabulary every day.",
+        "tr": "Öğretmenlerim bana her zaman İngilizce kelime dağarcığım için her gün pratik yapmamı tavsiye eder."
+      },
+      {
+        "level": "B2",
+        "en": "Experts advise that integrating AR and VR technologies can profoundly transform traditional artwork production.",
+        "tr": "Uzmanlar, AR ve VR teknolojilerini entegre etmenin geleneksel sanat eseri üretimini derinden dönüştürebileceğini tavsiye (ifade) ediyor."
+      },
+      {
+        "level": "C1",
+        "en": "Given the intricacies of 2D skeletal animation, I would strongly advise structuring the Marion project around a modern UI framework.",
+        "tr": "2B iskelet animasyonunun incelikleri göz önüne alındığında, Marion projesini modern bir kullanıcı arayüzü altyapısı etrafında yapılandırmanızı şiddetle tavsiye ederim."
+      },
+      {
+        "level": "C2",
+        "en": "Before deploying procedural terrain plugins on the GPU, developers are strictly advised to optimize their compute shaders to prevent rendering bottlenecks.",
+        "tr": "Prosedürel arazi eklentilerini GPU üzerinde devreye almadan önce, geliştiricilerin işleme (render) darboğazlarını önlemek adına hesaplama gölgelendiricilerini (compute shader) optimize etmeleri kesinlikle tavsiye edilir."
+      }
+    ]
+  },
+  "metadata": {
+    "anaSeviyeCEFR": "B1",
+    "isAWL": false,
+    "sinavModulleri": [
+      "YDS",
+      "YOKDIL_SOSYAL"
+    ],
+    "esAnlamlilar": [
+      "recommend",
+      "suggest",
+      "counsel",
+      "urge"
+    ]
+  }
+},
   {
     "word_id": "w_adopt",
     "target_lang": "en",
@@ -1261,7 +1262,7 @@
       "translation": "Benimsemek, Kabul Etmek ",
       "mnemonic": {
         "phonetic_keyword": "Edip ve Kot ",
-        "story": "Tasarımcı Edip yeni moda çizgili kot tasarımlarını koleksiyonuna katmayı ve bu tarzı hızla benimsemek fikrini kabul etmek kararı verdi. "
+        "story": "Tasarımcı Edip yeni moda çizgili kot tasarımlarını koleksiyonuna kattı ve bu tarz hızla benimsendi fikrini fikrin doğruluğunu birçok kişi kabul etti. "
       },
       "sentences": [
         {
@@ -1330,7 +1331,7 @@
       "translation": "Kötüleşmek, Ağırlaştırmak ",
       "mnemonic": {
         "phonetic_keyword": "Ege ve Kravat ",
-        "story": "Ege boğazı ağrırken sıkı bir kravat takınca hastalığı tırmandı ve boğazındaki enfeksiyon durumunu ağırlaştırmak hatasını yaptı. "
+        "story": "Ege boğazı ağrırken sıkı bir kravat takınca hastalığı tırmandı ve boğazındaki enfeksiyon dahada ağırlaşı. "
       },
       "sentences": [
         {
@@ -1399,7 +1400,7 @@
       "translation": "Katılmak, Aynı Fikirde Olmak ",
       "mnemonic": {
         "phonetic_keyword": "Eğri ",
-        "story": "Mimar tahtaya eğri bir çizgi çizip 'Bence bu duvar böyle kıvrılmalı' deyince, mühendisler de ona katılmak kararı verdi ve aynı fikirde olmak üzere el sıkıştılar. "
+        "story": "Mimar tahtaya eğri bir çizgi çizip 'Bence bu duvar böyle eğilmeli' deyince, mühendisler de ona katılarak aynı fikirde olduklarını söylediler. "
       },
       "sentences": [
         {
@@ -1468,7 +1469,7 @@
       "translation": "Yabancılaştırmak, Uzaklaştırmak ",
       "mnemonic": {
         "phonetic_keyword": "Alien (Uzaylı) ve Net ",
-        "story": "Kasabaya gelen alien (uzaylı) net bir şekilde konuşamayınca, köylüler korkup onu kendilerinden hızla uzaklaştırmak ve yabancılaştırmak yolunu seçtiler. "
+        "story": "Kasabaya gelen barışcıl alien (uzaylı) iletişime geçmek istedi, fakat köylüler korkup onu kendilerinden hızla uzaklaştırdı ve ona yardım eden köylüleride dışlayıp kendilerine yabancılaştırdılar. "
       },
       "sentences": [
         {
@@ -1537,7 +1538,7 @@
       "translation": "Hafifletmek, Azaltmak ",
       "mnemonic": {
         "phonetic_keyword": "Ali ve niyet (Niyet Etmek) ",
-        "story": "Hasta Ali, oruç tutmaya niyet etmek isteyince doktor ağrılarını hafifletmek ve acısını azaltmak için ona özel bir iğne yaptı. "
+        "story": "Hasta Ali amca, oruç tutmaya niyet etmek isteyince doktor ağrılarını hafifletmek ve acısını azaltmak için ona özel bir iğne yaptı. "
       },
       "sentences": [
         {
@@ -1606,7 +1607,7 @@
       "translation": "Tahsis Etmek, Ayırmak ",
       "mnemonic": {
         "phonetic_keyword": "Alo ve Paket (Alo Paket) ",
-        "story": "Restoran sahibi alo paket sipariş hattı kuryelerine bütçeden yeni motosikletler almak için büyük bir pay tahsis etmek ve ödenek ayırmak kararı aldı. "
+        "story": "Restoran sahibi, alo paket sipariş hattı kuryelerine bütçeden yeni motosikletler almak için büyük bir pay tahsis etti ve ödenek ayırdı. "
       },
       "sentences": [
         {
@@ -1675,7 +1676,7 @@
       "translation": "İzin Vermek, Olanak Tanımak ",
       "mnemonic": {
         "phonetic_keyword": "El ve Av ",
-        "story": "Ormancı el işaretiyle avcı ekibine bu bölgede avlanmaları için resmi olarak izin vermek ve onlara olanak tanımak işaretini yaptı. "
+        "story": "Ormancı el işaretiyle avcı ekibine bu bölgede avlanmaları için resmi olarak izin verdiğini ve olanak tanıdığını ima etti. "
       },
       "sentences": [
         {
